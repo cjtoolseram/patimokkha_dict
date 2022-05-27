@@ -1,0 +1,50 @@
+[
+  {
+    "abbrev":"PA 10",
+    "source":"pathavīkhaṇanasikkhāpadaṃ",
+    "sentence":"yo pana bhikkhu pathaviṃ khaṇeyya vā khaṇāpeyya vā pācittiyaṃ.",
+    "bhikkhupātimokkhapāḷi":"paṭhaviṃ",
+    "pos":"noun",
+    "grammar":"fem acc sg of paṭhavī",
+    "+case":"",
+    "meaning":"earth, ground",
+    "lit. meaning":"",
+    "root":"√path",
+    "base":"",
+    "construction":"√path + avī",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"PA 10",
+    "source":"pathavīkhaṇanasikkhāpadaṃ",
+    "sentence":"yo pana bhikkhu pathaviṃ khaṇeyya vā khaṇāpeyya vā pācittiyaṃ.",
+    "bhikkhupātimokkhapāḷi":"khaṇeyya",
+    "pos":"verb",
+    "grammar":"opt 3rd sg of khaṇati",
+    "+case":"",
+    "meaning":"he would dig",
+    "lit. meaning":"",
+    "root":"√khaṇ (to dig)",
+    "base":"√khaṇ + a > khaṇa",
+    "construction":"khaṇa + ti",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"PA 10",
+    "source":"pathavīkhaṇanasikkhāpadaṃ",
+    "sentence":"yo pana bhikkhu pathaviṃ khaṇeyya vā khaṇāpeyya vā pācittiyaṃ.",
+    "bhikkhupātimokkhapāḷi":"khaṇāpeyya",
+    "pos":"verb",
+    "grammar":"opt 3rd sg of khaṇāpeti",
+    "+case":"",
+    "meaning":"he would make () dig",
+    "lit. meaning":"",
+    "root":"√khaṇ (to dig)",
+    "base":"√khaṇ + *āpe > khaṇāpe",
+    "construction":"khaṇāpe + ti",
+    "compound type":"",
+    "compound construction":""
+  }
+]

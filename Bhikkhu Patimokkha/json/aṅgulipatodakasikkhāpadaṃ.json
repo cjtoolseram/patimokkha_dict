@@ -1,0 +1,50 @@
+[
+  {
+    "abbrev":"PA 52",
+    "source":"aṅgulipatodakasikkhāpadaṃ",
+    "sentence":"aṅgulipatodake pācittiyaṃ.",
+    "bhikkhupātimokkhapāḷi":"aṅgulipatodake",
+    "pos":"noun",
+    "grammar":"nt loc sg of aṅgulipatodaka",
+    "+case":"",
+    "meaning":"in tickling",
+    "lit. meaning":"in finger stabbing",
+    "root":"",
+    "base":"",
+    "construction":"aṅguli + patodaka",
+    "compound type":"instrumental tappurisa",
+    "compound construction":"aṅguliyā + patodaka"
+  },
+  {
+    "abbrev":"PA 52",
+    "source":"aṅgulipatodakasikkhāpadaṃ",
+    "sentence":"aṅgulipatodake pācittiyaṃ.",
+    "bhikkhupātimokkhapāḷi":"- aṅguli",
+    "pos":"noun",
+    "grammar":"fem",
+    "+case":"",
+    "meaning":"finger",
+    "lit. meaning":"",
+    "root":"√añc (to bend)",
+    "base":"",
+    "construction":"√añc > aṅg + uli",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"PA 52",
+    "source":"aṅgulipatodakasikkhāpadaṃ",
+    "sentence":"aṅgulipatodake pācittiyaṃ.",
+    "bhikkhupātimokkhapāḷi":"- patodake",
+    "pos":"noun",
+    "grammar":"masc loc sg of patodaka",
+    "+case":"",
+    "meaning":"tickling",
+    "lit. meaning":"stabbing, poking",
+    "root":"√tud (prick, stab)",
+    "base":"",
+    "construction":"pa + √tud + *aka",
+    "compound type":"",
+    "compound construction":""
+  }
+]

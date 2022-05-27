@@ -1,0 +1,50 @@
+[
+  {
+    "abbrev":"PA 04",
+    "source":"padasodhammasikkhāpadaṃ",
+    "sentence":"yo pana bhikkhu anupasampannaṃ padaso dhammaṃ vāceyya, pācittiyaṃ.",
+    "bhikkhupātimokkhapāḷi":"anupasampannaṃ",
+    "pos":"noun",
+    "grammar":"masc acc sg of anupasampannaṃ",
+    "+case":"",
+    "meaning":"unordained person",
+    "lit. meaning":"not accomplished",
+    "root":"√pad (to go, step)",
+    "base":"",
+    "construction":"na + upa + saṃ + √pad + na",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"PA 04",
+    "source":"padasodhammasikkhāpadaṃ",
+    "sentence":"yo pana bhikkhu anupasampannaṃ padaso dhammaṃ vāceyya, pācittiyaṃ.",
+    "bhikkhupātimokkhapāḷi":"padaso",
+    "pos":"ind",
+    "grammar":"adv, abl sg of pada",
+    "+case":"",
+    "meaning":"line by line",
+    "lit. meaning":"from step",
+    "root":"√pad (to go, step)",
+    "base":"",
+    "construction":"√pad + a + so",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"PA 04",
+    "source":"padasodhammasikkhāpadaṃ",
+    "sentence":"yo pana bhikkhu anupasampannaṃ padaso dhammaṃ vāceyya, pācittiyaṃ.",
+    "bhikkhupātimokkhapāḷi":"vāceyya",
+    "pos":"verb",
+    "grammar":"opt 3rd sg of vāceti",
+    "+case":"",
+    "meaning":"he would cause to recite",
+    "lit. meaning":"",
+    "root":"√vac (to speak)",
+    "base":"√vac + *e > vāce",
+    "construction":"vāce + ti",
+    "compound type":"",
+    "compound construction":""
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "abbrev":"PA 41",
+    "source":"acelakasikkhāpadaṃ",
+    "sentence":"yo pana bhikkhu acelakassa vā paribbājakassa vā paribbājikāya vā sahatthā khādanīyaṃ vā bhojanīyaṃ vā dadeyya, pācittiyaṃ.",
+    "bhikkhupātimokkhapāḷi":"acelakassa",
+    "pos":"noun",
+    "grammar":"masc dat sg of acelaka",
+    "+case":"",
+    "meaning":"to a naked ascetic",
+    "lit. meaning":"no clothes",
+    "root":"√cil (cloth)",
+    "base":"",
+    "construction":"na + √cil + *aka",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"PA 41",
+    "source":"acelakasikkhāpadaṃ",
+    "sentence":"yo pana bhikkhu acelakassa vā paribbājakassa vā paribbājikāya vā sahatthā khādanīyaṃ vā bhojanīyaṃ vā dadeyya, pācittiyaṃ.",
+    "bhikkhupātimokkhapāḷi":"paribbājakassa",
+    "pos":"noun",
+    "grammar":"masc dat sg of paribbājaka",
+    "+case":"",
+    "meaning":"to a wandering ascetic",
+    "lit. meaning":"going around",
+    "root":"√vaj (to procede)",
+    "base":"",
+    "construction":"pari + √vaj + *aka",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"PA 41",
+    "source":"acelakasikkhāpadaṃ",
+    "sentence":"yo pana bhikkhu acelakassa vā paribbājakassa vā paribbājikāya vā sahatthā khādanīyaṃ vā bhojanīyaṃ vā dadeyya, pācittiyaṃ.",
+    "bhikkhupātimokkhapāḷi":"paribbājikāya",
+    "pos":"noun",
+    "grammar":"fem dat sg of paribbājikā",
+    "+case":"",
+    "meaning":"to a female wandering ascetic",
+    "lit. meaning":"going around",
+    "root":"√vaj (to procede)",
+    "base":"",
+    "construction":"pari + √vaj + *ikā",
+    "compound type":"",
+    "compound construction":""
+  }
+]

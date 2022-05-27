@@ -1,0 +1,50 @@
+[
+  {
+    "abbrev":"PA 01",
+    "source":"musāvādasikkhāpadaṃ",
+    "sentence":"sampajānamusāvāde pācittiyaṃ.",
+    "bhikkhupātimokkhapāḷi":"sampajānamusāvāde",
+    "pos":"noun",
+    "grammar":"masc loc sg of sampajānamusāvāda",
+    "+case":"",
+    "meaning":"in deliberate lying, intentional false speech",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"sampajāna + musāvāda",
+    "compound type":"kammadhāraya",
+    "compound construction":""
+  },
+  {
+    "abbrev":"PA 01",
+    "source":"musāvādasikkhāpadaṃ",
+    "sentence":"sampajānamusāvāde pācittiyaṃ.",
+    "bhikkhupātimokkhapāḷi":"- musāvāde",
+    "pos":"noun",
+    "grammar":"masc loc sg of musāvāda",
+    "+case":"",
+    "meaning":"in false speech, lying",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"musā + vāda",
+    "compound type":"kammadhāraya",
+    "compound construction":""
+  },
+  {
+    "abbrev":"PA 01",
+    "source":"musāvādasikkhāpadaṃ",
+    "sentence":"sampajānamusāvāde pācittiyaṃ.",
+    "bhikkhupātimokkhapāḷi":"- - vāde",
+    "pos":"noun",
+    "grammar":"masc loc sg of vāda",
+    "+case":"",
+    "meaning":"in speech, speaking",
+    "lit. meaning":"",
+    "root":"√vad (to speak)",
+    "base":"",
+    "construction":"√vad + *a",
+    "compound type":"",
+    "compound construction":""
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "abbrev":"PA 66",
+    "source":"theyyasatthasikkhāpadaṃ",
+    "sentence":"yo pana bhikkhu jānaṃ theyyasatthena saddhiṃ saṃvidhāya ek'addhānamaggaṃ paṭipajjeyya antamaso gāmantaram'pi, pācittiyaṃ.",
+    "bhikkhupātimokkhapāḷi":"theyyasatthena",
+    "pos":"noun",
+    "grammar":"masc instr sg of theyyasattha",
+    "+case":"",
+    "meaning":"with a caravan of thieves, party of thieves",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"theyya + sattha",
+    "compound type":"genitive tappurisa",
+    "compound construction":"theyyānaṃ + sattha"
+  },
+  {
+    "abbrev":"PA 66",
+    "source":"theyyasatthasikkhāpadaṃ",
+    "sentence":"yo pana bhikkhu jānaṃ theyyasatthena saddhiṃ saṃvidhāya ek'addhānamaggaṃ paṭipajjeyya antamaso gāmantaram'pi, pācittiyaṃ.",
+    "bhikkhupātimokkhapāḷi":"- theyya",
+    "pos":"noun",
+    "grammar":"masc",
+    "+case":"",
+    "meaning":"thief, robber",
+    "lit. meaning":"stealer",
+    "root":"√then (to steal)",
+    "base":"",
+    "construction":"√then + ya",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"PA 66",
+    "source":"theyyasatthasikkhāpadaṃ",
+    "sentence":"yo pana bhikkhu jānaṃ theyyasatthena saddhiṃ saṃvidhāya ek'addhānamaggaṃ paṭipajjeyya antamaso gāmantaram'pi, pācittiyaṃ.",
+    "bhikkhupātimokkhapāḷi":"- satthena",
+    "pos":"noun",
+    "grammar":"masc instr sg of sattha",
+    "+case":"",
+    "meaning":"with a caravan",
+    "lit. meaning":"",
+    "root":"√ar (to move, attain)",
+    "base":"",
+    "construction":"sa + √ar + tha",
+    "compound type":"",
+    "compound construction":""
+  }
+]

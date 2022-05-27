@@ -1,0 +1,50 @@
+[
+  {
+    "abbrev":"PA 21",
+    "source":"ovādasikkhāpadaṃ",
+    "sentence":"yo pana bhikkhu asammato bhikkhuniyo ovadeyya, pācittiyaṃ.",
+    "bhikkhupātimokkhapāḷi":"asammato",
+    "pos":"pp",
+    "grammar":"masc nom sg of asammata",
+    "+case":"",
+    "meaning":"not authorized, unappointed",
+    "lit. meaning":"not thought together",
+    "root":"√man (to think)",
+    "base":"",
+    "construction":"na + saṃ + √man + ta",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"PA 21",
+    "source":"ovādasikkhāpadaṃ",
+    "sentence":"yo pana bhikkhu asammato bhikkhuniyo ovadeyya, pācittiyaṃ.",
+    "bhikkhupātimokkhapāḷi":"bhikkhuniyo",
+    "pos":"noun",
+    "grammar":"fem acc pl of bhikkhunī",
+    "+case":"",
+    "meaning":"nuns",
+    "lit. meaning":"",
+    "root":"√bhikkh (to beg)",
+    "base":"",
+    "construction":"√bhikkh + u + nī",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"PA 21",
+    "source":"ovādasikkhāpadaṃ",
+    "sentence":"yo pana bhikkhu asammato bhikkhuniyo ovadeyya, pācittiyaṃ.",
+    "bhikkhupātimokkhapāḷi":"ovadeyya",
+    "pos":"verb",
+    "grammar":"opt 3rd sg of ovadati",
+    "+case":"",
+    "meaning":"admonishes, advises, instructs",
+    "lit. meaning":"",
+    "root":"√vad (to speak)",
+    "base":"√vad + a > vada",
+    "construction":"ava + vada + ti",
+    "compound type":"",
+    "compound construction":""
+  }
+]

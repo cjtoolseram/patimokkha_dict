@@ -1,0 +1,50 @@
+[
+  {
+    "abbrev":"PA 12",
+    "source":"aññavādakasikkhāpadaṃ",
+    "sentence":"aññavādake, vihesake pācittiyaṃ.",
+    "bhikkhupātimokkhapāḷi":"aññavādake",
+    "pos":"adj",
+    "grammar":"masc loc sg of aññavādaka",
+    "+case":"",
+    "meaning":"in evading; changing topic",
+    "lit. meaning":"speaking something else",
+    "root":"",
+    "base":"",
+    "construction":"añña + vādaka",
+    "compound type":"accusative tappurisa",
+    "compound construction":"aññaṃ + vādaka"
+  },
+  {
+    "abbrev":"PA 12",
+    "source":"aññavādakasikkhāpadaṃ",
+    "sentence":"aññavādake, vihesake pācittiyaṃ.",
+    "bhikkhupātimokkhapāḷi":"- vādake",
+    "pos":"adj",
+    "grammar":"masc loc sg of vādaka",
+    "+case":"",
+    "meaning":"in speaking, saying",
+    "lit. meaning":"",
+    "root":"√vad (to speak)",
+    "base":"",
+    "construction":"√vad + *aka",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"PA 12",
+    "source":"aññavādakasikkhāpadaṃ",
+    "sentence":"aññavādake, vihesake pācittiyaṃ.",
+    "bhikkhupātimokkhapāḷi":"vihesake",
+    "pos":"adj",
+    "grammar":"masc loc sg of vihesaka",
+    "+case":"",
+    "meaning":"in vexing with not answering",
+    "lit. meaning":"annoying; hurting",
+    "root":"√his (to hurt)",
+    "base":"",
+    "construction":"vi + √his + *aka",
+    "compound type":"",
+    "compound construction":""
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "abbrev":"PA 55",
+    "source":"bhiṃsāpanasikkhāpadaṃ",
+    "sentence":"yo pana bhikkhu bhikkhuṃ bhiṃsāpeyya, pācittiyaṃ.",
+    "bhikkhupātimokkhapāḷi":"bhiṃsāpeyya",
+    "pos":"verb",
+    "grammar":"opt 3rd sg of bhiṃsāpeti",
+    "+case":"",
+    "meaning":"he would frighten",
+    "lit. meaning":"would cause fear",
+    "root":"√bhis",
+    "base":"√bhis + ṃa + āpe > bhiṃsāpe",
+    "construction":"bhiṃsāpe + ti",
+    "compound type":"",
+    "compound construction":""
+  }
+]

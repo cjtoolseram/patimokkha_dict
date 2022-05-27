@@ -1,0 +1,50 @@
+[
+  {
+    "abbrev":"PA",
+    "source":"pācittiyā",
+    "sentence":"ime kho pan'āyasmanto dvenavuti pācittiyā dhammā uddesaṃ āgacchanti.",
+    "bhikkhupātimokkhapāḷi":"dvenavuti",
+    "pos":"cardinal",
+    "grammar":"fem nom sg",
+    "+case":"",
+    "meaning":"ninety two",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"dve + navuti",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"PA",
+    "source":"pācittiyā",
+    "sentence":"ime kho pan'āyasmanto dvenavuti pācittiyā dhammā uddesaṃ āgacchanti.",
+    "bhikkhupātimokkhapāḷi":"- dve",
+    "pos":"cardinal",
+    "grammar":"x nom pl",
+    "+case":"",
+    "meaning":"two",
+    "lit. meaning":"two",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"PA",
+    "source":"pācittiyā",
+    "sentence":"ime kho pan'āyasmanto dvenavuti pācittiyā dhammā uddesaṃ āgacchanti.",
+    "bhikkhupātimokkhapāḷi":"- navuti",
+    "pos":"cardinal",
+    "grammar":"fem nom sg",
+    "+case":"",
+    "meaning":"ninety",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"nava + dasa",
+    "compound type":"",
+    "compound construction":""
+  }
+]

@@ -966,14 +966,14 @@
     "bhikkhupātimokkhapāḷi":"- etaṃ",
     "pos":"pron",
     "grammar":"nt acc sg of eta",
-    "+case":"Err:522",
+    "+case":0,
     "meaning":"this",
-    "lit. meaning":"Err:522",
-    "root":"Err:522",
-    "base":"Err:522",
-    "construction":"Err:522",
-    "compound type":"Err:522",
-    "compound construction":"Err:522"
+    "lit. meaning":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound type":0,
+    "compound construction":0
   },
   {
     "abbrev":"SA 11",

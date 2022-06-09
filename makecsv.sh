@@ -2,7 +2,7 @@ echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
 echo "making csv with bold"
 echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
 
-python3 ods_to_csv.py "Pātimokkha Word by Word.ods" Sheet1 20
+# python3 ods_to_csv.py "Pātimokkha Word by Word.ods" Sheet1 20
 
 python3 ods-to-csv-headers.py "Pātimokkha Word by Word.ods" Sheet1 20
 

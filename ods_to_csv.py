@@ -9,6 +9,6 @@ def convert_dps_ods_to_csv():
     # df_convert_dps.rename(columns=df_convert_dps.iloc[0], inplace = True)
     # df_convert_dps.drop([0], inplace = True)
 
-    df_convert_dps.to_csv("Pātimokkha for Analisis.csv", sep="\t", index=None)
+    df_convert_dps.to_csv("Pātimokkha full.csv", sep="\t", index=None)
 
 convert_dps_ods_to_csv()

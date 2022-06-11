@@ -4,13 +4,10 @@ import json
 MAIN_DIR="Bhikkhu Patimokkha"
 DB_DIR=MAIN_DIR + "/json"
 
-df = pd.read_excel("Pātimokkha Word by Word.ods", engine="odf")
 sentences_file = open("ptmk_sentences.txt", "w")
 
-sources_json = (df[["source", "abbrev"]].ffill().drop_duplicates()).to_json(force_ascii=False, orient='records', indent=2)
-sources_json = json.loads(sources_json)
-
-print(sources_json)
+json_file = open(DB_DIR + "/sources.json")
+sources_json = json.load(json_file)
 
 for source_file in sources_json:
     sentences_file.write(source_file["abbrev"]+ "\t" + source_file["source"] + "\n")

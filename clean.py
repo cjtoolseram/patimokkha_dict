@@ -51,3 +51,14 @@ with open(f"clean_patimokka.txt", 'w') as save_file :
 
 input_file.close()
 save_file.close()
+
+with open(f"ptmk_sentences.txt", 'r') as ptmk_ods :
+	ptmk_ods_text = ptmk_ods.read()
+	
+ptmk_ods_text_clean = clean_machine(ptmk_ods_text)
+
+with open(f"clean_patimokka_ods.txt", 'w') as ptmk_ods_save :
+	ptmk_ods_save.write(ptmk_ods_text_clean)
+
+ptmk_ods.close()
+ptmk_ods_save.close()

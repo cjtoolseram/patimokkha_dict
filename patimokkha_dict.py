@@ -14,8 +14,10 @@ os.makedirs(MAIN_DIR, exist_ok=True)
 os.makedirs(DB_DIR, exist_ok=True)
 
 #store sources db as json format in "Bhikkhu Patimokkha/json"
-sources_json = (df[["source", "abbrev"]].ffill().drop_duplicates()).to_json(force_ascii=False, orient='records', indent=2)
-sources_json = json.loads(sources_json)
+sources_json = (df[["source", "abbrev"]].ffill().drop_duplicates()).to_json(DB_DIR + "/sources.json", force_ascii=False, orient='records', indent=2)
+json_file = open(DB_DIR + "/sources.json")
+sources_json = json.load(json_file)
+
 for sj in sources_json:
     os.makedirs(MAIN_DIR + "/" + sj["source"], exist_ok=True)
     result_df = df[df["source"] == sj["source"]]

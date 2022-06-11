@@ -1,8 +1,5 @@
-
-
-with open(f"patimokkhaSBS.txt", 'r') as input_file :
-		text = input_file.read()
-
+import pandas as pd
+import re
 
 def clean_machine(text):
 	text = text.lower()
@@ -44,4 +41,13 @@ def clean_machine(text):
 
 	return text
 
-text save as clean_patimokka.txt
+with open(f"patimokkhaSBS.txt", 'r') as input_file :
+	text = input_file.read()
+	
+clean_text = clean_machine(text)
+
+with open(f"clean_patimokka.txt", 'w') as save_file :
+	save_file.write(clean_text)
+
+input_file.close()
+save_file.close()

@@ -24,17 +24,6 @@ ni nidānuddeso
  pātimokkhaṃ 
  uddiseyya 
  
- ajjuposatho 
- cātuddaso 
- yadi 
- saṅghassa 
- pattakallaṃ 
- saṅgho 
- uposathaṃ 
- kareyya 
- pātimokkhaṃ 
- uddiseyya 
- 
  yadi 
  saṅghassa 
  pattakallaṃ 
@@ -129,10 +118,6 @@ ni nidānuddeso
  pucchāmi 
  kaccittha 
  parisuddhā 
- tatthāyasmante 
- pucchāmi 
- kaccittha 
- parisuddhā 
  dutiyampi 
  pucchāmi 
  kaccittha 
@@ -159,55 +144,6 @@ ni nidānuddeso
  uddesaṃ 
  āgacchanti 
  
- uddiṭṭhā 
- kho 
- āyasmanto 
- cattāro 
- pārājikā 
- dhammā 
- 
- 
- yesaṃ 
- bhikkhu 
- aññataraṃ 
- vā 
- aññataraṃ 
- vā 
- āpajjitvā 
- na 
- labhati 
- bhikkhūhi 
- saddhiṃ 
- saṃvāsaṃ 
- yathā 
- pure 
- tathā 
- pacchā 
- pārājiko 
- hoti 
- asaṃvāso 
- 
- tatthāyasmante 
- pucchāmi 
- kaccittha 
- parisuddhā 
- dutiyampi 
- pucchāmi 
- kaccittha 
- parisuddhā 
- tatiyampi 
- pucchāmi 
- kaccittha 
- parisuddhā 
- parisuddhetthāyasmanto 
- tasmā 
- tuṇhī 
- evametaṃ 
- dhārayāmīti 
- 
- pārājikuddeso 
- dutiyo 
- 
  
  pa methunadhamma 
  sikkhāpadaṃ 
@@ -228,7 +164,6 @@ ni nidānuddeso
  pārājiko 
  hoti 
  asaṃvāso 
- 
  
  
  pa adinnādānasikkhāpadaṃ 
@@ -267,7 +202,6 @@ ni nidānuddeso
  asaṃvāso 
  
  
- 
  pa manussaviggahasikkhāpadaṃ 
  yo 
  pana 
@@ -285,7 +219,6 @@ ni nidānuddeso
  maraṇāya 
  vā 
  samādapeyya 
- 
  ambho 
  purisa 
  kiṃ 
@@ -310,7 +243,6 @@ ni nidānuddeso
  pārājiko 
  hoti 
  asaṃvāso 
- 
  
  
  pa uttarimanussadhammasikkhāpadaṃ 
@@ -366,27 +298,12 @@ ni nidānuddeso
  asaṃvāso 
  
  
- 
- sa saṅghādisesuddeso 
- ime 
- kho 
- panāyasmanto 
- terasa 
- saṅghādisesā 
- dhammā 
- uddesaṃ 
- āgacchanti 
- 
  uddiṭṭhā 
  kho 
  āyasmanto 
- terasa 
- saṅghādisesā 
- dhammā 
- nava 
- paṭhamāpattikā 
  cattāro 
- yāvatatiyakā 
+ pārājikā 
+ dhammā 
  
  yesaṃ 
  bhikkhu 
@@ -395,57 +312,18 @@ ni nidānuddeso
  aññataraṃ 
  vā 
  āpajjitvā 
- yāvatīhaṃ 
- jānaṃ 
- paṭicchādeti 
- tāvatīhaṃ 
- tena 
- bhikkhunā 
- akāmā 
- parivatthabbaṃ 
- 
- parivutthaparivāsena 
- bhikkhunā 
- uttari 
- chārattaṃ 
- bhikkhumānattāya 
- paṭipajjitabbaṃ 
- parivutthaparivāsena 
- bhikkhunā 
- uttariṃ 
- chārattaṃ 
- bhikkhumānattāya 
- paṭipajjitabbaṃ 
- ciṇṇamānatto 
- bhikkhu 
- yattha 
- siyā 
- vīsatigaṇo 
- bhikkhusaṅgho 
- tattha 
- so 
- bhikkhu 
- abbhetabbo 
- 
- ekenapi 
- ce 
- ūno 
- vīsatigaṇo 
- bhikkhusaṅgho 
- taṃ 
- bhikkhuṃ 
- abbheyya 
- so 
- ca 
- bhikkhu 
- anabbhito 
- te 
- ca 
- bhikkhū 
- gārayhā 
- ayaṃ 
- tattha 
- sāmīci 
+ na 
+ labhati 
+ bhikkhūhi 
+ saddhiṃ 
+ saṃvāsaṃ 
+ yathā 
+ pure 
+ tathā 
+ pacchā 
+ pārājiko 
+ hoti 
+ asaṃvāso 
  
  tatthāyasmante 
  pucchāmi 
@@ -465,6 +343,18 @@ ni nidānuddeso
  evametaṃ 
  dhārayāmīti 
  
+ pārājikuddeso 
+ dutiyo 
+ 
+ sa saṅghādisesuddeso 
+ ime 
+ kho 
+ panāyasmanto 
+ terasa 
+ saṅghādisesā 
+ dhammā 
+ uddesaṃ 
+ āgacchanti 
  
  
  sa sukkavissaṭṭhisikkhāpadaṃ 
@@ -581,7 +471,6 @@ ni nidānuddeso
  attuddesaṃ 
  pamāṇikā 
  kāretabbā 
- 
  tatridaṃ 
  pamāṇaṃ 
  dīghaso 
@@ -630,7 +519,6 @@ ni nidānuddeso
  bhikkhū 
  abhinetabbā 
  vatthudesanāya 
- 
  tehi 
  bhikkhūhi 
  vatthu 
@@ -766,7 +654,6 @@ ni nidānuddeso
  samādāya 
  paggayha 
  aṭṭhāsi 
- 
  sametāyasmā 
  saṅghena 
  samaggo 
@@ -1139,17 +1026,6 @@ ni nidānuddeso
  saṅghādiseso 
  
  
- 
- sn saṅghādisesuddeso 
- ime 
- kho 
- panāyasmanto 
- terasa 
- saṅghādisesā 
- dhammā 
- uddesaṃ 
- āgacchanti 
- 
  uddiṭṭhā 
  kho 
  āyasmanto 
@@ -1249,32 +1125,6 @@ ni nidānuddeso
  dhammā 
  uddesaṃ 
  āgacchanti 
- 
- uddiṭṭhā 
- kho 
- āyasmanto 
- dve 
- aniyatā 
- dhammā 
- 
- tatthāyasmante 
- pucchāmi 
- kaccittha 
- parisuddhā 
- dutiyampi 
- pucchāmi 
- kaccittha 
- parisuddhā 
- tatiyampi 
- pucchāmi 
- kaccittha 
- parisuddhā 
- parisuddhetthāyasmanto 
- tasmā 
- tuṇhī 
- evametaṃ 
- dhārayāmīti 
- 
  
  
  an 
@@ -1402,24 +1252,11 @@ ni nidānuddeso
  aniyato 
  
  
- 
- np nissaggiyapācittiyā 
- ime 
- kho 
- panāyasmanto 
- tiṃsa 
- nissaggiyā 
- pācittiyā 
- dhammā 
- uddesaṃ 
- āgacchanti 
- 
  uddiṭṭhā 
  kho 
  āyasmanto 
- tiṃsa 
- nissaggiyā 
- pācittiyā 
+ dve 
+ aniyatā 
  dhammā 
  
  tatthāyasmante 
@@ -1440,11 +1277,17 @@ ni nidānuddeso
  evametaṃ 
  dhārayāmīti 
  
+ 
+ np nissaggiyapācittiyā 
+ ime 
+ kho 
+ panāyasmanto 
  tiṃsa 
  nissaggiyā 
  pācittiyā 
  dhammā 
- niṭṭhitā 
+ uddesaṃ 
+ āgacchanti 
  
  
  np 
@@ -2451,6 +2294,37 @@ ni nidānuddeso
  pācittiyaṃ 
  
  
+ uddiṭṭhā 
+ kho 
+ āyasmanto 
+ tiṃsa 
+ nissaggiyā 
+ pācittiyā 
+ dhammā 
+ 
+ tatthāyasmante 
+ pucchāmi 
+ kaccittha 
+ parisuddhā 
+ dutiyampi 
+ pucchāmi 
+ kaccittha 
+ parisuddhā 
+ tatiyampi 
+ pucchāmi 
+ kaccittha 
+ parisuddhā 
+ parisuddhetthāyasmanto 
+ tasmā 
+ tuṇhī 
+ evametaṃ 
+ dhārayāmīti 
+ 
+ tiṃsa 
+ nissaggiyā 
+ pācittiyā 
+ dhammā 
+ niṭṭhitā 
  
  pa pācittiyā 
  ime 

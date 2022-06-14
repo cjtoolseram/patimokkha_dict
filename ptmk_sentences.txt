@@ -3,7 +3,6 @@ namo tassa bhagavato arahato sammāsambuddhassa.
 suṇātu me bhante saṅgho
 suṇātu me āvuso saṅgho
 ajj'uposatho pannaraso, yadi saṅghassa pattakallaṃ, saṅgho uposathaṃ kareyya, pātimokkhaṃ uddiseyya.
-ajj'uposatho cātuddaso, yadi saṅghassa pattakallaṃ, saṅgho uposathaṃ kareyya, pātimokkhaṃ uddiseyya.
 yadi saṅghassa pattakallaṃ, saṅgho uposathaṃ kareyya, pātimokkhaṃ uddiseyya.
 kiṃ saṅghassa pubbakiccaṃ?
 
@@ -18,7 +17,6 @@ tasmā saramānena bhikkhunā āpannena visuddh'āpekkhena santī āpatti āvik�
 āvikatā h'issa phāsu hoti.
 uddiṭṭhaṃ kho āyasmanto nidānaṃ.
 tatth'āyasmante pucchāmi, kacci'ttha parisuddhā
-tatth'āyasmante pucchāmi, kacc'ittha parisuddhā
 dutiyam'pi pucchāmi, kacci'ttha parisuddhā
 tatiyam'pi pucchāmi, kacci'ttha parisuddhā
 parisuddh'etth'āyasmanto, tasmā tuṇhī, evam'etaṃ dhārayāmī'ti.
@@ -27,21 +25,10 @@ nidān'uddeso paṭhamo
 
 PA	pārājikuddeso
 tatr'ime cattāro pārājikā dhammā uddesaṃ āgacchanti.
-uddiṭṭhā kho āyasmanto cattāro pārājikā dhammā.
-
-yesaṃ bhikkhu aññataraṃ vā aññataraṃ vā āpajjitvā na labhati bhikkhūhi saddhiṃ saṃvāsaṃ
-yathā pure, tathā pacchā, pārājiko hoti asaṃvāso.
-tatth'āyasmante pucchāmi, kacci'ttha parisuddhā
-dutiyam'pi pucchāmi, kacci'ttha parisuddhā
-tatiyam'pi pucchāmi, kacci'ttha parisuddhā
-parisuddh'etth'āyasmanto, tasmā tuṇhī, evam'etaṃ dhārayāmī'ti.
-pārājikuddeso dutiyo
-
 
 PA1	methunadhamma sikkhāpadaṃ
 yo pana bhikkhu bhikkhūnaṃ sikkhāsājīvasamāpanno sikkhaṃ appaccakkhāya dubbalyaṃ anāvikatvā
 methunaṃ dhammaṃ paṭiseveyya, antamaso tiracchānagatāya'pi, pārājiko hoti asaṃvāso.
-
 
 PA2	adinnādānasikkhāpadaṃ
 yo pana bhikkhu gāmā vā araññā vā adinnaṃ theyyasaṅkhātaṃ ādiyeyya
@@ -49,15 +36,12 @@ yathārūpe adinn'ādāne rājāno coraṃ gahetvā haneyyuṃ vā bandheyyuṃ 
 coro'si bālo'si mūḷho'si theno'sī'ti
 tathārūpaṃ bhikkhu adinnaṃ ādiyamāno ayam'pi pārājiko hoti asaṃvāso.
 
-
 PA3	manussaviggahasikkhāpadaṃ
 yo pana bhikkhu sañcicca manussaviggahaṃ jīvitā voropeyya, satthahārakaṃ v'āssa pariyeseyya
 maraṇavaṇṇaṃ vā saṃvaṇṇeyya, maraṇāya vā samādapeyya
-
 ambho purisa kiṃ tuyh'iminā pāpakena dujjīvitena, mataṃ te jīvitā seyyo'ti
 iti cittamano cittasaṅkappo anekapariyāyena maraṇavaṇṇaṃ vā saṃvaṇṇeyya, maraṇāya vā samādapeyya
 ayam'pi pārājiko hoti asaṃvāso.
-
 
 PA4	uttarimanussadhammasikkhāpadaṃ
 yo pana bhikkhu anabhijānaṃ uttarimanussadhammaṃ att'ūpanāyikaṃ alam'ariyañāṇadassanaṃ samudācareyya iti jānāmi, iti passāmī'ti
@@ -66,18 +50,17 @@ tato aparena samayena samanuggāhīyamāno vā asamanuggāhīyamāno vā āpanno
 ajānam'evaṃ āvuso avacaṃ jānāmi, apassaṃ passāmi, tucchaṃ musā vilapin'ti
 aññatra adhimānā, ayam'pi pārājiko hoti asaṃvāso.
 
+uddiṭṭhā kho āyasmanto cattāro pārājikā dhammā.
+yesaṃ bhikkhu aññataraṃ vā aññataraṃ vā āpajjitvā na labhati bhikkhūhi saddhiṃ saṃvāsaṃ
+yathā pure, tathā pacchā, pārājiko hoti asaṃvāso.
+tatth'āyasmante pucchāmi, kacci'ttha parisuddhā
+dutiyam'pi pucchāmi, kacci'ttha parisuddhā
+tatiyam'pi pucchāmi, kacci'ttha parisuddhā
+parisuddh'etth'āyasmanto, tasmā tuṇhī, evam'etaṃ dhārayāmī'ti.
+pārājikuddeso dutiyo
 
 SA	saṅghādisesuddeso
 ime kho pan'āyasmanto terasa saṅghādisesā dhammā uddesaṃ āgacchanti.
-uddiṭṭhā kho āyasmanto terasa saṅghādisesā dhammā nava paṭham'āpattikā, cattāro yāvatatiyakā.
-yesaṃ bhikkhu aññataraṃ vā aññataraṃ vā āpajjitvā yāvat'īhaṃ jānaṃ paṭicchādeti, tāvat'īhaṃ tena bhikkhunā akāmā parivatthabbaṃ.
-parivutthaparivāsena bhikkhunā uttari chārattaṃ bhikkhumānattāya paṭipajjitabbaṃ
-parivutthaparivāsena bhikkhunā uttariṃ chārattaṃ bhikkhumānattāya paṭipajjitabbaṃ
-ciṇṇamānatto bhikkhu yattha siyā vīsatigaṇo bhikkhusaṅgho, tattha so bhikkhu abbhetabbo.
-ekena'pi ce ūno vīsatigaṇo bhikkhusaṅgho taṃ bhikkhuṃ abbheyya, so ca bhikkhu anabbhito, te ca bhikkhū gārayhā, ayaṃ tattha sāmīci.
-tatth'āyasmante pucchāmi, kacci'ttha parisuddhā, dutiyam'pi pucchāmi, kacci'ttha parisuddhā, tatiyam'pi pucchāmi, kacci'ttha parisuddhā
-parisuddh'etth'āyasmanto, tasmā tuṇhī, evam'etaṃ dhārayāmī'ti.
-
 
 SA1	sukkavissaṭṭhisikkhāpadaṃ
 sañcetanikā sukkavissaṭṭhi aññatra supin'antā saṅghādiseso.
@@ -106,7 +89,6 @@ jāyattane vā jārattane vā, antamaso taṅkhaṇikāya'pi, saṅghādiseso.
 
 SA6	kuṭikārasikkhāpadaṃ
 saññācikāya pana bhikkhunā kuṭiṃ kārayamānena assāmikaṃ att'uddesaṃ pamāṇikā kāretabbā
-
 tatr'idaṃ pamāṇaṃ, dīghaso dvādasa vidatthiyo sugatavidatthiyā, tiriyaṃ satt'antarā
 bhikkhū abhinetabbā vatthudesanāya, tehi bhikkhūhi vatthu desetabbaṃ anārambhaṃ saparikkamanaṃ.
 sārambhe ce bhikkhu vatthusmiṃ aparikkamane saññācikāya kuṭiṃ kāreyya
@@ -115,7 +97,6 @@ bhikkhū vā anabhineyya vatthudesanāya, pamāṇaṃ vā atikkāmeyya, saṅgh
 
 SA7	vihārakārasikkhāpadaṃ
 mahallakaṃ pana bhikkhunā vihāraṃ kārayamānena sassāmikaṃ att'uddesaṃ bhikkhū abhinetabbā vatthudesanāya
-
 tehi bhikkhūhi vatthu desetabbaṃ anārambhaṃ saparikkamanaṃ
 sārambhe ce bhikkhu vatthusmiṃ aparikkamane mahallakaṃ vihāraṃ kāreyya, bhikkhū vā anabhineyya vatthudesanāya, saṅghādiseso.
 
@@ -138,7 +119,6 @@ SA10	saṅghabhedasikkhāpadaṃ
 yo pana bhikkhu samaggassa saṅghassa bhedāya parakkameyya, bhedanasaṃvattanikaṃ vā adhikaraṇaṃ samādāya paggayha tiṭṭheyya
 so bhikkhu bhikkhūhi evam'assa vacanīyo
 m'āyasmā samaggassa saṅghassa bhedāya parakkami, bhedanasaṃvattanikaṃ vā adhikaraṇaṃ samādāya paggayha aṭṭhāsi
-
 samet'āyasmā saṅghena, samaggo hi saṅgho sammodamāno avivadamāno ek'uddeso phāsu viharatī'ti
 evañ'ca so bhikkhu bhikkhūhi vuccamāno tath'eva paggaṇheyya
 so bhikkhu bhikkhūhi yāvatatiyaṃ samanubhāsitabbo tassa paṭinissaggāya
@@ -186,9 +166,6 @@ m'āyasmā evaṃ avaca, na ca bhikkhū chandagāmino, na ca bhikkhū dosagāmin
 evañ'ca so bhikkhu bhikkhūhi vuccamāno tath'eva paggaṇheyya, so bhikkhu bhikkhūhi yāvatatiyaṃ samanubhāsitabbo tassa paṭinissaggāya
 yāvatatiyañ'ce samanubhāsiyamāno taṃ paṭinissajjeyya, icc'etaṃ kusalaṃ, no ce paṭinissajjeyya, saṅghādiseso.
 
-
-SN	saṅghādisesuddeso
-ime kho pan'āyasmanto terasa saṅghādisesā dhammā uddesaṃ āgacchanti.
 uddiṭṭhā kho āyasmanto terasa saṅghādisesā dhammā nava paṭham'āpattikā, cattāro yāvatatiyakā.
 yesaṃ bhikkhu aññataraṃ vā aññataraṃ vā āpajjitvā yāvat'īhaṃ jānaṃ paṭicchādeti, tāvat'īhaṃ tena bhikkhunā akāmā parivatthabbaṃ.
 parivutthaparivāsena bhikkhunā uttari chārattaṃ bhikkhumānattāya paṭipajjitabbaṃ
@@ -201,10 +178,6 @@ parisuddh'etth'āyasmanto, tasmā tuṇhī, evam'etaṃ dhārayāmī'ti.
 
 AN	aniyatuddeso
 ime kho pan'āyasmanto dve aniyatā dhammā uddesaṃ āgacchanti.
-uddiṭṭhā kho āyasmanto dve aniyatā dhammā.
-tatth'āyasmante pucchāmi, kacci'ttha parisuddhā, dutiyam'pi pucchāmi, kacci'ttha parisuddhā, tatiyam'pi pucchāmi, kacci'ttha parisuddhā
-parisuddh'etth'āyasmanto, tasmā tuṇhī, evam'etaṃ dhārayāmī'ti.
-
 
 AN 1	paṭhamaaniyatasikkhāpadaṃ
 yo pana bhikkhu mātugāmena saddhiṃ eko ekāya raho paṭicchanne āsane alaṃkammaniye nisajjaṃ kappeyya
@@ -220,12 +193,12 @@ tam'enaṃ saddheyyavacasā upāsikā disvā dvinnaṃ dhammānaṃ aññatarena
 nisajjaṃ bhikkhu paṭijānamāno dvinnaṃ dhammānaṃ aññatarena kāretabbo, saṅghādisesena vā pācittiyena vā
 yena vā sā saddheyyavacasā upāsikā vadeyya, tena so bhikkhu kāretabbo, ayam'pi dhammo aniyato.
 
+uddiṭṭhā kho āyasmanto dve aniyatā dhammā.
+tatth'āyasmante pucchāmi, kacci'ttha parisuddhā, dutiyam'pi pucchāmi, kacci'ttha parisuddhā, tatiyam'pi pucchāmi, kacci'ttha parisuddhā
+parisuddh'etth'āyasmanto, tasmā tuṇhī, evam'etaṃ dhārayāmī'ti.
 
 NP	nissaggiyapācittiyā
 ime kho pan'āyasmanto tiṃsa nissaggiyā pācittiyā dhammā uddesaṃ āgacchanti.
-uddiṭṭhā kho āyasmanto tiṃsa nissaggiyā pācittiyā dhammā. tatth'āyasmante pucchāmi, kacci'ttha parisuddhā, dutiyam'pi pucchāmi, kacci'ttha parisuddhā, tatiyam'pi pucchāmi, kacci'ttha parisuddhā, parisuddh'etth'āyasmanto, tasmā tuṇhī, evam'etaṃ dhārayāmī'ti.
-tiṃsa nissaggiyā pācittiyā dhammā niṭṭhitā
-
 
 NP 1	kathinasikkhāpadaṃ
 niṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kathine das'āhaparamaṃ atirekacīvaraṃ dhāretabbaṃ, taṃ atikkāmayato nissaggiyaṃ pācittiyaṃ.
@@ -395,6 +368,8 @@ tato ce uttari vippavaseyya aññatra bhikkhusammutiyā, nissaggiyaṃ pācittiy
 NP 30	pariṇatasikkhāpadaṃ
 yo pana bhikkhu jānaṃ saṅghikaṃ lābhaṃ pariṇataṃ attano pariṇāmeyya, nissaggiyaṃ pācittiyaṃ.
 
+uddiṭṭhā kho āyasmanto tiṃsa nissaggiyā pācittiyā dhammā. tatth'āyasmante pucchāmi, kacci'ttha parisuddhā, dutiyam'pi pucchāmi, kacci'ttha parisuddhā, tatiyam'pi pucchāmi, kacci'ttha parisuddhā, parisuddh'etth'āyasmanto, tasmā tuṇhī, evam'etaṃ dhārayāmī'ti.
+tiṃsa nissaggiyā pācittiyā dhammā niṭṭhitā
 
 PA	pācittiyā
 ime kho pan'āyasmanto dvenavuti pācittiyā dhammā uddesaṃ āgacchanti.

@@ -76,3 +76,14 @@ with open(f"clean_patTHAI.txt", 'w') as ptmk_THAI_save :
 
 ptmk_THAI.close()
 ptmk_THAI_save.close()
+
+with open(f"Nyanatusita.txt", 'r') as ptmk_Nyanatusita :
+	ptmk_Nyanatusita_text = ptmk_Nyanatusita.read()
+	
+ptmk_Nyanatusita_text_clean = clean_machine(ptmk_Nyanatusita_text)
+
+with open(f"clean_patNyanatusita.txt", 'w') as ptmk_Nyanatusita_save :
+	ptmk_Nyanatusita_save.write(ptmk_Nyanatusita_text_clean)
+
+ptmk_Nyanatusita.close()
+ptmk_Nyanatusita_save.close()

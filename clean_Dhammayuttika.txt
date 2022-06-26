@@ -288,8 +288,8 @@
  u 
  
  p 
- fi 
- ≥ 
+ ā 
+ ṭ 
  i 
  m 
  o 
@@ -297,7 +297,7 @@
  k 
  h 
  a 
- π 
+ ṃ 
  
  namo 
  tassa 
@@ -1160,7 +1160,7 @@
  attānaṃ 
  karotu 
  
- fiyasmāpi 
+ āyasmāpi 
  bhikkhū 
  vadetu 
  sahadhammena 
@@ -1243,12 +1243,12 @@
  bhikkhūhi 
  evamassa 
  vacanīyo 
- fiyasmā 
+ āyasmā 
  kho 
  kuladūsako 
  pāpasamācāro 
  
- fiyasmato 
+ āyasmato 
  kho 
  pāpakā 
  samācārā 
@@ -1327,12 +1327,12 @@
  bhikkhū 
  bhayagāmino 
  
- fiyasmā 
+ āyasmā 
  kho 
  kuladūsako 
  pāpasamācāro 
  
- fiyasmato 
+ āyasmato 
  kho 
  pāpakā 
  samācārā 
@@ -2563,7 +2563,7 @@
  uddissa 
  vīyati 
  
- fiyatañca 
+ āyatañca 
  karotha 
  vitthatañca 
  appitañca 
@@ -3105,7 +3105,7 @@
  bhikkhu 
  evaṃ 
  vadeyya 
- fimisahetu 
+ āmisahetu 
  bhikkhū 
  bhikkhuniyo 
  ovadantīti 

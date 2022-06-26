@@ -1,20 +1,13 @@
-ni nidānuddeso 
- namo 
- tassa 
- bhagavato 
- arahato 
- sammāsambuddhassa 
+
+ nidānuddeso 
+ 
  
  suṇātu 
  me 
  bhante 
  saṅgho 
- suṇātu 
- me 
- āvuso 
- saṅgho 
  ajjuposatho 
- pannaraso 
+ paṇṇaraso 
  yadi 
  saṅghassa 
  pattakallaṃ 
@@ -24,41 +17,39 @@ ni nidānuddeso
  pātimokkhaṃ 
  uddiseyya 
  
- yadi 
- saṅghassa 
- pattakallaṃ 
- saṅgho 
- uposathaṃ 
- kareyya 
- pātimokkhaṃ 
- uddiseyya 
  
  kiṃ 
  saṅghassa 
  pubbakiccaṃ 
- 
  pārisuddhiṃ 
  āyasmanto 
  ārocetha 
+ 
+ 
  pātimokkhaṃ 
  uddisissāmi 
+ 
  taṃ 
- sabbeva 
+ sabbe 
+ va 
  santā 
  sādhukaṃ 
  suṇoma 
- manasi 
- karoma 
+ manasikaroma 
+ 
  
  yassa 
  siyā 
  āpatti 
  so 
  āvikareyya 
+ 
  asantiyā 
  āpattiyā 
  tuṇhī 
+ 
  bhavitabbaṃ 
+ 
  tuṇhībhāvena 
  kho 
  panāyasmante 
@@ -75,19 +66,22 @@ ni nidānuddeso
  evarūpāya 
  parisāya 
  yāvatatiyaṃ 
- anusāvitaṃ 
+ anussāvitaṃ 
  hoti 
+ 
  yo 
  pana 
  bhikkhu 
  yāvatatiyaṃ 
- anusāviyamāne 
+ anussāviyamāne 
  saramāno 
  santiṃ 
+ 
  āpattiṃ 
  nāvikareyya 
  sampajānamusāvādassa 
  hoti 
+ 
  
  sampajānamusāvādo 
  kho 
@@ -96,6 +90,7 @@ ni nidānuddeso
  dhammo 
  vutto 
  bhagavatā 
+ 
  tasmā 
  saramānena 
  bhikkhunā 
@@ -109,34 +104,47 @@ ni nidānuddeso
  phāsu 
  hoti 
  
+ 
+ 
  uddiṭṭhaṃ 
  kho 
  āyasmanto 
  nidānaṃ 
  
+ 
  tatthāyasmante 
  pucchāmi 
  kaccittha 
  parisuddhā 
+ 
  dutiyampi 
  pucchāmi 
  kaccittha 
  parisuddhā 
+ 
  tatiyampi 
  pucchāmi 
  kaccittha 
  parisuddhā 
+ 
  parisuddhetthāyasmanto 
  tasmā 
  tuṇhī 
  evametaṃ 
- dhārayāmīti 
- 
- nidānuddeso 
- paṭhamo 
+ dhārayāmi 
  
  
- pa pārājikuddeso 
+ nidānaṃ niṭṭhitaṃ 
+ 
+  
+ 
+ nidānanuddeso niṭṭhito 
+ 
+  
+ 
+ 
+ pārājikuddeso 
+ 
  tatrime 
  cattāro 
  pārājikā 
@@ -145,19 +153,23 @@ ni nidānuddeso
  āgacchanti 
  
  
- pa methunadhamma 
- sikkhāpadaṃ 
+ 
+ pārājika 
+ 
+ 
  yo 
  pana 
  bhikkhu 
  bhikkhūnaṃ 
  sikkhāsājīvasamāpanno 
  sikkhaṃ 
+ 
  appaccakkhāya 
  dubbalyaṃ 
  anāvikatvā 
  methunaṃ 
  dhammaṃ 
+ 
  paṭiseveyya 
  antamaso 
  tiracchānagatāyapi 
@@ -166,7 +178,9 @@ ni nidānuddeso
  asaṃvāso 
  
  
- pa adinnādānasikkhāpadaṃ 
+ pārājika 
+ 
+ 
  yo 
  pana 
  bhikkhu 
@@ -176,6 +190,7 @@ ni nidānuddeso
  vā 
  adinnaṃ 
  theyyasaṅkhātaṃ 
+ 
  ādiyeyya 
  yathārūpe 
  adinnādāne 
@@ -183,6 +198,7 @@ ni nidānuddeso
  coraṃ 
  gahetvā 
  haneyyuṃ 
+ 
  vā 
  bandheyyuṃ 
  vā 
@@ -202,7 +218,9 @@ ni nidānuddeso
  asaṃvāso 
  
  
- pa manussaviggahasikkhāpadaṃ 
+ pārājika 
+ 
+ 
  yo 
  pana 
  bhikkhu 
@@ -215,6 +233,7 @@ ni nidānuddeso
  pariyeseyya 
  maraṇavaṇṇaṃ 
  vā 
+ 
  saṃvaṇṇeyya 
  maraṇāya 
  vā 
@@ -222,11 +241,11 @@ ni nidānuddeso
  ambho 
  purisa 
  kiṃ 
+ 
  tuyhiminā 
  pāpakena 
  dujjīvitena 
- mataṃ 
- te 
+ matante 
  jīvitā 
  seyyoti 
  iti 
@@ -235,6 +254,7 @@ ni nidānuddeso
  anekapariyāyena 
  maraṇavaṇṇaṃ 
  vā 
+ 
  saṃvaṇṇeyya 
  maraṇāya 
  vā 
@@ -245,25 +265,16 @@ ni nidānuddeso
  asaṃvāso 
  
  
- pa uttarimanussadhammasikkhāpadaṃ 
+ pārājika 
+ 
+ 
  yo 
  pana 
  bhikkhu 
  anabhijānaṃ 
  uttarimanussadhammaṃ 
+ 
  attūpanāyikaṃ 
- alamariyañāṇadassanaṃ 
- samudācareyya 
- iti 
- jānāmi 
- iti 
- passāmīti 
- yo 
- pana 
- bhikkhu 
- anabhijānaṃ 
- uttarimanussadhammaṃ 
- attupanāyikaṃ 
  alamariyañāṇadassanaṃ 
  samudācareyya 
  iti 
@@ -273,29 +284,35 @@ ni nidānuddeso
  tato 
  aparena 
  samayena 
- samanuggāhīyamāno 
+ 
+ samanuggāhiyamāno 
  vā 
- asamanuggāhīyamāno 
+ asamanuggāhiyamāno 
  vā 
  āpanno 
+ 
  visuddhāpekkho 
  evaṃ 
  vadeyya 
- ajānamevaṃ 
+ ajānamevāhaṃ 
  āvuso 
  avacaṃ 
  jānāmi 
+ 
  apassaṃ 
  passāmi 
+ 
  tucchaṃ 
  musā 
  vilapinti 
+ 
  aññatra 
  adhimānā 
  ayampi 
  pārājiko 
  hoti 
  asaṃvāso 
+ 
  
  
  uddiṭṭhā 
@@ -306,6 +323,7 @@ ni nidānuddeso
  dhammā 
  
  yesaṃ 
+ 
  bhikkhu 
  aññataraṃ 
  vā 
@@ -317,6 +335,7 @@ ni nidānuddeso
  bhikkhūhi 
  saddhiṃ 
  saṃvāsaṃ 
+ 
  yathā 
  pure 
  tathā 
@@ -325,28 +344,44 @@ ni nidānuddeso
  hoti 
  asaṃvāso 
  
+ 
  tatthāyasmante 
  pucchāmi 
  kaccittha 
  parisuddhā 
+ 
  dutiyampi 
  pucchāmi 
  kaccittha 
  parisuddhā 
+ 
  tatiyampi 
  pucchāmi 
  kaccittha 
  parisuddhā 
+ 
  parisuddhetthāyasmanto 
  tasmā 
  tuṇhī 
  evametaṃ 
- dhārayāmīti 
+ dhārayāmi 
  
- pārājikuddeso 
- dutiyo 
  
- sa saṅghādisesuddeso 
+ cattāro 
+ pārājikā 
+ niṭṭhitā 
+ 
+  
+ 
+ pārājikuddeso niṭṭhito 
+ 
+  
+ 
+ 
+ 
+ saṅghādisesuddeso 
+ 
+ 
  ime 
  kho 
  panāyasmanto 
@@ -357,16 +392,19 @@ ni nidānuddeso
  āgacchanti 
  
  
- sa sukkavissaṭṭhisikkhāpadaṃ 
+ saṅghādisesa 
+ 
+ 
  sañcetanikā 
- sukkavissaṭṭhi 
+ sukkavisaṭṭhi 
  aññatra 
  supinantā 
  saṅghādiseso 
  
  
+ saṅghādisesa 
  
- sa kāyasaṃsaggasikkhāpadaṃ 
+ 
  yo 
  pana 
  bhikkhu 
@@ -377,9 +415,10 @@ ni nidānuddeso
  saddhiṃ 
  kāyasaṃsaggaṃ 
  samāpajjeyya 
- hatthaggāhaṃ 
+ hatthagāhaṃ 
  vā 
- veṇiggāhaṃ 
+ 
+ veṇigāhaṃ 
  vā 
  aññatarassa 
  vā 
@@ -390,8 +429,9 @@ ni nidānuddeso
  saṅghādiseso 
  
  
+ saṅghādisesa 
  
- sa duṭṭhullavācāsikkhāpadaṃ 
+ 
  yo 
  pana 
  bhikkhu 
@@ -399,19 +439,21 @@ ni nidānuddeso
  vipariṇatena 
  cittena 
  mātugāmaṃ 
+ 
  duṭṭhullāhi 
  vācāhi 
  obhāseyya 
- yathā 
- taṃ 
+ yathātaṃ 
  yuvā 
  yuvatiṃ 
- methunupasaṃhitāhi 
+ methunūpasaṃhitāhi 
  saṅghādiseso 
  
  
  
- sa attakāmapāricariyasikkhāpadaṃ 
+ saṅghādisesa 
+ 
+ 
  yo 
  pana 
  bhikkhu 
@@ -424,22 +466,26 @@ ni nidānuddeso
  vaṇṇaṃ 
  bhāseyya 
  etadaggaṃ 
+ 
  bhagini 
  pāricariyānaṃ 
  yā 
  mādisaṃ 
  sīlavantaṃ 
  kalyāṇadhammaṃ 
+ 
  brahmacāriṃ 
  etena 
  dhammena 
  paricareyyāti 
- methunupasaṃhitena 
+ 
+ methunūpasaṃhitena 
  saṅghādiseso 
  
  
+ saṅghādisesa 
  
- sa sañcarittasikkhāpadaṃ 
+ 
  yo 
  pana 
  bhikkhu 
@@ -447,6 +493,7 @@ ni nidānuddeso
  samāpajjeyya 
  itthiyā 
  vā 
+ 
  purisamatiṃ 
  purisassa 
  vā 
@@ -456,21 +503,24 @@ ni nidānuddeso
  jārattane 
  vā 
  antamaso 
- taṅkhaṇikāyapi 
+ taṃkhaṇikāyapi 
  saṅghādiseso 
  
  
+ saṅghādisesa 
  
- sa kuṭikārasikkhāpadaṃ 
+ 
  saññācikāya 
  pana 
  bhikkhunā 
  kuṭiṃ 
  kārayamānena 
  assāmikaṃ 
+ 
  attuddesaṃ 
  pamāṇikā 
  kāretabbā 
+ 
  tatridaṃ 
  pamāṇaṃ 
  dīghaso 
@@ -479,18 +529,23 @@ ni nidānuddeso
  sugatavidatthiyā 
  tiriyaṃ 
  sattantarā 
+ 
  bhikkhū 
+ 
  abhinetabbā 
  vatthudesanāya 
+ 
  tehi 
  bhikkhūhi 
- vatthu 
+ vatthuṃ 
+ 
  desetabbaṃ 
  anārambhaṃ 
  saparikkamanaṃ 
  
  sārambhe 
  ce 
+ 
  bhikkhu 
  vatthusmiṃ 
  aparikkamane 
@@ -503,34 +558,41 @@ ni nidānuddeso
  vatthudesanāya 
  pamāṇaṃ 
  vā 
+ 
  atikkāmeyya 
  saṅghādiseso 
  
  
+ saṅghādisesa 
  
- sa vihārakārasikkhāpadaṃ 
+ 
  mahallakaṃ 
  pana 
  bhikkhunā 
  vihāraṃ 
  kārayamānena 
  sassāmikaṃ 
+ 
  attuddesaṃ 
  bhikkhū 
  abhinetabbā 
  vatthudesanāya 
+ 
  tehi 
  bhikkhūhi 
- vatthu 
+ vatthuṃ 
  desetabbaṃ 
  anārambhaṃ 
  saparikkamanaṃ 
+ 
+ 
  sārambhe 
  ce 
  bhikkhu 
  vatthusmiṃ 
  aparikkamane 
  mahallakaṃ 
+ 
  vihāraṃ 
  kāreyya 
  bhikkhū 
@@ -540,8 +602,9 @@ ni nidānuddeso
  saṅghādiseso 
  
  
+ saṅghādisesa 
  
- sa duṭṭhadosasikkhāpadaṃ 
+ 
  yo 
  pana 
  bhikkhu 
@@ -556,15 +619,17 @@ ni nidānuddeso
  appeva 
  nāma 
  naṃ 
+ 
  imamhā 
  brahmacariyā 
  cāveyyanti 
+ 
  tato 
  aparena 
  samayena 
- samanuggāhīyamāno 
+ samanuggāhiyamāno 
  vā 
- asamanuggāhīyamāno 
+ asamanuggāhiyamāno 
  vā 
  amūlakañceva 
  taṃ 
@@ -578,7 +643,9 @@ ni nidānuddeso
  
  
  
- sa aññabhāgiyasikkhāpadaṃ 
+ saṅghādisesa 
+ 
+ 
  yo 
  pana 
  bhikkhu 
@@ -599,14 +666,17 @@ ni nidānuddeso
  nāma 
  naṃ 
  imamhā 
+ 
  brahmacariyā 
  cāveyyanti 
+ 
  tato 
  aparena 
  samayena 
- samanuggāhīyamāno 
+ 
+ samanuggāhiyamāno 
  vā 
- asamanuggāhīyamāno 
+ asamanuggāhiyamāno 
  vā 
  aññabhāgiyañceva 
  taṃ 
@@ -623,8 +693,9 @@ ni nidānuddeso
  saṅghādiseso 
  
  
+ saṅghādisesa 
  
- sa saṅghabhedasikkhāpadaṃ 
+ 
  yo 
  pana 
  bhikkhu 
@@ -632,6 +703,8 @@ ni nidānuddeso
  saṅghassa 
  bhedāya 
  parakkameyya 
+ 
+ 
  bhedanasaṃvattanikaṃ 
  vā 
  adhikaraṇaṃ 
@@ -643,27 +716,33 @@ ni nidānuddeso
  bhikkhūhi 
  evamassa 
  vacanīyo 
- māyasmā 
+ mā 
+ āyasmā 
+ 
  samaggassa 
  saṅghassa 
  bhedāya 
  parakkami 
+ 
  bhedanasaṃvattanikaṃ 
  vā 
  adhikaraṇaṃ 
  samādāya 
  paggayha 
  aṭṭhāsi 
+ 
  sametāyasmā 
  saṅghena 
  samaggo 
  hi 
  saṅgho 
+ 
  sammodamāno 
  avivadamāno 
  ekuddeso 
  phāsu 
  viharatīti 
+ 
  evañca 
  so 
  bhikkhu 
@@ -678,21 +757,24 @@ ni nidānuddeso
  samanubhāsitabbo 
  tassa 
  paṭinissaggāya 
+ 
  yāvatatiyañce 
  samanubhāsiyamāno 
  taṃ 
- paṭinissajjeyya 
+ 
+ paṭinissajeyya 
  iccetaṃ 
  kusalaṃ 
  no 
  ce 
- paṭinissajjeyya 
+ paṭinissajeyya 
  saṅghādiseso 
  
  
  
- sa 
- bhedānuvattakasikkhāpadaṃ 
+ saṅghādisesa 
+ 
+ 
  tasseva 
  kho 
  pana 
@@ -700,6 +782,7 @@ ni nidānuddeso
  bhikkhū 
  honti 
  anuvattakā 
+ 
  vaggavādakā 
  eko 
  vā 
@@ -710,12 +793,13 @@ ni nidānuddeso
  te 
  evaṃ 
  vadeyyuṃ 
- māyasmanto 
+ mā 
+ 
+ āyasmanto 
  etaṃ 
  bhikkhuṃ 
  kiñci 
  avacuttha 
- 
  dhammavādī 
  ceso 
  bhikkhu 
@@ -733,14 +817,18 @@ ni nidānuddeso
  bhāsati 
  amhākampetaṃ 
  khamatīti 
+ 
  te 
  bhikkhū 
  bhikkhūhi 
  evamassu 
  vacanīyā 
- māyasmanto 
+ mā 
+ 
+ āyasmanto 
  evaṃ 
  avacuttha 
+ 
  na 
  ceso 
  bhikkhu 
@@ -749,9 +837,12 @@ ni nidānuddeso
  ceso 
  bhikkhu 
  vinayavādī 
- māyasmantānampi 
+ 
+ mā 
+ āyasmantānampi 
  saṅghabhedo 
  ruccittha 
+ 
  sametāyasmantānaṃ 
  saṅghena 
  samaggo 
@@ -762,6 +853,7 @@ ni nidānuddeso
  ekuddeso 
  phāsu 
  viharatīti 
+ 
  evañca 
  te 
  bhikkhū 
@@ -779,18 +871,19 @@ ni nidānuddeso
  yāvatatiyañce 
  samanubhāsiyamānā 
  taṃ 
- paṭinissajjeyyuṃ 
+ 
+ paṭinissajeyyuṃ 
  iccetaṃ 
  kusalaṃ 
  no 
  ce 
- paṭinissajjeyyuṃ 
+ paṭinissajeyyuṃ 
  saṅghādiseso 
  
  
+ saṅghādisesa 
  
- sa 
- dubbacasikkhāpadaṃ 
+ 
  bhikkhu 
  paneva 
  dubbacajātiko 
@@ -801,9 +894,9 @@ ni nidānuddeso
  sahadhammikaṃ 
  vuccamāno 
  attānaṃ 
+ 
  avacanīyaṃ 
  karoti 
- 
  mā 
  maṃ 
  āyasmanto 
@@ -821,38 +914,51 @@ ni nidānuddeso
  vā 
  pāpakaṃ 
  vā 
+ 
  viramathāyasmanto 
  mama 
  vacanāyāti 
- 
  so 
  bhikkhu 
  bhikkhūhi 
  evamassa 
- vacanīyo māyasmā 
+ vacanīyo 
+ mā 
+ āyasmā 
  attānaṃ 
+ 
  avacanīyaṃ 
  akāsi 
+ 
  vacanīyamevāyasmā 
  attānaṃ 
  karotu 
- āyasmāpi 
+ 
+ āyasmā 
+ 
+ pi 
  bhikkhū 
  vadetu 
- sahadhammena 
+ saha 
+ dhammena 
  bhikkhūpi 
  āyasmantaṃ 
+ 
  vakkhanti 
- sahadhammena 
- evaṃ 
- saṃvaddhā 
+ saha 
+ dhammena 
+ 
+ evaṃsaṃvaddhā 
  hi 
  tassa 
  bhagavato 
  parisā 
  yadidaṃ 
  aññamaññavacanena 
- aññamaññavuṭṭhāpanenāti 
+ aññamaññavuṭṭhāpanenā 
+ 
+ ti 
+ 
  evañca 
  so 
  bhikkhu 
@@ -864,23 +970,26 @@ ni nidānuddeso
  bhikkhu 
  bhikkhūhi 
  yāvatatiyaṃ 
+ 
  samanubhāsitabbo 
  tassa 
  paṭinissaggāya 
  yāvatatiyañce 
  samanubhāsiyamāno 
  taṃ 
- paṭinissajjeyya 
+ paṭinissajeyya 
  iccetaṃ 
  kusalaṃ 
  no 
  ce 
- paṭinissajjeyya 
+ paṭinissajeyya 
  saṅghādiseso 
  
  
- sn 
- kuladūsakasikkhāpadaṃ 
+ 
+ saṅghādisesa 
+ 
+ 
  bhikkhu 
  paneva 
  aññataraṃ 
@@ -892,10 +1001,12 @@ ni nidānuddeso
  viharati 
  kuladūsako 
  pāpasamācāro 
+ 
  tassa 
  kho 
  pāpakā 
  samācārā 
+ 
  dissanti 
  ceva 
  suyyanti 
@@ -908,19 +1019,23 @@ ni nidānuddeso
  ceva 
  suyyanti 
  ca 
+ 
  so 
  bhikkhu 
  bhikkhūhi 
  evamassa 
  vacanīyo 
  āyasmā 
+ 
  kho 
  kuladūsako 
  pāpasamācāro 
+ 
  āyasmato 
  kho 
  pāpakā 
  samācārā 
+ 
  dissanti 
  ceva 
  suyyanti 
@@ -932,26 +1047,16 @@ ni nidānuddeso
  ceva 
  suyyanti 
  ca 
+ 
  pakkamatāyasmā 
  imamhā 
  āvāsā 
+ 
  alaṃ 
  te 
  idha 
  vāsenāti 
- pakkamatāyasmā 
- imamhā 
- āvāsā 
- alante 
- te 
- idha 
- vāsenāti 
- pakkamatāyasmā 
- imamhā 
- āvāsā 
- alante 
- idha 
- vāsenāti 
+ 
  evañca 
  so 
  bhikkhu 
@@ -959,6 +1064,7 @@ ni nidānuddeso
  vuccamāno 
  te 
  bhikkhū 
+ 
  evaṃ 
  vadeyya 
  chandagāmino 
@@ -973,7 +1079,6 @@ ni nidānuddeso
  bhayagāmino 
  ca 
  bhikkhū 
- 
  tādisikāya 
  āpattiyā 
  ekaccaṃ 
@@ -981,8 +1086,17 @@ ni nidānuddeso
  ekaccaṃ 
  na 
  pabbājentīti 
- māyasmā 
+ 
+ 
+ so 
+ bhikkhu 
+ bhikkhūhi 
+ evamassa 
+ vacanīyo 
+ mā 
+ āyasmā 
  evaṃ 
+ 
  avaca 
  na 
  ca 
@@ -1000,6 +1114,40 @@ ni nidānuddeso
  ca 
  bhikkhū 
  bhayagāmino 
+ 
+ āyasmā 
+ 
+ 
+ 
+ kho 
+ kuladūsako 
+ pāpasamācāro 
+ āyasmato 
+ kho 
+ pāpakā 
+ samācārā 
+ 
+ dissanti 
+ ceva 
+ suyyanti 
+ ca 
+ kulāni 
+ cāyasmatā 
+ duṭṭhāni 
+ dissanti 
+ ceva 
+ suyyanti 
+ ca 
+ 
+ pakkamatāyasmā 
+ imamhā 
+ āvāsā 
+ 
+ alaṃ 
+ te 
+ idha 
+ vāsenāti 
+ 
  evañca 
  so 
  bhikkhu 
@@ -1011,19 +1159,22 @@ ni nidānuddeso
  bhikkhu 
  bhikkhūhi 
  yāvatatiyaṃ 
+ 
  samanubhāsitabbo 
  tassa 
  paṭinissaggāya 
  yāvatatiyañce 
  samanubhāsiyamāno 
  taṃ 
- paṭinissajjeyya 
+ paṭinissajeyya 
  iccetaṃ 
  kusalaṃ 
  no 
  ce 
- paṭinissajjeyya 
+ paṭinissajeyya 
  saṅghādiseso 
+ 
+ 
  
  
  uddiṭṭhā 
@@ -1040,31 +1191,29 @@ ni nidānuddeso
  yesaṃ 
  bhikkhu 
  aññataraṃ 
+ 
  vā 
  aññataraṃ 
  vā 
  āpajjitvā 
- yāvatīhaṃ 
+ yāvatihaṃ 
  jānaṃ 
  paṭicchādeti 
- tāvatīhaṃ 
+ tāvatihaṃ 
  tena 
  bhikkhunā 
  akāmā 
  parivatthabbaṃ 
  
- parivutthaparivāsena 
- bhikkhunā 
- uttari 
- chārattaṃ 
- bhikkhumānattāya 
- paṭipajjitabbaṃ 
+ 
  parivutthaparivāsena 
  bhikkhunā 
  uttariṃ 
  chārattaṃ 
+ 
  bhikkhumānattāya 
  paṭipajjitabbaṃ 
+ 
  ciṇṇamānatto 
  bhikkhu 
  yattha 
@@ -1080,8 +1229,9 @@ ni nidānuddeso
  ce 
  ūno 
  vīsatigaṇo 
- bhikkhusaṅgho 
+ bhikkhusaṃgho 
  taṃ 
+ 
  bhikkhuṃ 
  abbheyya 
  so 
@@ -1091,32 +1241,50 @@ ni nidānuddeso
  te 
  ca 
  bhikkhū 
+ 
  gārayhā 
+ 
  ayaṃ 
  tattha 
  sāmīci 
+ 
  
  tatthāyasmante 
  pucchāmi 
  kaccittha 
  parisuddhā 
+ 
  dutiyampi 
  pucchāmi 
  kaccittha 
  parisuddhā 
+ 
  tatiyampi 
  pucchāmi 
  kaccittha 
  parisuddhā 
+ 
  parisuddhetthāyasmanto 
  tasmā 
  tuṇhī 
  evametaṃ 
- dhārayāmīti 
+ dhārayāmī 
  
  
+ terasa 
+ saṅghādisesā 
+ niṭṭhitā 
  
- an aniyatuddeso 
+  
+ 
+ saṅghādisesuddeso 
+ niṭṭhito 
+  
+ 
+ 
+ aniyatuddeso 
+ 
+ 
  ime 
  kho 
  panāyasmanto 
@@ -1127,8 +1295,9 @@ ni nidānuddeso
  āgacchanti 
  
  
- an 
- paṭhamaaniyatasikkhāpadaṃ 
+ aniyata 
+ 
+ 
  yo 
  pana 
  bhikkhu 
@@ -1137,12 +1306,15 @@ ni nidānuddeso
  eko 
  ekāya 
  raho 
+ 
+ 
  paṭicchanne 
  āsane 
- alaṃkammaniye 
+ alaṅkammaniye 
  nisajjaṃ 
  kappeyya 
  tamenaṃ 
+ 
  saddheyyavacasā 
  upāsikā 
  disvā 
@@ -1157,7 +1329,8 @@ ni nidānuddeso
  pācittiyena 
  vā 
  nisajjaṃ 
- bhikkhu 
+ 
+ bhikku 
  paṭijānamāno 
  tiṇṇaṃ 
  dhammānaṃ 
@@ -1172,6 +1345,7 @@ ni nidānuddeso
  yena 
  vā 
  sā 
+ 
  saddheyyavacasā 
  upāsikā 
  vadeyya 
@@ -1184,9 +1358,9 @@ ni nidānuddeso
  aniyato 
  
  
+ aniyata 
  
- an 
- dutiyāniyatasikkhāpada 
+ 
  na 
  heva 
  kho 
@@ -1194,7 +1368,7 @@ ni nidānuddeso
  paṭicchannaṃ 
  āsanaṃ 
  hoti 
- nālaṃkammaniyaṃ 
+ nālaṅkammaniyaṃ 
  alañca 
  kho 
  hoti 
@@ -1202,6 +1376,7 @@ ni nidānuddeso
  duṭṭhullāhi 
  vācāhi 
  obhāsituṃ 
+ 
  yo 
  pana 
  bhikkhu 
@@ -1217,6 +1392,7 @@ ni nidānuddeso
  tamenaṃ 
  saddheyyavacasā 
  upāsikā 
+ 
  disvā 
  dvinnaṃ 
  dhammānaṃ 
@@ -1230,11 +1406,13 @@ ni nidānuddeso
  bhikkhu 
  paṭijānamāno 
  dvinnaṃ 
+ 
  dhammānaṃ 
  aññatarena 
  kāretabbo 
  saṅghādisesena 
  vā 
+ 
  pācittiyena 
  vā 
  yena 
@@ -1252,6 +1430,7 @@ ni nidānuddeso
  aniyato 
  
  
+ 
  uddiṭṭhā 
  kho 
  āyasmanto 
@@ -1259,26 +1438,46 @@ ni nidānuddeso
  aniyatā 
  dhammā 
  
+ 
  tatthāyasmante 
  pucchāmi 
  kaccittha 
  parisuddhā 
+ 
  dutiyampi 
  pucchāmi 
  kaccittha 
  parisuddhā 
+ 
  tatiyampi 
  pucchāmi 
  kaccittha 
  parisuddhā 
+ 
  parisuddhetthāyasmanto 
  tasmā 
  tuṇhī 
  evametaṃ 
- dhārayāmīti 
+ dhārayāmi 
  
  
- np nissaggiyapācittiyā 
+ dve 
+ aniyatā 
+ niṭṭhitā 
+ 
+  
+ 
+ aniyatuddeso 
+ niṭṭhito 
+ 
+  
+ 
+ 
+ 
+ nissaggiyapācittiyā 
+ dhammā 
+ 
+ 
  ime 
  kho 
  panāyasmanto 
@@ -1286,19 +1485,25 @@ ni nidānuddeso
  nissaggiyā 
  pācittiyā 
  dhammā 
+ 
  uddesaṃ 
  āgacchanti 
  
  
- np 
- kathinasikkhāpadaṃ 
+ 
+ nissaggiya 
+ pācittiya 
+ 
+ 
  niṭṭhitacīvarasmiṃ 
  bhikkhunā 
  ubbhatasmiṃ 
- kathine 
+ kaṭhine 
+ 
  dasāhaparamaṃ 
  atirekacīvaraṃ 
  dhāretabbaṃ 
+ 
  taṃ 
  atikkāmayato 
  nissaggiyaṃ 
@@ -1306,40 +1511,47 @@ ni nidānuddeso
  
  
  
- np 
- udositasikkhāpadaṃ 
+ nissaggiya 
+ pācittiya 
+ 
+ 
  niṭṭhitacīvarasmiṃ 
  bhikkhunā 
  ubbhatasmiṃ 
- kathine 
+ kaṭhine 
  ekarattampi 
  ce 
  bhikkhu 
  ticīvarena 
  vippavaseyya 
  aññatra 
+ 
  bhikkhusammutiyā 
  nissaggiyaṃ 
  pācittiyaṃ 
  
  
  
- np 
- akālacīvarasikkhāpadaṃ 
+ nissaggiya 
+ pācittiya 
+ 
+ 
  niṭṭhitacīvarasmiṃ 
  bhikkhunā 
  ubbhatasmiṃ 
- kathine 
+ kaṭhine 
  bhikkhuno 
  paneva 
  akālacīvaraṃ 
  uppajjeyya 
  ākaṅkhamānena 
  bhikkhunā 
+ 
  paṭiggahetabbaṃ 
  paṭiggahetvā 
  khippameva 
  kāretabbaṃ 
+ 
  no 
  cassa 
  pāripūri 
@@ -1348,15 +1560,17 @@ ni nidānuddeso
  bhikkhunā 
  taṃ 
  cīvaraṃ 
+ 
  nikkhipitabbaṃ 
  ūnassa 
  pāripūriyā 
  satiyā 
  paccāsāya 
- 
  tato 
  ce 
- uttari 
+ 
+ 
+ uttariṃ 
  nikkhipeyya 
  satiyāpi 
  paccāsāya 
@@ -1364,15 +1578,17 @@ ni nidānuddeso
  pācittiyaṃ 
  
  
+ nissaggiya 
+ pācittiya 
  
- np 
- purāṇacīvarasikkhāpadaṃ 
+ 
  yo 
  pana 
  bhikkhu 
  aññātikāya 
  bhikkhuniyā 
  purāṇacīvaraṃ 
+ 
  dhovāpeyya 
  vā 
  rajāpeyya 
@@ -1380,12 +1596,15 @@ ni nidānuddeso
  ākoṭāpeyya 
  vā 
  nissaggiyaṃ 
+ 
  pācittiyaṃ 
  
  
  
- np 
- cīvarapaṭiggahaṇasikkhāpadaṃ 
+ nissaggiya 
+ pācittiya 
+ 
+ 
  yo 
  pana 
  bhikkhu 
@@ -1393,6 +1612,7 @@ ni nidānuddeso
  bhikkhuniyā 
  hatthato 
  cīvaraṃ 
+ 
  paṭiggaṇheyya 
  aññatra 
  pārivattakā 
@@ -1401,8 +1621,10 @@ ni nidānuddeso
  
  
  
- np 
- aññātakaviññattisikkhāpadaṃ 
+ nissaggiya 
+ pācittiya 
+ 
+ 
  yo 
  pana 
  bhikkhu 
@@ -1411,12 +1633,14 @@ ni nidānuddeso
  vā 
  gahapatāniṃ 
  vā 
+ 
  cīvaraṃ 
  viññāpeyya 
  aññatra 
  samayā 
  nissaggiyaṃ 
  pācittiyaṃ 
+ 
  
  tatthāyaṃ 
  samayo 
@@ -1432,8 +1656,10 @@ ni nidānuddeso
  
  
  
- np 
- tatuttarisikkhāpadaṃ 
+ nissaggiya 
+ pācittiya 
+ 
+ 
  tañce 
  aññātako 
  gahapati 
@@ -1447,40 +1673,49 @@ ni nidānuddeso
  santaruttaraparamaṃ 
  tena 
  bhikkhunā 
+ 
  tato 
  cīvaraṃ 
  sāditabbaṃ 
- 
  tato 
  ce 
- uttari 
+ uttariṃ 
  sādiyeyya 
  nissaggiyaṃ 
+ 
  pācittiyaṃ 
  
  
  
- np 
- paṭhamaupakkhaṭasikkhāpadaṃ 
+ nissaggiya 
+ pācittiya 
+ 
+ 
  bhikkhuṃ 
  paneva 
  uddissa 
  aññātakassa 
  gahapatissa 
  vā 
+ 
  gahapatāniyā 
  vā 
- cīvaracetāpannaṃ 
+ cīvaracetāpanaṃ 
  upakkhaṭaṃ 
  hoti 
  iminā 
- cīvaracetāpannena 
+ 
+ 
+ 
+ cīvaracetāpanena 
  cīvaraṃ 
  cetāpetvā 
  itthannāmaṃ 
  bhikkhuṃ 
+ 
  cīvarena 
  acchādessāmīti 
+ 
  tatra 
  ce 
  so 
@@ -1494,13 +1729,15 @@ ni nidānuddeso
  sādhu 
  vata 
  maṃ 
+ 
  āyasmā 
  iminā 
- cīvaracetāpannena 
+ cīvaracetāpanena 
  evarūpaṃ 
  vā 
  evarūpaṃ 
  vā 
+ 
  cīvaraṃ 
  cetāpetvā 
  acchādehīti 
@@ -1510,30 +1747,33 @@ ni nidānuddeso
  pācittiyaṃ 
  
  
+ nissaggiya 
+ pācittiya 
  
- np 
- dutiyaupakkhaṭasikkhāpadaṃ 
+ 
  bhikkhuṃ 
  paneva 
  uddissa 
  ubhinnaṃ 
  aññātakānaṃ 
  gahapatīnaṃ 
+ 
  vā 
  gahapatānīnaṃ 
  vā 
- paccekacīvaracetāpannāni 
- upakkhaṭāni 
+ paccekacīvaracetāpanā 
+ upakkhaṭā 
  honti 
  imehi 
  mayaṃ 
- paccekacīvaracetāpannehi 
+ paccekacīvaracetāpanehi 
  paccekacīvarāni 
  cetāpetvā 
  itthannāmaṃ 
  bhikkhuṃ 
  cīvarehi 
  acchādessāmāti 
+ 
  tatra 
  ce 
  so 
@@ -1543,32 +1783,39 @@ ni nidānuddeso
  upasaṅkamitvā 
  cīvare 
  vikappaṃ 
+ 
  āpajjeyya 
  sādhu 
  vata 
  maṃ 
  āyasmanto 
  imehi 
- paccekacīvaracetāpannehi 
+ 
+ paccekacīvaracetāpanehi 
  evarūpaṃ 
  vā 
  evarūpaṃ 
  vā 
  cīvaraṃ 
+ 
  cetāpetvā 
  acchādetha 
- ubhova 
+ ubho 
+ va 
  santā 
  ekenāti 
  kalyāṇakamyataṃ 
+ 
  upādāya 
  nissaggiyaṃ 
  pācittiyaṃ 
  
  
  
- np 
- rājasikkhāpadaṃ 
+ nissaggiya 
+ pācittiya 
+ 
+ 
  bhikkhuṃ 
  paneva 
  uddissa 
@@ -1581,14 +1828,16 @@ ni nidānuddeso
  gahapatiko 
  vā 
  dūtena 
- cīvaracetāpannaṃ 
+ cīvaracetāpanaṃ 
  pahiṇeyya 
  iminā 
- cīvaracetāpannena 
+ 
+ cīvaracetāpanena 
  cīvaraṃ 
  cetāpetvā 
  itthannāmaṃ 
  bhikkhuṃ 
+ 
  cīvarena 
  acchādehīti 
  
@@ -1605,12 +1854,12 @@ ni nidānuddeso
  bhante 
  āyasmantaṃ 
  uddissa 
- cīvaracetāpannaṃ 
+ 
+ cīvaracetāpanaṃ 
  ābhataṃ 
  paṭiggaṇhātu 
  āyasmā 
- cīvaracetāpannanti 
- 
+ cīvaracetāpananti 
  tena 
  bhikkhunā 
  so 
@@ -1620,12 +1869,14 @@ ni nidānuddeso
  na 
  kho 
  mayaṃ 
+ 
  āvuso 
- cīvaracetāpannaṃ 
+ cīvaracetāpanaṃ 
  paṭiggaṇhāma 
  cīvarañca 
  kho 
  mayaṃ 
+ 
  paṭiggaṇhāma 
  kālena 
  kappiyanti 
@@ -1636,11 +1887,13 @@ ni nidānuddeso
  taṃ 
  bhikkhuṃ 
  evaṃ 
+ 
  vadeyya 
  atthi 
  panāyasmato 
  koci 
  veyyāvaccakaroti 
+ 
  
  cīvaratthikena 
  bhikkhave 
@@ -1655,6 +1908,7 @@ ni nidānuddeso
  kho 
  āvuso 
  bhikkhūnaṃ 
+ 
  veyyāvaccakaroti 
  
  so 
@@ -1663,6 +1917,8 @@ ni nidānuddeso
  taṃ 
  veyyāvaccakaraṃ 
  saññāpetvā 
+ 
+ 
  taṃ 
  bhikkhuṃ 
  upasaṅkamitvā 
@@ -1677,12 +1933,14 @@ ni nidānuddeso
  saññatto 
  so 
  mayā 
- upasaṅkamatāyasmā 
+ 
+ 
+ upasaṅkamatu 
+ āyasmā 
  kālena 
  cīvarena 
  taṃ 
  acchādessatīti 
- 
  cīvaratthikena 
  bhikkhave 
  bhikkhunā 
@@ -1700,6 +1958,7 @@ ni nidānuddeso
  codayamāno 
  sārayamāno 
  taṃ 
+ 
  cīvaraṃ 
  abhinipphādeyya 
  iccetaṃ 
@@ -1707,13 +1966,16 @@ ni nidānuddeso
  
  no 
  ce 
+ 
  abhinipphādeyya 
  catukkhattuṃ 
  pañcakkhattuṃ 
+ 
  chakkhattuparamaṃ 
  tuṇhībhūtena 
  uddissa 
  ṭhātabbaṃ 
+ 
  
  catukkhattuṃ 
  pañcakkhattuṃ 
@@ -1725,23 +1987,25 @@ ni nidānuddeso
  cīvaraṃ 
  abhinipphādeyya 
  iccetaṃ 
- kusalaṃ 
  
+ kusalaṃ 
  tato 
  ce 
- uttari 
+ uttariṃ 
  vāyamamāno 
  taṃ 
  cīvaraṃ 
+ 
  abhinipphādeyya 
  nissaggiyaṃ 
  pācittiyaṃ 
+ 
  
  no 
  ce 
  abhinipphādeyya 
  yatassa 
- cīvaracetāpannaṃ 
+ cīvaracetāpanaṃ 
  ābhataṃ 
  tattha 
  sāmaṃ 
@@ -1756,10 +2020,11 @@ ni nidānuddeso
  āyasmanto 
  bhikkhuṃ 
  uddissa 
- cīvaracetāpannaṃ 
+ cīvaracetāpanaṃ 
  pahiṇittha 
  na 
  taṃ 
+ 
  tassa 
  bhikkhuno 
  kiñci 
@@ -1771,41 +2036,58 @@ ni nidānuddeso
  vo 
  sakaṃ 
  vinassāti 
+ 
  ayaṃ 
  tattha 
  sāmīci 
  
  
+ cīvaravaggo paṭhamo 
  
- np 
- kosiyasikkhāpadaṃ 
+ 
+ 
+ 
+ nissaggiya 
+ pācittiya 
+ 
+ 
  yo 
  pana 
  bhikkhu 
  kosiyamissakaṃ 
  santhataṃ 
  kārāpeyya 
+ 
+ 
+ 
+ 
+ 
+ 
  nissaggiyaṃ 
  pācittiyaṃ 
  
  
  
- np 
- suddhakāḷakasikkhāpadaṃ 
+ nissaggiya 
+ pācittiya 
+ 
+ 
  yo 
  pana 
  bhikkhu 
  suddhakāḷakānaṃ 
  eḷakalomānaṃ 
  santhataṃ 
+ 
  kārāpeyya 
  nissaggiyaṃ 
  pācittiyaṃ 
  
  
+ nissaggiya 
+ pācittiya 
  
- np 
- dvebhāgasikkhāpadaṃ 
+ 
  navaṃ 
  pana 
  bhikkhunā 
@@ -1813,6 +2095,7 @@ ni nidānuddeso
  kārayamānena 
  dve 
  bhāgā 
+ 
  suddhakāḷakānaṃ 
  eḷakalomānaṃ 
  ādātabbā 
@@ -1826,22 +2109,26 @@ ni nidānuddeso
  bhikkhu 
  dve 
  bhāge 
+ 
  suddhakāḷakānaṃ 
  eḷakalomānaṃ 
  tatiyaṃ 
  odātānaṃ 
  catutthaṃ 
+ 
  gocariyānaṃ 
  navaṃ 
  santhataṃ 
  kārāpeyya 
  nissaggiyaṃ 
+ 
  pācittiyaṃ 
  
  
+ nissaggiya 
+ pācittiya 
  
- np 
- chabbassasikkhāpadaṃ 
+ 
  navaṃ 
  pana 
  bhikkhunā 
@@ -1849,15 +2136,17 @@ ni nidānuddeso
  kārāpetvā 
  chabbassāni 
  dhāretabbaṃ 
+ 
  orena 
  ce 
  channaṃ 
  vassānaṃ 
  taṃ 
  santhataṃ 
- vissajjetvā 
+ 
+ visajjetvā 
  vā 
- avissajjetvā 
+ avisajjetvā 
  vā 
  aññaṃ 
  navaṃ 
@@ -1869,27 +2158,31 @@ ni nidānuddeso
  pācittiyaṃ 
  
  
+ nissaggiya 
+ pācittiya 
  
- np 
- nisīdanasanthatasikkhāpadaṃ 
+ 
  nisīdanasanthataṃ 
  pana 
  bhikkhunā 
  kārayamānena 
+ 
+ purāṇasanthatassa 
  purāṇasanthatassa 
  sāmantā 
  sugatavidatthi 
  ādātabbā 
- dubbaṇṇakaraṇāya 
+ dubbaṇṇa​karaṇāya 
  
  anādā 
  ce 
  bhikkhu 
- purāṇasantha 
- tassa 
+ 
+ purāṇasanthatassa 
  sāmantā 
  sugatavidatthiṃ 
  navaṃ 
+ 
  nisīdanasanthataṃ 
  kārāpeyya 
  nissaggiyaṃ 
@@ -1897,8 +2190,10 @@ ni nidānuddeso
  
  
  
- np 
- eḷakalomasikkhāpadaṃ 
+ nissaggiya 
+ pācittiya 
+ 
+ 
  bhikkhuno 
  paneva 
  addhānamaggappaṭipannassa 
@@ -1913,20 +2208,21 @@ ni nidānuddeso
  haritabbāni 
  asante 
  hārake 
- 
  tato 
  ce 
- uttari 
+ uttariṃ 
  hareyya 
  asantepi 
  hārake 
  nissaggiyaṃ 
+ 
  pācittiyaṃ 
  
  
+ nissaggiya 
+ pācittiya 
  
- np 
- eḷakalomadhovāpanasikkhāpadaṃ 
+ 
  yo 
  pana 
  bhikkhu 
@@ -1940,12 +2236,15 @@ ni nidānuddeso
  vijaṭāpeyya 
  vā 
  nissaggiyaṃ 
+ 
  pācittiyaṃ 
  
  
  
- np 
- rūpiyasikkhāpadaṃ 
+ nissaggiya 
+ pācittiya 
+ 
+ 
  yo 
  pana 
  bhikkhu 
@@ -1961,22 +2260,25 @@ ni nidānuddeso
  pācittiyaṃ 
  
  
+ nissaggiya 
+ pācittiya 
  
- np 
- rūpiyasaṃvohārasikkhāpadaṃ 
+ 
  yo 
  pana 
  bhikkhu 
  nānappakārakaṃ 
  rūpiyasaṃvohāraṃ 
+ 
  samāpajjeyya 
  nissaggiyaṃ 
  pācittiyaṃ 
  
  
+ nissaggiya 
+ pācittiya 
  
- np 
- kayavikkayasikkhāpadaṃ 
+ 
  yo 
  pana 
  bhikkhu 
@@ -1987,21 +2289,28 @@ ni nidānuddeso
  pācittiyaṃ 
  
  
+ eḷakalomavaggo dutiyo 
  
- np 
- pattasikkhāpadaṃ 
+ 
+ 
+ nissaggiya 
+ pācittiya 
+ 
+ 
  dasāhaparamaṃ 
  atirekapatto 
  dhāretabbo 
+ 
  taṃ 
  atikkāmayato 
  nissaggiyaṃ 
  pācittiyaṃ 
  
  
+ nissaggiya 
+ pācittiya 
  
- np 
- ūnapañcabandhanasikkhāpadaṃ 
+ 
  yo 
  pana 
  bhikkhu 
@@ -2009,45 +2318,17 @@ ni nidānuddeso
  pattena 
  aññaṃ 
  navaṃ 
+ 
  pattaṃ 
  cetāpeyya 
  nissaggiyaṃ 
  pācittiyaṃ 
  
- tena 
- bhikkhunā 
- so 
- patto 
- bhikkhuparisāya 
- nissajjitabbo 
- yo 
- ca 
- tassā 
- bhikkhuparisāya 
- pattapariyanto 
- so 
- tassa 
- bhikkhuno 
- padātabbo 
- ayaṃ 
- te 
- bhikkhu 
- patto 
- yāva 
- bhedanāya 
- dhāretabboti 
- ayaṃ 
- tattha 
- sāmīci 
  
- ayaṃ 
- tattha 
- sāmīci 
+ nissaggiya 
+ pācittiya 
  
  
- 
- np 
- bhesajjasikkhāpadaṃ 
  yāni 
  kho 
  pana 
@@ -2056,36 +2337,41 @@ ni nidānuddeso
  bhikkhūnaṃ 
  paṭisāyanīyāni 
  bhesajjāni 
- seyyathidaṃ 
+ seyyathīdaṃ 
  sappi 
  navanītaṃ 
  telaṃ 
- madhu 
- phāṇitaṃ 
+ madhuphāṇitaṃ 
  tāni 
  paṭiggahetvā 
  sattāhaparamaṃ 
  sannidhikārakaṃ 
+ 
  paribhuñjitabbāni 
+ 
  taṃ 
  atikkāmayato 
  nissaggiyaṃ 
  pācittiyaṃ 
  
  
+ nissaggiya 
+ pācittiya 
  
- np 
- vassikasāṭikasikkhāpadaṃ 
+ 
  māso 
  seso 
  gimhānanti 
  bhikkhunā 
  vassikasāṭikacīvaraṃ 
- pariyesitabbaṃ 
- addhamāso 
+ 
+ pariyesitabbam 
+ 
+ aḍḍhamāso 
  seso 
  gimhānanti 
  katvā 
+ 
  nivāsetabbaṃ 
  
  orena 
@@ -2093,9 +2379,10 @@ ni nidānuddeso
  māso 
  seso 
  gimhānanti 
+ 
  vassikasāṭikacīvaraṃ 
  pariyeseyya 
- orenaddhamāso 
+ orenaḍḍhamāso 
  seso 
  gimhānanti 
  katvā 
@@ -2104,9 +2391,10 @@ ni nidānuddeso
  pācittiyaṃ 
  
  
+ nissaggiya 
+ pācittiya 
  
- np 
- cīvaraacchindanasikkhāpadaṃ 
+ 
  yo 
  pana 
  bhikkhu 
@@ -2115,18 +2403,22 @@ ni nidānuddeso
  cīvaraṃ 
  datvā 
  kupito 
+ 
+ 
  anattamano 
  acchindeyya 
  vā 
  acchindāpeyya 
  vā 
  nissaggiyaṃ 
+ 
  pācittiyaṃ 
  
  
+ nissaggiya 
+ pācittiya 
  
- np 
- suttaviññattisikkhāpadaṃ 
+ 
  yo 
  pana 
  bhikkhu 
@@ -2135,14 +2427,16 @@ ni nidānuddeso
  viññāpetvā 
  tantavāyehi 
  cīvaraṃ 
+ 
  vāyāpeyya 
  nissaggiyaṃ 
  pācittiyaṃ 
  
  
+ nissaggiya 
+ pācittiya 
  
- np 
- mahāpesakārasikkhāpadaṃ 
+ 
  bhikkhuṃ 
  paneva 
  uddissa 
@@ -2151,9 +2445,11 @@ ni nidānuddeso
  vā 
  gahapatānī 
  vā 
+ 
  tantavāyehi 
  cīvaraṃ 
  vāyāpeyya 
+ 
  tatra 
  ce 
  so 
@@ -2184,6 +2480,7 @@ ni nidānuddeso
  appeva 
  nāma 
  mayampi 
+ 
  āyasmantānaṃ 
  kiñcimattaṃ 
  anupadajjeyyāmāti 
@@ -2195,14 +2492,16 @@ ni nidānuddeso
  kiñcimattaṃ 
  anupadajjeyya 
  antamaso 
+ 
  piṇḍapātamattampi 
  nissaggiyaṃ 
  pācittiyaṃ 
  
  
+ nissaggiya 
+ pācittiya 
  
- np 
- accekacīvarasikkhāpadaṃ 
+ 
  dasāhānāgataṃ 
  kattikatemāsikapuṇṇamaṃ 
  bhikkhuno 
@@ -2212,27 +2511,31 @@ ni nidānuddeso
  accekaṃ 
  maññamānena 
  bhikkhunā 
+ 
  paṭiggahetabbaṃ 
  paṭiggahetvā 
  yāva 
  cīvarakālasamayaṃ 
- nikkhipitabbaṃ 
  
+ nikkhipitabbaṃ 
  tato 
  ce 
- uttari 
+ uttariṃ 
  nikkhipeyya 
  nissaggiyaṃ 
+ 
  pācittiyaṃ 
  
  
+ nissaggiya 
+ pācittiya 
  
- np 
- sāsaṅkasikkhāpadaṃ 
+ 
  upavassaṃ 
  kho 
  pana 
  kattikapuṇṇamaṃ 
+ 
  yāni 
  kho 
  pana 
@@ -2241,12 +2544,15 @@ ni nidānuddeso
  senāsanāni 
  sāsaṅkasammatāni 
  sappaṭibhayāni 
+ 
+ 
  tathārūpesu 
  bhikkhu 
  senāsanesu 
  viharanto 
  ākaṅkhamāno 
  tiṇṇaṃ 
+ 
  cīvarānaṃ 
  aññataraṃ 
  cīvaraṃ 
@@ -2267,10 +2573,9 @@ ni nidānuddeso
  tena 
  cīvarena 
  vippavasitabbaṃ 
- 
  tato 
  ce 
- uttari 
+ uttariṃ 
  vippavaseyya 
  aññatra 
  bhikkhusammutiyā 
@@ -2278,9 +2583,10 @@ ni nidānuddeso
  pācittiyaṃ 
  
  
+ nissaggiya 
+ pācittiya 
  
- np 
- pariṇatasikkhāpadaṃ 
+ 
  yo 
  pana 
  bhikkhu 
@@ -2294,6 +2600,10 @@ ni nidānuddeso
  pācittiyaṃ 
  
  
+ pattavaggo 
+ tatiyo 
+ 
+ 
  uddiṭṭhā 
  kho 
  āyasmanto 
@@ -2302,31 +2612,39 @@ ni nidānuddeso
  pācittiyā 
  dhammā 
  
+ 
  tatthāyasmante 
  pucchāmi 
  kaccittha 
  parisuddhā 
+ 
  dutiyampi 
  pucchāmi 
  kaccittha 
  parisuddhā 
+ 
  tatiyampi 
  pucchāmi 
  kaccittha 
  parisuddhā 
+ 
  parisuddhetthāyasmanto 
  tasmā 
  tuṇhī 
  evametaṃ 
- dhārayāmīti 
+ dhārayāmi 
  
- tiṃsa 
+ 
  nissaggiyā 
  pācittiyā 
  dhammā 
  niṭṭhitā 
+  
  
- pa pācittiyā 
+ 
+ pācittiyā 
+ 
+ 
  ime 
  kho 
  panāyasmanto 
@@ -2334,33 +2652,35 @@ ni nidānuddeso
  pācittiyā 
  dhammā 
  uddesaṃ 
+ 
  āgacchanti 
  
  
  
- pa 
- musāvādasikkhāpadaṃ 
+ pācittiya 
+ 
+ 
  sampajānamusāvāde 
  pācittiyaṃ 
  
  
+ pācittiya 
  
- pa 
- omasavādasikkhāpadaṃ 
+ 
  omasavāde 
  pācittiyaṃ 
  
  
+ pācittiya 
  
- pa 
- pesuññasikkhāpadaṃ 
+ 
  bhikkhupesuññe 
  pācittiyaṃ 
  
  
+ pācittiya 
  
- pa 
- padasodhammasikkhāpadaṃ 
+ 
  yo 
  pana 
  bhikkhu 
@@ -2371,27 +2691,43 @@ ni nidānuddeso
  pācittiyaṃ 
  
  
+ pācittiya 
  
- pa 
- paṭhamasahaseyyasikkhāpadaṃ 
+ 
  yo 
  pana 
  bhikkhu 
  anupasampannena 
- uttaridirattatirattaṃ 
- sahaseyyaṃ 
+ uttariṃ 
+ dirattatirattaṃ 
+ saha 
+ seyyaṃ 
  kappeyya 
  pācittiyaṃ 
  
  
+ pācittiya 
  
- pa 
- dhammadesanāsikkhāpadaṃ 
+ 
+ yo 
+ pana 
+ bhikkhu 
+ mātugāmena 
+ saha 
+ seyyaṃ 
+ kappeyya 
+ pācittiyaṃ 
+ 
+ 
+ pācittiya 
+ 
+ 
  yo 
  pana 
  bhikkhu 
  mātugāmassa 
- uttarichappañcavācāhi 
+ uttariṃ 
+ chappañcavācāhi 
  dhammaṃ 
  deseyya 
  aññatra 
@@ -2400,28 +2736,30 @@ ni nidānuddeso
  pācittiyaṃ 
  
  
+ pācittiya 
  
- pa 
- bhūtārocanasikkhāpadaṃ 
+ 
  yo 
  pana 
  bhikkhu 
  anupasampannassa 
  uttarimanussadhammaṃ 
+ 
  āroceyya 
  bhūtasmiṃ 
  pācittiyaṃ 
  
  
+ pācittiya 
  
- pa 
- duṭṭhullārocanasikkhāpadaṃ 
+ 
  yo 
  pana 
  bhikkhu 
  bhikkhussa 
  duṭṭhullaṃ 
  āpattiṃ 
+ 
  anupasampannassa 
  āroceyya 
  aññatra 
@@ -2429,13 +2767,13 @@ ni nidānuddeso
  pācittiyaṃ 
  
  
+ pācittiya 
  
- pa 
- pathavīkhaṇanasikkhāpadaṃ 
+ 
  yo 
  pana 
  bhikkhu 
- pathaviṃ 
+ paṭhaviṃ 
  khaṇeyya 
  vā 
  khaṇāpeyya 
@@ -2443,32 +2781,35 @@ ni nidānuddeso
  pācittiyaṃ 
  
  
+ musāvādavaggo paṭhamo 
  
- pa 
- bhūtagāmasikkhāpadaṃ 
+ 
+ pācittiya 
+ 
+ 
  bhūtagāmapātabyatāya 
  pācittiyaṃ 
  
  
+ pācittiya 
  
- pa 
- aññavādakasikkhāpadaṃ 
+ 
  aññavādake 
  vihesake 
  pācittiyaṃ 
  
  
+ pācittiya 
  
- pa 
- ujjhāpanakasikkhāpadaṃ 
+ 
  ujjhāpanake 
  khiyyanake 
  pācittiyaṃ 
  
  
+ pācittiya 
  
- pa 
- paṭhamasenāsanasikkhāpadaṃ 
+ 
  yo 
  pana 
  bhikkhu 
@@ -2479,6 +2820,7 @@ ni nidānuddeso
  vā 
  bhisiṃ 
  vā 
+ 
  kocchaṃ 
  vā 
  ajjhokāse 
@@ -2487,6 +2829,7 @@ ni nidānuddeso
  santharāpetvā 
  vā 
  taṃ 
+ 
  pakkamanto 
  neva 
  uddhareyya 
@@ -2494,41 +2837,14 @@ ni nidānuddeso
  uddharāpeyya 
  anāpucchaṃ 
  vā 
- gaccheyya 
- pācittiyaṃ 
  
- yo 
- pana 
- bhikkhu 
- saṅghikaṃ 
- mañcaṃ 
- vā 
- pīṭhaṃ 
- vā 
- bhisiṃ 
- vā 
- kocchaṃ 
- vā 
- ajjhokāse 
- santharitvā 
- vā 
- santharāpetvā 
- vā 
- taṃ 
- pakkamanto 
- neva 
- uddhareyya 
- na 
- uddharāpeyya 
- anāpucchā 
- vā 
  gaccheyya 
  pācittiyaṃ 
  
  
+ pācittiya 
  
- pa 
- dutiyasenāsanasikkhāpadaṃ 
+ 
  yo 
  pana 
  bhikkhu 
@@ -2537,6 +2853,7 @@ ni nidānuddeso
  seyyaṃ 
  santharitvā 
  vā 
+ 
  santharāpetvā 
  vā 
  taṃ 
@@ -2551,9 +2868,9 @@ ni nidānuddeso
  pācittiyaṃ 
  
  
+ pācittiya 
  
- pa 
- anupakhajjasikkhāpadaṃ 
+ 
  yo 
  pana 
  bhikkhu 
@@ -2561,6 +2878,7 @@ ni nidānuddeso
  vihāre 
  jānaṃ 
  pubbupagataṃ 
+ 
  bhikkhuṃ 
  anupakhajja 
  seyyaṃ 
@@ -2573,13 +2891,14 @@ ni nidānuddeso
  etadeva 
  paccayaṃ 
  karitvā 
+ 
  anaññaṃ 
  pācittiyaṃ 
  
  
+ pācittiya 
  
- pa 
- nikkaḍḍhanasikkhāpadaṃ 
+ 
  yo 
  pana 
  bhikkhu 
@@ -2588,6 +2907,7 @@ ni nidānuddeso
  anattamano 
  saṅghikā 
  vihārā 
+ 
  nikkaḍḍheyya 
  vā 
  nikkaḍḍhāpeyya 
@@ -2595,30 +2915,33 @@ ni nidānuddeso
  pācittiyaṃ 
  
  
+ pācittiya 
  
- pa 
- vehāsakuṭisikkhāpadaṃ 
+ 
  yo 
  pana 
  bhikkhu 
  saṅghike 
  vihāre 
  uparivehāsakuṭiyā 
+ 
  āhaccapādakaṃ 
  mañcaṃ 
  vā 
  pīṭhaṃ 
  vā 
+ sahasā 
  abhinisīdeyya 
  vā 
+ 
  abhinipajjeyya 
  vā 
  pācittiyaṃ 
  
  
+ pācittiya 
  
- pa 
- mahallakavihārasikkhāpadaṃ 
+ 
  mahallakaṃ 
  pana 
  bhikkhunā 
@@ -2628,6 +2951,7 @@ ni nidānuddeso
  dvārakosā 
  aggaḷaṭṭhapanāya 
  ālokasandhiparikammāya 
+ 
  dvatticchadanassa 
  pariyāyaṃ 
  appaharite 
@@ -2635,16 +2959,16 @@ ni nidānuddeso
  adhiṭṭhātabbaṃ 
  tato 
  ce 
- uttari 
+ uttariṃ 
  appaharitepi 
  ṭhito 
  adhiṭṭhaheyya 
  pācittiyaṃ 
  
  
+ pācittiya 
  
- pa 
- sappāṇakasikkhāpadaṃ 
+ 
  yo 
  pana 
  bhikkhu 
@@ -2654,6 +2978,7 @@ ni nidānuddeso
  tiṇaṃ 
  vā 
  mattikaṃ 
+ 
  vā 
  siñceyya 
  vā 
@@ -2662,9 +2987,12 @@ ni nidānuddeso
  pācittiyaṃ 
  
  
+ bhūtagāmavaggo dutiyo 
  
- pa 
- ovādasikkhāpadaṃ 
+ 
+ pācittiya 
+ 
+ 
  yo 
  pana 
  bhikkhu 
@@ -2674,32 +3002,34 @@ ni nidānuddeso
  pācittiyaṃ 
  
  
+ pācittiya 
  
- pa 
- atthaṅgatasikkhāpadaṃ 
+ 
  sammatopi 
  ce 
  bhikkhu 
  atthaṅgate 
- sūriye 
+ suriye 
  bhikkhuniyo 
  ovadeyya 
  pācittiyaṃ 
  
  
+ pācittiya 
  
- pa 
- bhikkhunupassayasikkhāpadaṃ 
+ 
  yo 
  pana 
  bhikkhu 
- bhikkhunupassayaṃ 
+ bhikkhunūpassayaṃ 
  upasaṅkamitvā 
+ 
  bhikkhuniyo 
  ovadeyya 
  aññatra 
  samayā 
  pācittiyaṃ 
+ 
  
  tatthāyaṃ 
  samayo 
@@ -2711,25 +3041,24 @@ ni nidānuddeso
  samayo 
  
  
+ pācittiya 
  
- pa 
- āmisasikkhāpadaṃ 
+ 
  yo 
  pana 
  bhikkhu 
  evaṃ 
  vadeyya 
  āmisahetu 
- therā 
  bhikkhū 
  bhikkhuniyo 
  ovadantīti 
  pācittiyaṃ 
  
  
+ pācittiya 
  
- pa 
- cīvaradānasikkhāpadaṃ 
+ 
  yo 
  pana 
  bhikkhu 
@@ -2742,9 +3071,9 @@ ni nidānuddeso
  pācittiyaṃ 
  
  
+ pācittiya 
  
- pa 
- cīvarasibbanasikkhāpadaṃ 
+ 
  yo 
  pana 
  bhikkhu 
@@ -2753,14 +3082,16 @@ ni nidānuddeso
  cīvaraṃ 
  sibbeyya 
  vā 
+ 
  sibbāpeyya 
  vā 
  pācittiyaṃ 
  
  
  
- pa 
- saṃvidhānasikkhāpadaṃ 
+ pācittiya 
+ 
+ 
  yo 
  pana 
  bhikkhu 
@@ -2775,6 +3106,7 @@ ni nidānuddeso
  samayā 
  pācittiyaṃ 
  
+ 
  tatthāyaṃ 
  samayo 
  satthagamanīyo 
@@ -2787,9 +3119,9 @@ ni nidānuddeso
  samayo 
  
  
+ pācittiya 
  
- pa 
- nāvābhiruhanasikkhāpadaṃ 
+ 
  yo 
  pana 
  bhikkhu 
@@ -2798,64 +3130,90 @@ ni nidānuddeso
  saṃvidhāya 
  ekaṃ 
  nāvaṃ 
- abhiruheyya 
+ 
+ abhirūheyya 
  uddhaṃgāminiṃ 
  vā 
  adhogāminiṃ 
  vā 
  aññatra 
- tiriyaṃ 
- taraṇāya 
+ tiriyaṃtaraṇāya 
  pācittiyaṃ 
  
  
+ pācittiya 
  
- pa 
- paripācitasikkhāpadaṃ 
+ 
  yo 
  pana 
  bhikkhu 
  jānaṃ 
- bhikkhuniparipācitaṃ 
+ bhikkhunīparipācitaṃ 
  piṇḍapātaṃ 
+ 
  bhuñjeyya 
  aññatra 
  pubbe 
- gihisamārambhā 
+ gihīsamārambhā 
  pācittiyaṃ 
  
  
+ pācittiya 
  
- pa 
- āvasathapiṇḍasikkhāpadaṃ 
+ 
+ yo 
+ pana 
+ bhikkhu 
+ bhikkhuniyā 
+ saddhiṃ 
+ eko 
+ ekāya 
+ raho 
+ nisajjaṃ 
+ 
+ kappeyya 
+ pācittiyaṃ 
+ 
+ 
+ ovādavaggo 
+ tatiyo 
+ 
+ 
+ pācittiya 
+ 
+ 
  agilānena 
  bhikkhunā 
  eko 
  āvasathapiṇḍo 
  bhuñjitabbo 
- 
  tato 
  ce 
- uttari 
+ 
+ 
+ uttariṃ 
  bhuñjeyya 
  pācittiyaṃ 
  
  
+ pācittiya 
  
- pa 
- gaṇabhojanasikkhāpadaṃ 
+ 
  gaṇabhojane 
  aññatra 
  samayā 
  pācittiyaṃ 
  
+ 
  tatthāyaṃ 
  samayo 
  gilānasamayo 
  cīvaradānasamayo 
- cīvarakārasamayo 
+ cīvara​ 
+ 
+ kārasamayo 
  addhānagamanasamayo 
- nāvābhiruhanasamayo 
+ nāvābhirūhanasamayo 
  mahāsamayo 
  samaṇabhattasamayo 
  ayaṃ 
@@ -2863,15 +3221,16 @@ ni nidānuddeso
  samayo 
  
  
+ pācittiya 
  
- pa 
- paramparabhojanasikkhāpadaṃ 
+ 
  paramparabhojane 
  aññatra 
  samayā 
  pācittiyaṃ 
  
  tatthāyaṃ 
+ 
  samayo 
  gilānasamayo 
  cīvaradānasamayo 
@@ -2881,9 +3240,9 @@ ni nidānuddeso
  samayo 
  
  
+ pācittiya 
  
- pa 
- kāṇamātusikkhāpadaṃ 
+ 
  bhikkhuṃ 
  paneva 
  kulaṃ 
@@ -2892,18 +3251,20 @@ ni nidānuddeso
  vā 
  manthehi 
  vā 
+ 
  abhihaṭṭhuṃ 
  pavāreyya 
  ākaṅkhamānena 
  bhikkhunā 
+ 
  dvattipattapūrā 
  paṭiggahetabbā 
- 
  tato 
  ce 
- uttari 
+ uttariṃ 
  paṭiggaṇheyya 
  pācittiyaṃ 
+ 
  
  dvattipattapūre 
  paṭiggahetvā 
@@ -2911,15 +3272,17 @@ ni nidānuddeso
  nīharitvā 
  bhikkhūhi 
  saddhiṃ 
+ 
  saṃvibhajitabbaṃ 
+ 
  ayaṃ 
  tattha 
  sāmīci 
  
  
+ pācittiya 
  
- pa 
- paṭhamapavāraṇāsikkhāpadaṃ 
+ 
  yo 
  pana 
  bhikkhu 
@@ -2928,6 +3291,7 @@ ni nidānuddeso
  anatirittaṃ 
  khādanīyaṃ 
  vā 
+ 
  bhojanīyaṃ 
  vā 
  khādeyya 
@@ -2937,9 +3301,9 @@ ni nidānuddeso
  pācittiyaṃ 
  
  
+ pācittiya 
  
- pa 
- dutiyapavāraṇāsikkhāpadaṃ 
+ 
  yo 
  pana 
  bhikkhu 
@@ -2965,9 +3329,9 @@ ni nidānuddeso
  pācittiyaṃ 
  
  
+ pācittiya 
  
- pa 
- vikālabhojanasikkhāpadaṃ 
+ 
  yo 
  pana 
  bhikkhu 
@@ -2983,25 +3347,42 @@ ni nidānuddeso
  pācittiyaṃ 
  
  
+ pācittiya 
  
- pa 
- paṇītabhojanasikkhāpadaṃ 
+ 
+ yo 
+ pana 
+ bhikkhu 
+ sannidhikārakaṃ 
+ khādanīyaṃ 
+ vā 
+ bhojanīyaṃ 
+ vā 
+ 
+ khādeyya 
+ vā 
+ bhuñjeyya 
+ vā 
+ pācittiyaṃ 
+ 
+ 
+ pācittiya 
+ 
+ 
  yāni 
  kho 
  pana 
  tāni 
  paṇītabhojanāni 
- seyyathidaṃ 
+ seyyathīdaṃ 
  sappi 
  navanītaṃ 
  telaṃ 
- madhu 
- phāṇitaṃ 
+ madhuphāṇitaṃ 
  maccho 
  maṃsaṃ 
  khīraṃ 
  dadhi 
- 
  yo 
  pana 
  bhikkhu 
@@ -3015,9 +3396,9 @@ ni nidānuddeso
  pācittiyaṃ 
  
  
+ pācittiya 
  
- pa 
- dantaponasikkhāpadaṃ 
+ 
  yo 
  pana 
  bhikkhu 
@@ -3026,13 +3407,16 @@ ni nidānuddeso
  āhāraṃ 
  āhareyya 
  aññatra 
- udakadantaponā 
+ udakadantapoṇā 
  pācittiyaṃ 
  
  
+ bhojanavaggo catuttho 
  
- pa 
- acelakasikkhāpadaṃ 
+ 
+ pācittiya 
+ 
+ 
  yo 
  pana 
  bhikkhu 
@@ -3051,25 +3435,31 @@ ni nidānuddeso
  pācittiyaṃ 
  
  
+ pācittiya 
  
- pa 
- uyyojanasikkhāpadaṃ 
+ 
  yo 
  pana 
  bhikkhu 
  bhikkhuṃ 
+ evaṃ 
+ vadeyya 
  ehāvuso 
+ 
  gāmaṃ 
  vā 
+ 
  nigamaṃ 
  vā 
  piṇḍāya 
  pavisissāmāti 
+ 
  tassa 
  dāpetvā 
  vā 
  adāpetvā 
  vā 
+ 
  uyyojeyya 
  gacchāvuso 
  na 
@@ -3080,6 +3470,7 @@ ni nidānuddeso
  vā 
  nisajjā 
  vā 
+ 
  phāsu 
  hoti 
  ekakassa 
@@ -3091,9 +3482,16 @@ ni nidānuddeso
  phāsu 
  hotīti 
  
+ etadeva 
+ paccayaṃ 
+ karitvā 
+ anaññaṃ 
+ pācittiyaṃ 
  
- pa 
- sabhojanasikkhāpadaṃ 
+ 
+ pācittiya 
+ 
+ 
  yo 
  pana 
  bhikkhu 
@@ -3105,9 +3503,41 @@ ni nidānuddeso
  pācittiyaṃ 
  
  
+ pācittiya 
  
- pa 
- cārittasikkhāpadaṃ 
+ 
+ yo 
+ pana 
+ bhikkhu 
+ mātugāmena 
+ saddhiṃ 
+ raho 
+ paṭicchanne 
+ āsane 
+ nisajjaṃ 
+ kappeyya 
+ pācittiyaṃ 
+ 
+ 
+ pācittiya 
+ 
+ 
+ yo 
+ pana 
+ bhikkhu 
+ mātugāmena 
+ saddhiṃ 
+ eko 
+ ekāya 
+ raho 
+ nisajjaṃ 
+ kappeyya 
+ pācittiyaṃ 
+ 
+ 
+ pācittiya 
+ 
+ 
  yo 
  pana 
  bhikkhu 
@@ -3116,6 +3546,7 @@ ni nidānuddeso
  samāno 
  santaṃ 
  bhikkhuṃ 
+ 
  anāpucchā 
  purebhattaṃ 
  vā 
@@ -3123,34 +3554,46 @@ ni nidānuddeso
  vā 
  kulesu 
  cārittaṃ 
+ 
+ 
+ 
  āpajjeyya 
  aññatra 
  samayā 
  pācittiyaṃ 
  
  
+ tatthāyaṃ 
+ samayo 
+ cīvaradānasamayo 
+ cīvarakārasamayo 
+ ayaṃ 
  
- pa 
- mahānāmasikkhāpadaṃ 
+ tattha 
+ samayo 
+ 
+ 
+ pācittiya 
+ 
+ 
  agilānena 
  bhikkhunā 
- catumāsappaccayapavāraṇā 
+ cātumāsapaccayapavāraṇā 
  sāditabbā 
  aññatra 
  punapavāraṇāya 
  aññatra 
  niccapavāraṇāya 
- 
  tato 
  ce 
- uttari 
+ uttariṃ 
  sādiyeyya 
  pācittiyaṃ 
  
  
+ pācittiya 
  
- pa 
- uyyuttasenāsikkhāpadaṃ 
+ 
  yo 
  pana 
  bhikkhu 
@@ -3159,13 +3602,13 @@ ni nidānuddeso
  dassanāya 
  gaccheyya 
  aññatra 
- tathārūpappaccayā 
+ tathārūpapaccayā 
  pācittiyaṃ 
  
  
+ pācittiya 
  
- pa 
- senāvāsasikkhāpadaṃ 
+ 
  siyā 
  ca 
  tassa 
@@ -3179,24 +3622,25 @@ ni nidānuddeso
  bhikkhunā 
  senāya 
  vasitabbaṃ 
- 
  tato 
  ce 
- uttari 
+ uttariṃ 
  vaseyya 
  pācittiyaṃ 
  
  
+ pācittiya 
  
- pa 
- uyyodhikasikkhāpadaṃ 
- dirattatirattaṃ 
- ce 
+ 
+ 
+ 
+ dirattatirattañce 
  bhikkhu 
  senāya 
  vasamāno 
  uyyodhikaṃ 
  vā 
+ 
  balaggaṃ 
  vā 
  senābyūhaṃ 
@@ -3207,38 +3651,42 @@ ni nidānuddeso
  pācittiyaṃ 
  
  
+ acelakavaggo 
+ pañcamo 
  
- pa 
- surāpānasikkhāpadaṃ 
+ 
+ pācittiya 
+ 
+ 
  surāmerayapāne 
  pācittiyaṃ 
  
  
+ pācittiya 
  
- pa 
- aṅgulipatodakasikkhāpadaṃ 
+ 
  aṅgulipatodake 
  pācittiyaṃ 
  
  
+ pācittiya 
  
- pa 
- hasadhammasikkhāpadaṃ 
+ 
  udake 
  hassadhamme 
  pācittiyaṃ 
  
  
+ pācittiya 
  
- pa 
- anādariyasikkhāpadaṃ 
+ 
  anādariye 
  pācittiyaṃ 
  
  
+ pācittiya 
  
- pa 
- bhiṃsāpanasikkhāpadaṃ 
+ 
  yo 
  pana 
  bhikkhu 
@@ -3247,9 +3695,9 @@ ni nidānuddeso
  pācittiyaṃ 
  
  
+ pācittiya 
  
- pa 
- jotisikkhāpadaṃ 
+ 
  yo 
  pana 
  bhikkhu 
@@ -3258,24 +3706,26 @@ ni nidānuddeso
  jotiṃ 
  samādaheyya 
  vā 
+ 
  samādahāpeyya 
  vā 
  aññatra 
- tathārūpappaccayā 
+ tathārūpapaccayā 
  pācittiyaṃ 
  
  
+ pācittiya 
  
- pa 
- nahānasikkhāpadaṃ 
+ 
  yo 
  pana 
  bhikkhu 
- orenaddhamāsaṃ 
+ orenaḍḍhamāsaṃ 
  nahāyeyya 
  aññatra 
  samayā 
  pācittiyaṃ 
+ 
  
  tatthāyaṃ 
  samayo 
@@ -3289,6 +3739,7 @@ ni nidānuddeso
  iccete 
  aḍḍhateyyamāsā 
  uṇhasamayo 
+ 
  pariḷāhasamayo 
  gilānasamayo 
  kammasamayo 
@@ -3299,14 +3750,15 @@ ni nidānuddeso
  samayo 
  
  
+ pācittiya 
  
- pa 
- dubbaṇṇakaraṇasikkhāpadaṃ 
+ 
  navaṃ 
  pana 
  bhikkhunā 
  cīvaralābhena 
  tiṇṇaṃ 
+ 
  dubbaṇṇakaraṇānaṃ 
  aññataraṃ 
  dubbaṇṇakaraṇaṃ 
@@ -3318,12 +3770,14 @@ ni nidānuddeso
  kāḷasāmaṃ 
  vā 
  
+ 
  anādā 
  ce 
  bhikkhu 
  tiṇṇaṃ 
  dubbaṇṇakaraṇānaṃ 
  aññataraṃ 
+ 
  dubbaṇṇakaraṇaṃ 
  navaṃ 
  cīvaraṃ 
@@ -3332,8 +3786,9 @@ ni nidānuddeso
  
  
  
- pa 
- vikappanasikkhāpadaṃ 
+ pācittiya 
+ 
+ 
  yo 
  pana 
  bhikkhu 
@@ -3343,6 +3798,7 @@ ni nidānuddeso
  vā 
  sikkhamānāya 
  vā 
+ 
  sāmaṇerassa 
  vā 
  sāmaṇeriyā 
@@ -3350,35 +3806,13 @@ ni nidānuddeso
  sāmaṃ 
  cīvaraṃ 
  vikappetvā 
- appaccuddhāraṇaṃ 
+ apaccuddhārakaṃ 
  paribhuñjeyya 
  pācittiyaṃ 
  
  
+ pācittiya 
  
- pa 
- apanidhānasikkhāpadaṃ 
- yo 
- pana 
- bhikkhu 
- bhikkhussa 
- pattaṃ 
- vā 
- cīvaraṃ 
- vā 
- nisīdanaṃ 
- vā 
- sūcigharaṃ 
- vā 
- kāyabandhanaṃ 
- vā 
- apanidheyya 
- vā 
- apanidhāpeyya 
- vā 
- antamaso 
- hasāpekkhopi 
- pācittiyaṃ 
  
  yo 
  pana 
@@ -3390,6 +3824,7 @@ ni nidānuddeso
  vā 
  nisīdanaṃ 
  vā 
+ 
  sūcigharaṃ 
  vā 
  kāyabandhanaṃ 
@@ -3399,35 +3834,16 @@ ni nidānuddeso
  apanidhāpeyya 
  vā 
  antamaso 
- hasaapekkhopi 
- pācittiyaṃ 
- 
- yo 
- pana 
- bhikkhu 
- bhikkhussa 
- pattaṃ 
- vā 
- cīvaraṃ 
- vā 
- nisīdanaṃ 
- vā 
- sūcigharaṃ 
- vā 
- kāyabandhanaṃ 
- vā 
- apanidheyya 
- vā 
- apanidhāpeyya 
- vā 
- antamaso 
- hasaapekkhopi 
+ hassāpekkhopi 
  pācittiyaṃ 
  
  
+ surāpānavaggo chaṭṭho 
  
- pa 
- sañciccasikkhāpadaṃ 
+ 
+ pācittiya 
+ 
+ 
  yo 
  pana 
  bhikkhu 
@@ -3437,27 +3853,23 @@ ni nidānuddeso
  voropeyya 
  pācittiyaṃ 
  
+ 
+ pācittiya 
+ 
+ 
  yo 
  pana 
  bhikkhu 
- bhikkhussa 
- sañcicca 
- kukkuccaṃ 
- upadaheyya 
- itissa 
- muhuttampi 
- aphāsu 
- bhavissatīti 
- etadeva 
- paccayaṃ 
- karitvā 
- anaññaṃ 
+ jānaṃ 
+ sappāṇakaṃ 
+ udakaṃ 
+ paribhuñjeyya 
  pācittiyaṃ 
  
  
+ pācittiya 
  
- pa 
- ukkoṭanasikkhāpadaṃ 
+ 
  yo 
  pana 
  bhikkhu 
@@ -3468,20 +3880,10 @@ ni nidānuddeso
  ukkoṭeyya 
  pācittiyaṃ 
  
- yo 
- pana 
- bhikkhu 
- jānaṃ 
- yathādhammaṃ 
- nihataadhikaraṇaṃ 
- punakammāya 
- ukkoṭeyya 
- pācittiyaṃ 
+ 
+ pācittiya 
  
  
- 
- pa 
- duṭṭhullasikkhāpadaṃ 
  yo 
  pana 
  bhikkhu 
@@ -3489,19 +3891,23 @@ ni nidānuddeso
  jānaṃ 
  duṭṭhullaṃ 
  āpattiṃ 
+ 
  paṭicchādeyya 
  pācittiyaṃ 
  
  
+ pācittiya 
  
- pa 
- ūnavīsativassasikkhāpadaṃ 
+ 
  yo 
  pana 
  bhikkhu 
  jānaṃ 
  ūnavīsativassaṃ 
  puggalaṃ 
+ 
+ 
+ 
  upasampādeyya 
  so 
  ca 
@@ -3510,15 +3916,17 @@ ni nidānuddeso
  te 
  ca 
  bhikkhū 
+ 
  gārayhā 
+ 
  idaṃ 
  tasmiṃ 
  pācittiyaṃ 
  
  
+ pācittiya 
  
- pa 
- theyyasatthasikkhāpadaṃ 
+ 
  yo 
  pana 
  bhikkhu 
@@ -3533,9 +3941,26 @@ ni nidānuddeso
  pācittiyaṃ 
  
  
+ pācittiya 
  
- pa 
- ariṭṭhasikkhāpadaṃ 
+ 
+ yo 
+ pana 
+ bhikkhu 
+ mātugāmena 
+ saddhiṃ 
+ saṃvidhāya 
+ 
+ ekaddhānamaggaṃ 
+ paṭipajjeyya 
+ antamaso 
+ gāmantarampi 
+ pācittiyaṃ 
+ 
+ 
+ pācittiya 
+ 
+ 
  yo 
  pana 
  bhikkhu 
@@ -3544,6 +3969,7 @@ ni nidānuddeso
  tathāhaṃ 
  bhagavatā 
  dhammaṃ 
+ 
  desitaṃ 
  ājānāmi 
  yathā 
@@ -3551,20 +3977,24 @@ ni nidānuddeso
  antarāyikā 
  dhammā 
  vuttā 
+ 
  bhagavatā 
  te 
  paṭisevato 
  nālaṃ 
  antarāyāyāti 
+ 
  so 
  bhikkhu 
  bhikkhūhi 
  evamassa 
  vacanīyo 
- māyasmā 
+ mā 
+ āyasmā 
  evaṃ 
  avaca 
  mā 
+ 
  bhagavantaṃ 
  abbhācikkhi 
  na 
@@ -3577,8 +4007,11 @@ ni nidānuddeso
  bhagavā 
  evaṃ 
  vadeyya 
- anekapariyāyenāvuso 
+ 
+ anekapariyāyena 
+ āvuso 
  antarāyikā 
+ 
  dhammā 
  antarāyikā 
  vuttā 
@@ -3589,42 +4022,49 @@ ni nidānuddeso
  paṭisevato 
  antarāyāyāti 
  
+ evañca 
+ so 
+ bhikkhu 
+ bhikkhūhi 
+ vuccamāno 
+ tatheva 
+ paggaṇheyya 
+ so 
+ bhikkhu 
+ bhikkhūhi 
+ yāvatatiyaṃ 
+ 
+ samanubhāsitabbo 
+ tassa 
+ paṭinissaggāya 
+ yāvatatiyañce 
+ samanubhāsiyamāno 
+ taṃ 
+ paṭinissajeyya 
+ iccetaṃ 
+ kusalaṃ 
+ no 
+ ce 
+ paṭinissajeyya 
+ pācittiyaṃ 
  
  
- pa 
- ukkhittasambhogasikkhāpadaṃ 
+ pācittiya 
+ 
+ 
  yo 
  pana 
  bhikkhu 
  jānaṃ 
  tathāvādinā 
  bhikkhunā 
+ 
  akaṭānudhammena 
  taṃ 
  diṭṭhiṃ 
  appaṭinissaṭṭhena 
  saddhiṃ 
- sambhuñjeyya 
- vā 
- saṃvaseyya 
- vā 
- saha 
- vā 
- seyyaṃ 
- kappeyya 
- pācittiyaṃ 
  
- yo 
- pana 
- bhikkhu 
- jānaṃ 
- tathāvādinā 
- bhikkhunā 
- akaṭaanudhammena 
- taṃ 
- diṭṭhiṃ 
- appaṭinissaṭṭhena 
- saddhiṃ 
  sambhuñjeyya 
  vā 
  saṃvaseyya 
@@ -3636,9 +4076,9 @@ ni nidānuddeso
  pācittiyaṃ 
  
  
+ pācittiya 
  
- pa 
- kaṇṭakasikkhāpadaṃ 
+ 
  samaṇuddesopi 
  ce 
  evaṃ 
@@ -3646,6 +4086,7 @@ ni nidānuddeso
  tathāhaṃ 
  bhagavatā 
  dhammaṃ 
+ 
  desitaṃ 
  ājānāmi 
  yathā 
@@ -3653,19 +4094,23 @@ ni nidānuddeso
  antarāyikā 
  dhammā 
  vuttā 
+ 
  bhagavatā 
  te 
  paṭisevato 
  nālaṃ 
  antarāyāyāti 
+ 
  so 
  samaṇuddeso 
  bhikkhūhi 
  evamassa 
  vacanīyo 
- māvuso 
+ mā 
+ āvuso 
  samaṇuddesa 
  evaṃ 
+ 
  avaca 
  mā 
  bhagavantaṃ 
@@ -3680,6 +4125,29 @@ ni nidānuddeso
  bhagavā 
  evaṃ 
  vadeyya 
+ 
+ anekapariyāyena 
+ āvuso 
+ samaṇuddesa 
+ antarāyikā 
+ dhammā 
+ antarāyikā 
+ vuttā 
+ 
+ bhagavatā 
+ alañca 
+ pana 
+ te 
+ paṭisevato 
+ antarāyāyāti 
+ 
+ evañca 
+ so 
+ samaṇuddeso 
+ bhikkhūhi 
+ vuccamāno 
+ tatheva 
+ paggaṇheyya 
  so 
  samaṇuddeso 
  bhikkhūhi 
@@ -3702,42 +4170,18 @@ ni nidānuddeso
  bhikkhūhi 
  saddhiṃ 
  dirattatirattaṃ 
- sahaseyyaṃ 
+ 
+ saha 
+ seyyaṃ 
  sāpi 
  te 
  natthi 
- carapi 
- re 
+ cara 
+ pire 
  vinassāti 
  
- yampi 
- caññe 
- samaṇuddesā 
- labhanti 
- bhikkhūhi 
- saddhiṃ 
- dirattatirattaṃ 
- sahaseyyaṃ 
- sāpi 
- te 
- natthi 
- carapi 
- re 
- vinassāti 
  
- yampi 
- caññe 
- samaṇuddesā 
- labhanti 
- bhikkhūhi 
- saddhiṃ 
- dirattatirattaṃ 
- sahaseyyaṃ 
- sāpi 
- te 
- natthi 
- carapire 
- vinassāti 
+ 
  
  yo 
  pana 
@@ -3758,9 +4202,13 @@ ni nidānuddeso
  pācittiyaṃ 
  
  
+ sappāṇakavaggo sattamo 
  
- pa 
- sahadhammikasikkhāpadaṃ 
+ 
+ 
+ pācittiya 
+ 
+ 
  yo 
  pana 
  bhikkhu 
@@ -3768,6 +4216,7 @@ ni nidānuddeso
  sahadhammikaṃ 
  vuccamāno 
  evaṃ 
+ 
  vadeyya 
  na 
  tāvāhaṃ 
@@ -3784,43 +4233,24 @@ ni nidānuddeso
  paripucchāmīti 
  pācittiyaṃ 
  
- yo 
- pana 
- bhikkhu 
- bhikkhūhi 
- sahadhammikaṃ 
- vuccamāno 
- evaṃ 
- vadeyya 
- na 
- tāvaahaṃ 
- āvuso 
- etasmiṃ 
- sikkhāpade 
- sikkhissāmi 
- yāva 
- na 
- aññaṃ 
- bhikkhuṃ 
- byattaṃ 
- vinayadharaṃ 
- paripucchāmīti 
- pācittiyaṃ 
  
  sikkhamānena 
  bhikkhave 
  bhikkhunā 
  aññātabbaṃ 
+ 
  paripucchitabbaṃ 
  paripañhitabbaṃ 
+ 
  ayaṃ 
  tattha 
  sāmīci 
  
  
  
- pa 
- vilekhanasikkhāpadaṃ 
+ pācittiya 
+ 
+ 
  yo 
  pana 
  bhikkhu 
@@ -3829,6 +4259,7 @@ ni nidānuddeso
  evaṃ 
  vadeyya 
  kiṃ 
+ 
  panimehi 
  khuddānukhuddakehi 
  sikkhāpadehi 
@@ -3838,37 +4269,19 @@ ni nidānuddeso
  vihesāya 
  vilekhāya 
  saṃvattantīti 
- sikkhāpadavivaṇṇake 
- pācittiyaṃ 
  
- yo 
- pana 
- bhikkhu 
- pātimokkhe 
- uddissamāne 
- evaṃ 
- vadeyya 
- kiṃ 
- panimehi 
- khuddaanukhuddakehi 
- sikkhāpadehi 
- uddiṭṭhehi 
- yāvadeva 
- kukkuccāya 
- vihesāya 
- vilekhāya 
- saṃvattantīti 
  sikkhāpadavivaṇṇake 
  pācittiyaṃ 
  
  
  
- pa 
- mohanasikkhāpadaṃ 
+ pācittiya 
+ 
+ 
  yo 
  pana 
  bhikkhu 
- anvaddhamāsaṃ 
+ anvaḍḍhamāsaṃ 
  pātimokkhe 
  uddissamāne 
  evaṃ 
@@ -3882,25 +4295,29 @@ ni nidānuddeso
  dhammo 
  suttāgato 
  suttapariyāpanno 
- anvaddhamāsaṃ 
+ anvaḍḍhamāsaṃ 
  uddesaṃ 
- āgacchatīti 
+ āgacchatī 
+ 
+ ti 
  
  tañce 
  bhikkhuṃ 
  aññe 
  bhikkhū 
- jāneyyuṃ 
+ jāneyyum 
  nisinnapubbaṃ 
+ 
  iminā 
  bhikkhunā 
  dvattikkhattuṃ 
  pātimokkhe 
  uddissamāne 
+ 
  ko 
  pana 
  vādo 
- bhiyyo 
+ bhiyyoti 
  na 
  ca 
  tassa 
@@ -3913,10 +4330,10 @@ ni nidānuddeso
  āpattiṃ 
  āpanno 
  tañca 
- yathādhammo 
+ yathā 
+ dhammo 
  kāretabbo 
- uttari 
- cassa 
+ uttariñcassa 
  moho 
  āropetabbo 
  tassa 
@@ -3926,24 +4343,25 @@ ni nidānuddeso
  tassa 
  te 
  dulladdhaṃ 
+ 
  yaṃ 
  tvaṃ 
  pātimokkhe 
- uddissamānena 
+ uddissamāne 
+ na 
  sādhukaṃ 
- aṭṭhiṃ 
- katvā 
- manasi 
- karosīti 
+ aṭṭhikatvā 
+ manasikarosīti 
+ 
  idaṃ 
  tasmiṃ 
  mohanake 
  pācittiyaṃ 
  
  
+ pācittiya 
  
- pa 
- pahārasikkhāpadaṃ 
+ 
  yo 
  pana 
  bhikkhu 
@@ -3951,13 +4369,14 @@ ni nidānuddeso
  kupito 
  anattamano 
  pahāraṃ 
+ 
  dadeyya 
  pācittiyaṃ 
  
  
+ pācittiya 
  
- pa 
- talasattikasikkhāpadaṃ 
+ 
  yo 
  pana 
  bhikkhu 
@@ -3965,21 +4384,29 @@ ni nidānuddeso
  kupito 
  anattamano 
  talasattikaṃ 
+ 
  uggireyya 
  pācittiyaṃ 
  
  
  
- pa 
- sañciccasikkhāpadaṃ 
+ pācittiya 
+ 
+ 
  yo 
  pana 
  bhikkhu 
- sañcicca 
- pāṇaṃ 
- jīvitā 
- voropeyya 
+ bhikkhuṃ 
+ amūlakena 
+ saṅghādisesena 
+ 
+ anuddhaṃseyya 
  pācittiyaṃ 
+ 
+ 
+ 
+ pācittiya 
+ 
  
  yo 
  pana 
@@ -3994,10 +4421,1728 @@ ni nidānuddeso
  bhavissatīti 
  etadeva 
  paccayaṃ 
+ 
  karitvā 
  anaññaṃ 
  pācittiyaṃ 
  
  
  
+ pācittiya 
+ 
+ 
+ 
+ 
+ yo 
+ pana 
+ bhikkhu 
+ bhikkhūnaṃ 
+ bhaṇḍanajātānaṃ 
+ kalahajātānaṃ 
+ 
+ vivādāpannānaṃ 
+ upassutiṃ 
+ tiṭṭheyya 
+ yaṃ 
+ ime 
+ bhaṇissanti 
+ taṃ 
+ 
+ sossāmīti 
+ etadeva 
+ paccayaṃ 
+ karitvā 
+ anaññaṃ 
+ pācittiyaṃ 
+ 
+ 
+ 
+ pācittiya 
+ 
+ 
+ yo 
+ pana 
+ bhikkhu 
+ dhammikānaṃ 
+ kammānaṃ 
+ chandaṃ 
+ datvā 
+ 
+ pacchā 
+ khiyyanadhammaṃ 
+ āpajjeyya 
+ pācittiyaṃ 
+ 
+ 
+ pācittiya 
+ 
+ 
+ yo 
+ pana 
+ bhikkhu 
+ saṅghe 
+ vinicchayakathāya 
+ vattamānāya 
+ chandaṃ 
+ adatvā 
+ uṭṭhāyāsanā 
+ pakkameyya 
+ pācittiyaṃ 
+ 
+ 
+ pācittiya 
+ 
+ 
+ yo 
+ pana 
+ bhikkhu 
+ samaggena 
+ saṅghena 
+ cīvaraṃ 
+ datvā 
+ pacchā 
+ 
+ khiyyanadhammaṃ 
+ āpajjeyya 
+ yathāsanthutaṃ 
+ bhikkhū 
+ 
+ saṅghikaṃ 
+ lābhaṃ 
+ pariṇāmentīti 
+ pācittiyaṃ 
+ 
+ 
+ pācittiya 
+ 
+ 
+ yo 
+ pana 
+ bhikkhu 
+ jānaṃ 
+ saṅghikaṃ 
+ lābhaṃ 
+ pariṇataṃ 
+ puggalassa 
+ pariṇāmeyya 
+ pācittiyaṃ 
+ 
+ 
+ sahadhammikavaggo aṭṭhamo 
+ 
+ 
+ pācittiya 
+ 
+ 
+ yo 
+ pana 
+ bhikkhu 
+ rañño 
+ khattiyassa 
+ muddhābhisittassa 
+ anikkhantarājake 
+ aniggataratanake 
+ pubbe 
+ appaṭisaṃvidito 
+ indakhīlaṃ 
+ atikkameyya 
+ pācittiyaṃ 
+ 
+ 
+ pācittiya 
+ 
+ 
+ yo 
+ pana 
+ bhikkhu 
+ ratanaṃ 
+ vā 
+ ratanasammataṃ 
+ vā 
+ aññatra 
+ ajjhārāmā 
+ vā 
+ ajjhāvasathā 
+ vā 
+ uggaṇheyya 
+ vā 
+ uggaṇhāpeyya 
+ vā 
+ pācittiyaṃ 
+ 
+ ratanaṃ 
+ vā 
+ pana 
+ bhikkhunā 
+ ratanasammataṃ 
+ vā 
+ ajjhārāme 
+ vā 
+ ajjhāvasathe 
+ vā 
+ uggahetvā 
+ vā 
+ uggahāpetvā 
+ vā 
+ nikkhipitabbaṃ 
+ yassa 
+ bhavissati 
+ so 
+ harissatīti 
+ 
+ ayaṃ 
+ tattha 
+ sāmīci 
+ 
+ 
+ pācittiya 
+ 
+ 
+ yo 
+ pana 
+ bhikkhu 
+ santaṃ 
+ bhikkhuṃ 
+ anāpucchā 
+ vikāle 
+ gāmaṃ 
+ 
+ paviseyya 
+ aññatra 
+ tathārūpā 
+ accāyikā 
+ karaṇīyā 
+ pācittiyaṃ 
+ 
+ 
+ pācittiya 
+ 
+ 
+ yo 
+ pana 
+ bhikkhu 
+ aṭṭhimayaṃ 
+ vā 
+ dantamayaṃ 
+ vā 
+ visāṇamayaṃ 
+ vā 
+ 
+ sūcigharaṃ 
+ kārāpeyya 
+ bhedanakaṃ 
+ pācittiyaṃ 
+ 
+ 
+ pācittiya 
+ 
+ 
+ navaṃ 
+ pana 
+ bhikkhunā 
+ mañcaṃ 
+ vā 
+ pīṭhaṃ 
+ vā 
+ kārayamānena 
+ aṭṭhaṅgulapādakaṃ 
+ kāretabbaṃ 
+ sugataṅgulena 
+ aññatra 
+ heṭṭhimāya 
+ aṭaniyā 
+ 
+ taṃ 
+ atikkāmayato 
+ chedanakaṃ 
+ pācittiyaṃ 
+ 
+ 
+ pācittiya 
+ 
+ 
+ yo 
+ pana 
+ bhikkhu 
+ mañcaṃ 
+ vā 
+ pīṭhaṃ 
+ vā 
+ tūlonaddhaṃ 
+ kārāpeyya 
+ uddālanakaṃ 
+ pācittiyaṃ 
+ 
+ 
+ pācittiya 
+ 
+ 
+ nisīdanaṃ 
+ pana 
+ bhikkhunā 
+ kārayamānena 
+ pamāṇikaṃ 
+ 
+ kāretabbaṃ 
+ 
+ tatridaṃ 
+ pamāṇaṃ 
+ dīghaso 
+ dve 
+ vidatthiyo 
+ sugatavidatthiyā 
+ tiriyaṃ 
+ diyaḍḍhaṃ 
+ dasā 
+ vidatthi 
+ 
+ taṃ 
+ 
+ atikkāmayato 
+ chedanakaṃ 
+ pācittiyaṃ 
+ 
+ 
+ pācittiya 
+ 
+ 
+ kaṇḍupaṭicchādiṃ 
+ pana 
+ bhikkhunā 
+ kārayamānena 
+ pamāṇikā 
+ 
+ kāretabbā 
+ 
+ tatridaṃ 
+ pamāṇaṃ 
+ dīghaso 
+ catasso 
+ vidatthiyo 
+ sugatavidatthiyā 
+ tiriyaṃ 
+ dve 
+ vidatthiyo 
+ 
+ taṃ 
+ atikkāmayato 
+ chedanakaṃ 
+ pācittiyaṃ 
+ 
+ 
+ pācittiya 
+ 
+ 
+ vassikasāṭikaṃ 
+ pana 
+ bhikkhunā 
+ kārayamānena 
+ pamāṇikā 
+ 
+ kāretabbā 
+ 
+ tatridaṃ 
+ pamāṇaṃ 
+ dīghaso 
+ cha 
+ vidatthiyo 
+ sugatavidatthiyā 
+ tiriyaṃ 
+ aḍḍhateyyā 
+ 
+ taṃ 
+ atikkāmayato 
+ chedanakaṃ 
+ pācittiyaṃ 
+ 
+ 
+ pācittiya 
+ 
+ 
+ yo 
+ pana 
+ bhikkhu 
+ sugatacīvarappamāṇaṃ 
+ cīvaraṃ 
+ kārāpeyya 
+ atirekaṃ 
+ vā 
+ chedanakaṃ 
+ pācittiyaṃ 
+ 
+ 
+ tatridaṃ 
+ sugatassa 
+ sugatacīvarappamāṇaṃ 
+ dīghaso 
+ nava 
+ vidatthiyo 
+ sugatavidatthiyā 
+ tiriyaṃ 
+ cha 
+ vidatthiyo 
+ 
+ idaṃ 
+ 
+ sugatassa 
+ sugatacīvarappamāṇaṃ 
+ 
+ 
+ rājavaggo navamo 
+ 
+ 
+ uddiṭṭhā 
+ kho 
+ āyasmanto 
+ dvenavuti 
+ pācittiyā 
+ dhammā 
+ 
+ 
+ tatthāyasmante 
+ pucchāmi 
+ kaccittha 
+ parisuddhā 
+ 
+ dutiyampi 
+ pucchāmi 
+ kaccittha 
+ parisuddhā 
+ 
+ tatiyampi 
+ pucchāmi 
+ kaccittha 
+ parisuddhā 
+ 
+ parisuddhetthāyasmanto 
+ tasmā 
+ tuṇhī 
+ evametaṃ 
+ dhārayāmi 
+ 
+ 
+ pācittiyā 
+ niṭṭhitā 
+ 
+ 
+ 
+ pāṭidesanīyā 
+ 
+ 
+ ime 
+ kho 
+ panāyasmanto 
+ cattāro 
+ pāṭidesanīyā 
+ dhammā 
+ uddesaṃ 
+ 
+ āgacchanti 
+ 
+ 
+ 
+ pāṭidesanīya 
+ 
+ 
+ 
+ 
+ yo 
+ pana 
+ bhikkhu 
+ aññātikāya 
+ bhikkhuniyā 
+ antaragharaṃ 
+ 
+ paviṭṭhāya 
+ hatthato 
+ khādanīyaṃ 
+ vā 
+ bhojanīyaṃ 
+ vā 
+ sahatthā 
+ 
+ paṭiggahetvā 
+ khādeyya 
+ vā 
+ bhuñjeyya 
+ vā 
+ paṭidesetabbaṃ 
+ tena 
+ bhikkhunā 
+ gārayhaṃ 
+ āvuso 
+ dhammaṃ 
+ āpajjiṃ 
+ asappāyaṃ 
+ pāṭidesanīyaṃ 
+ taṃ 
+ paṭidesemīti 
+ 
+ 
+ pāṭidesanīya 
+ 
+ 
+ 
+ 
+ bhikkhū 
+ paneva 
+ kulesu 
+ nimantitā 
+ bhuñjanti 
+ tatra 
+ ce 
+ bhikkhunī 
+ 
+ vosāsamānarūpā 
+ ṭhitā 
+ hoti 
+ idha 
+ sūpaṃ 
+ detha 
+ idha 
+ odanaṃ 
+ dethā 
+ 
+ ti 
+ 
+ tehi 
+ bhikkhūhi 
+ sā 
+ bhikkhunī 
+ apasādetabbā 
+ apasakka 
+ tāva 
+ bhagini 
+ yāva 
+ bhikkhū 
+ bhuñjantīti 
+ 
+ ekassapi 
+ ce 
+ bhikkhuno 
+ nappaṭibhāseyya 
+ taṃ 
+ bhikkhuniṃ 
+ apasādetuṃ 
+ apasakka 
+ tāva 
+ bhagini 
+ yāva 
+ bhikkhū 
+ bhuñjantīti 
+ paṭidesetabbaṃ 
+ tehi 
+ bhikkhūhi 
+ gārayhaṃ 
+ āvuso 
+ dhammaṃ 
+ āpajjimhā 
+ asappāyaṃ 
+ pāṭidesanīyaṃ 
+ taṃ 
+ paṭidesemāti 
+ 
+ 
+ pāṭidesanīya 
+ 
+ 
+ yāni 
+ kho 
+ pana 
+ tāni 
+ sekhasammatāni 
+ kulāni 
+ yo 
+ pana 
+ bhikkhu 
+ tathārūpesu 
+ sekhasammatesu 
+ kulesu 
+ pubbe 
+ animantito 
+ agilāno 
+ khādanīyaṃ 
+ vā 
+ bhojanīyaṃ 
+ vā 
+ sahatthā 
+ paṭiggahetvā 
+ khādeyya 
+ vā 
+ bhuñjeyya 
+ vā 
+ paṭidesetabbaṃ 
+ tena 
+ bhikkhunā 
+ gārayhaṃ 
+ 
+ āvuso 
+ dhammaṃ 
+ āpajjiṃ 
+ asappāyaṃ 
+ pāṭidesanīyaṃ 
+ taṃ 
+ 
+ paṭidesemīti 
+ 
+ 
+ pāṭidesanīya 
+ 
+ 
+ yāni 
+ kho 
+ pana 
+ tāni 
+ āraññakāni 
+ senāsanāni 
+ sāsaṅkasammatāni 
+ sappaṭibhayāni 
+ yo 
+ pana 
+ bhikkhu 
+ tathārūpesu 
+ senāsanesu 
+ pubbe 
+ appaṭisaṃviditaṃ 
+ khādanīyaṃ 
+ vā 
+ bhojanīyaṃ 
+ vā 
+ ajjhārāme 
+ sahatthā 
+ paṭiggahetvā 
+ agilāno 
+ khādeyya 
+ vā 
+ bhuñjeyya 
+ vā 
+ paṭidesetabbaṃ 
+ tena 
+ bhikkhunā 
+ gārayhaṃ 
+ āvuso 
+ dhammaṃ 
+ 
+ āpajjiṃ 
+ asappāyaṃ 
+ pāṭidesanīyaṃ 
+ taṃ 
+ paṭidesemīti 
+ 
+ 
+ uddiṭṭhā 
+ kho 
+ āyasmanto 
+ cattāro 
+ pāṭidesanīyā 
+ dhammā 
+ 
+ 
+ tatthāyasmante 
+ pucchāmi 
+ kaccittha 
+ parisuddhā 
+ 
+ dutiyampi 
+ pucchāmi 
+ kaccittha 
+ parisuddhā 
+ 
+ tatiyampi 
+ pucchāmi 
+ kaccittha 
+ parisuddhā 
+ 
+ parisuddhetthāyasmanto 
+ tasmā 
+ tuṇhī 
+ evametaṃ 
+ dhārayāmi 
+ 
+ 
+ pāṭidesanīyā 
+ niṭṭhitā 
+  
+ 
+ sekhiyā 
+ 
+ 
+ ime 
+ kho 
+ panāyasmanto 
+ sekhiyā 
+ dhammā 
+ uddesaṃ 
+ āgacchanti 
+ 
+ 
+ sekhiya 
+ 
+ & 
+ 
+ 
+ parimaṇḍalaṃ 
+ nivāsessāmīti 
+ sikkhā 
+ karaṇīyā 
+ 
+ 
+ parimaṇḍalaṃ 
+ pārupissāmīti 
+ sikkhā 
+ karaṇīyā 
+ 
+ 
+ sekhiya 
+ 
+ & 
+ 
+ 
+ supaṭicchanno 
+ antaraghare 
+ gamissāmīti 
+ sikkhā 
+ karaṇīyā 
+ 
+ 
+ supaṭicchanno 
+ antaraghare 
+ nisīdissāmīti 
+ sikkhā 
+ karaṇīyā 
+ 
+ 
+ sekhiya 
+ 
+ & 
+ 
+ 
+ susaṃvuto 
+ antaraghare 
+ gamissāmīti 
+ sikkhā 
+ karaṇīyā 
+ 
+ 
+ susaṃvuto 
+ antaraghare 
+ nisīdissāmīti 
+ sikkhā 
+ karaṇīyā 
+ 
+ 
+ sekhiya 
+ 
+ & 
+ 
+ 
+ okkhittacakkhu 
+ antaraghare 
+ gamissāmīti 
+ sikkhā 
+ karaṇīyā 
+ 
+ 
+ okkhittacakkhu 
+ antaraghare 
+ nisīdissāmīti 
+ sikkhā 
+ karaṇīyā 
+ 
+ 
+ sekhiya 
+ 
+ & 
+ 
+ 
+ na 
+ ukkhittakāya 
+ antaraghare 
+ gamissāmīti 
+ sikkhā 
+ karaṇīyā 
+ 
+ 
+ na 
+ ukkhittakāya 
+ antaraghare 
+ nisīdissāmīti 
+ sikkhā 
+ karaṇīyā 
+ 
+ 
+ parimaṇḍalavaggo paṭhamo 
+  
+ 
+ sekhiya 
+ 
+ & 
+ 
+ 
+ na 
+ ujjagghikāya 
+ antaraghare 
+ gamissāmīti 
+ sikkhā 
+ karaṇīyā 
+ 
+ 
+ na 
+ ujjagghikāya 
+ antaraghare 
+ nisīdissāmīti 
+ sikkhā 
+ karaṇīyā 
+ 
+ 
+ sekhiya 
+ 
+ & 
+ 
+ 
+ appasaddo 
+ antaraghare 
+ gamissāmīti 
+ sikkhā 
+ karaṇīyā 
+ 
+ 
+ appasaddo 
+ antaraghare 
+ nisīdissāmīti 
+ sikkhā 
+ karaṇīyā 
+ 
+ 
+ sekhiya 
+ 
+ & 
+ 
+ 
+ na 
+ kāyappacālakaṃ 
+ antaraghare 
+ gamissāmīti 
+ sikkhā 
+ karaṇīyā 
+ 
+ 
+ na 
+ kāyappacālakaṃ 
+ antaraghare 
+ nisīdissāmīti 
+ sikkhā 
+ karaṇīyā 
+ 
+ 
+ sekhiya 
+ 
+ & 
+ 
+ 
+ na 
+ bāhuppacālakaṃ 
+ antaraghare 
+ gamissāmīti 
+ sikkhā 
+ karaṇīyā 
+ 
+ 
+ na 
+ bāhuppacālakaṃ 
+ antaraghare 
+ nisīdissāmīti 
+ sikkhā 
+ karaṇīyā 
+ 
+ 
+ sekhiya 
+ 
+ & 
+ 
+ 
+ na 
+ sīsappacālakaṃ 
+ antaraghare 
+ gamissāmīti 
+ sikkhā 
+ karaṇīyā 
+ 
+ 
+ na 
+ sīsappacālakaṃ 
+ antaraghare 
+ nisīdissāmīti 
+ sikkhā 
+ karaṇīyā 
+ 
+ 
+ ujjagghikavaggo dutiyo 
+  
+ 
+ sekhiya 
+ 
+ & 
+ 
+ 
+ na 
+ khambhakato 
+ antaraghare 
+ gamissāmīti 
+ sikkhā 
+ karaṇīyā 
+ 
+ 
+ na 
+ khambhakato 
+ antaraghare 
+ nisīdissāmīti 
+ sikkhā 
+ karaṇīyā 
+ 
+ 
+ sekhiya 
+ 
+ & 
+ 
+ 
+ na 
+ oguṇṭhito 
+ antaraghare 
+ gamissāmīti 
+ sikkhā 
+ karaṇīyā 
+ 
+ 
+ na 
+ oguṇṭhito 
+ antaraghare 
+ nisīdissāmīti 
+ sikkhā 
+ karaṇīyā 
+ 
+ 
+ sekhiya 
+ 
+ 
+ na 
+ ukkuṭikāya 
+ antaraghare 
+ gamissāmīti 
+ sikkhā 
+ karaṇīyā 
+ 
+ 
+ sekhiya 
+ 
+ 
+ na 
+ pallatthikāya 
+ antaraghare 
+ nisīdissāmīti 
+ sikkhā 
+ karaṇīyā 
+ 
+ 
+ sekhiya 
+ 
+ 
+ sakkaccaṃ 
+ piṇḍapātaṃ 
+ paṭiggahessāmīti 
+ sikkhā 
+ karaṇīyā 
+ 
+ 
+ sekhiya 
+ 
+ 
+ pattasaññī 
+ piṇḍapātaṃ 
+ paṭiggahessāmīti 
+ sikkhā 
+ karaṇīyā 
+ 
+ 
+ sekhiya 
+ 
+ 
+ samasūpakaṃ 
+ piṇḍapātaṃ 
+ paṭiggahessāmīti 
+ sikkhā 
+ karaṇīyā 
+ 
+ 
+ sekhiya 
+ 
+ 
+ samatitthikaṃ 
+ piṇḍapātaṃ 
+ paṭiggahessāmīti 
+ sikkhā 
+ karaṇīyā 
+ 
+ 
+ khambhakatavaggo tatiyo 
+ 
+  
+ 
+ sekhiya 
+ 
+ 
+ sakkaccaṃ 
+ piṇḍapātaṃ 
+ bhuñjissāmīti 
+ sikkhā 
+ karaṇīyā 
+ 
+ 
+ sekhiya 
+ 
+ 
+ pattasaññī 
+ piṇḍapātaṃ 
+ bhuñjissāmīti 
+ sikkhā 
+ karaṇīyā 
+ 
+ 
+ sekhiya 
+ 
+ 
+ sapadānaṃ 
+ piṇḍapātaṃ 
+ bhuñjissāmīti 
+ sikkhā 
+ karaṇīyā 
+ 
+ 
+ sekhiya 
+ 
+ 
+ samasūpakaṃ 
+ piṇḍapātaṃ 
+ bhuñjissāmīti 
+ sikkhā 
+ karaṇīyā 
+ 
+ 
+ sekhiya 
+ 
+ 
+ na 
+ thūpakato 
+ omadditvā 
+ piṇḍapātaṃ 
+ bhuñjissāmīti 
+ sikkhā 
+ 
+ karaṇīyā 
+ 
+ 
+ sekhiya 
+ 
+ 
+ na 
+ sūpaṃ 
+ vā 
+ byañjanaṃ 
+ vā 
+ odanena 
+ paṭicchādessāmi 
+ bhiyyokamyataṃ 
+ upādāyāti 
+ sikkhā 
+ karaṇīyā 
+ 
+ 
+ sekhiya 
+ 
+ 
+ na 
+ sūpaṃ 
+ vā 
+ odanaṃ 
+ vā 
+ agilāno 
+ attano 
+ atthāya 
+ viññāpetvā 
+ bhuñjissāmīti 
+ sikkhā 
+ karaṇīyā 
+ 
+ 
+ sekhiya 
+ 
+ 
+ na 
+ ujjhānasaññī 
+ paresaṃ 
+ pattaṃ 
+ olokessāmīti 
+ sikkhā 
+ karaṇīyā 
+ 
+ 
+ sekhiya 
+ 
+ 
+ nātimahantaṃ 
+ kabaḷaṃ 
+ karissāmīti 
+ sikkhā 
+ karaṇīyā 
+ 
+ 
+ sekhiya 
+ 
+ 
+ parimaṇḍalaṃ 
+ ālopaṃ 
+ karissāmīti 
+ sikkhā 
+ karaṇīyā 
+ 
+ 
+ 
+ sakkaccavaggo catuttho 
+  
+ 
+ sekhiya 
+ 
+ 
+ na 
+ anāhaṭe 
+ kabaḷe 
+ mukhadvāraṃ 
+ vivarissāmīti 
+ sikkhā 
+ karaṇīyā 
+ 
+ 
+ sekhiya 
+ 
+ 
+ na 
+ bhuñjamāno 
+ sabbaṃ 
+ hatthaṃ 
+ mukhe 
+ pakkhipissāmīti 
+ sikkhā 
+ 
+ karaṇīyā 
+ 
+ 
+ sekhiya 
+ 
+ 
+ na 
+ sakabaḷena 
+ mukhena 
+ byāharissāmīti 
+ sikkhā 
+ karaṇīyā 
+ 
+ 
+ sekhiya 
+ 
+ 
+ na 
+ piṇḍukkhepakaṃ 
+ bhuñjissāmīti 
+ sikkhā 
+ karaṇīyā 
+ 
+ 
+ sekhiya 
+ 
+ 
+ na 
+ kabaḷāvacchedakaṃ 
+ bhuñjissāmīti 
+ sikkhā 
+ karaṇīyā 
+ 
+ 
+ sekhiya 
+ 
+ 
+ na 
+ avagaṇḍakārakaṃ 
+ bhuñjissāmīti 
+ sikkhā 
+ karaṇīyā 
+ 
+ 
+ sekhiya 
+ 
+ 
+ 
+ na 
+ hatthaniddhunakaṃ 
+ bhuñjissāmīti 
+ sikkhā 
+ karaṇīyā 
+ 
+ 
+ sekhiya 
+ 
+ 
+ na 
+ sitthāvakārakaṃ 
+ bhuñjissāmīti 
+ sikkhā 
+ karaṇīyā 
+ 
+ 
+ sekhiya 
+ 
+ 
+ na 
+ jivhānicchārakaṃ 
+ bhuñjissāmīti 
+ sikkhā 
+ karaṇīyā 
+ 
+ 
+ sekhiya 
+ 
+ 
+ na 
+ capucapukārakaṃ 
+ bhuñjissāmīti 
+ sikkhā 
+ karaṇīyā 
+ 
+ 
+ kabaḷavaggo pañcamo 
+ 
+  
+ 
+ sekhiya 
+ 
+ 
+ na 
+ surusurukārakaṃ 
+ bhuñjissāmīti 
+ sikkhā 
+ karaṇīyā 
+ 
+ 
+ sekhiya 
+ 
+ 
+ na 
+ hatthanillehakaṃ 
+ bhuñjissāmīti 
+ sikkhā 
+ karaṇīyā 
+ 
+ 
+ sekhiya 
+ 
+ 
+ na 
+ pattanillehakaṃ 
+ bhuñjissāmīti 
+ sikkhā 
+ karaṇīyā 
+ 
+ 
+ sekhiya 
+ 
+ 
+ na 
+ oṭṭhanillehakaṃ 
+ bhuñjissāmīti 
+ sikkhā 
+ karaṇīyā 
+ 
+ 
+ sekhiya 
+ 
+ 
+ na 
+ sāmisena 
+ hatthena 
+ pānīyathālakaṃ 
+ paṭiggahessāmīti 
+ sikkhā 
+ 
+ karaṇīyā 
+ 
+ 
+ sekhiya 
+ 
+ 
+ na 
+ sasitthakaṃ 
+ pattadhovanaṃ 
+ antaraghare 
+ chaḍḍessāmīti 
+ sikkhā 
+ karaṇīyā 
+ 
+ 
+ sekhiya 
+ 
+ 
+ na 
+ chattapāṇissa 
+ agilānassa 
+ dhammaṃ 
+ desessāmīti 
+ sikkhā 
+ 
+ karaṇīyā 
+ 
+ 
+ sekhiya 
+ 
+ 
+ na 
+ daṇḍapāṇissa 
+ agilānassa 
+ dhammaṃ 
+ desessāmīti 
+ sikkhā 
+ 
+ karaṇīyā 
+ 
+ 
+ sekhiya 
+ 
+ 
+ na 
+ satthapāṇissa 
+ agilānassa 
+ dhammaṃ 
+ desessāmīti 
+ sikkhā 
+ 
+ karaṇīyā 
+ 
+ 
+ sekhiya 
+ 
+ 
+ na 
+ āvudhapāṇissa 
+ agilānassa 
+ dhammaṃ 
+ desessāmīti 
+ sikkhā 
+ 
+ karaṇīyā 
+ 
+ 
+ surusuruvaggo chaṭṭho 
+ 
+  
+ 
+ sekhiya 
+ 
+ 
+ na 
+ pādukārūḷhassa 
+ agilānassa 
+ dhammaṃ 
+ desessāmīti 
+ sikkhā 
+ 
+ karaṇīyā 
+ 
+ 
+ sekhiya 
+ 
+ 
+ na 
+ upāhanārūḷhassa 
+ agilānassa 
+ dhammaṃ 
+ desessāmīti 
+ sikkhā 
+ 
+ karaṇīyā 
+ 
+ 
+ sekhiya 
+ 
+ 
+ na 
+ yānagatassa 
+ agilānassa 
+ dhammaṃ 
+ desessāmīti 
+ sikkhā 
+ 
+ karaṇīyā 
+ 
+ 
+ sekhiya 
+ 
+ 
+ na 
+ sayanagatassa 
+ agilānassa 
+ dhammaṃ 
+ desessāmīti 
+ sikkhā 
+ 
+ karaṇīyā 
+ 
+ 
+ sekhiya 
+ 
+ 
+ na 
+ pallatthikāya 
+ nisinnassa 
+ agilānassa 
+ dhammaṃ 
+ desessāmīti 
+ sikkhā 
+ karaṇīyā 
+ 
+ 
+ sekhiya 
+ 
+ 
+ na 
+ veṭhitasīsassa 
+ agilānassa 
+ dhammaṃ 
+ desessāmīti 
+ sikkhā 
+ 
+ karaṇīyā 
+ 
+ 
+ sekhiya 
+ 
+ 
+ na 
+ oguṇṭhitasīsassa 
+ agilānassa 
+ dhammaṃ 
+ desessāmīti 
+ sikkhā 
+ 
+ karaṇīyā 
+ 
+ 
+ sekhiya 
+ 
+ 
+ na 
+ chamāyaṃ 
+ nisīditvā 
+ āsane 
+ nisinnassa 
+ agilānassa 
+ dhammaṃ 
+ 
+ desessāmīti 
+ sikkhā 
+ karaṇīyā 
+ 
+ 
+ sekhiya 
+ 
+ 
+ na 
+ nīce 
+ āsane 
+ nisīditvā 
+ ucce 
+ āsane 
+ nisinnassa 
+ agilānassa 
+ dhammaṃ 
+ desessāmīti 
+ sikkhā 
+ karaṇīyā 
+ 
+ 
+ sekhiya 
+ 
+ 
+ na 
+ ṭhito 
+ nisinnassa 
+ agilānassa 
+ dhammaṃ 
+ desessāmīti 
+ sikkhā 
+ 
+ karaṇīyā 
+ 
+ 
+ sekhiya 
+ 
+ 
+ na 
+ pacchato 
+ gacchanto 
+ purato 
+ gacchantassa 
+ agilānassa 
+ dhammaṃ 
+ desessāmīti 
+ sikkhā 
+ karaṇīyā 
+ 
+ 
+ sekhiya 
+ 
+ 
+ na 
+ uppathena 
+ gacchanto 
+ pathena 
+ gacchantassa 
+ agilānassa 
+ dhammaṃ 
+ desessāmīti 
+ sikkhā 
+ karaṇīyā 
+ 
+ 
+ sekhiya 
+ 
+ 
+ na 
+ ṭhito 
+ agilāno 
+ uccāraṃ 
+ vā 
+ passāvaṃ 
+ vā 
+ karissāmīti 
+ sikkhā 
+ 
+ karaṇīyā 
+ 
+ 
+ sekhiya 
+ 
+ 
+ na 
+ harite 
+ agilāno 
+ uccāraṃ 
+ vā 
+ passāvaṃ 
+ vā 
+ kheḷaṃ 
+ vā 
+ karissāmīti 
+ sikkhā 
+ karaṇīyā 
+ 
+ 
+ sekhiya 
+ 
+ 
+ na 
+ udake 
+ agilāno 
+ uccāraṃ 
+ vā 
+ passāvaṃ 
+ vā 
+ kheḷaṃ 
+ vā 
+ karissāmīti 
+ sikkhā 
+ karaṇīyā 
+ 
+ 
+ pādukavaggo sattamo 
+ 
+  
+ 
+ uddiṭṭhā 
+ kho 
+ āyasmanto 
+ sekhiyā 
+ dhammā 
+ 
+ 
+ tatthāyasmante 
+ pucchāmi 
+ kaccittha 
+ parisuddhā 
+ 
+ dutiyampi 
+ pucchāmi 
+ kaccittha 
+ parisuddhā 
+ 
+ tatiyampi 
+ pucchāmi 
+ kaccittha 
+ parisuddhā 
+ 
+ parisuddhetthāyasmanto 
+ tasmā 
+ tuṇhī 
+ evametaṃ 
+ dhārayāmi 
+ 
+ 
+ sekhiyā niṭṭhitā 
+ 
+ 
+ adhikaraṇasamathā 
+ 
+ ime 
+ kho 
+ panāyasmanto 
+ satta 
+ adhikaraṇasamathā 
+ dhammā 
+ 
+ uddesaṃ 
+ āgacchanti 
+ 
+ 
+ 
+ 
+ uppannuppannānaṃ 
+ adhikaraṇānaṃ 
+ samathāya 
+ vūpasamāya 
+ sammukhāvinayo 
+ dātabbo 
+ sativinayo 
+ dātabbo 
+ amūḷhavinayo 
+ dātabbo 
+ paṭiññāya 
+ kāretabbo 
+ yebhuyyasikā 
+ tassapāpiyyasikā 
+ tiṇavatthārakoti 
+ 
+ 
+ 
+ uddiṭṭhā 
+ kho 
+ āyasmanto 
+ satta 
+ adhikaraṇasamathā 
+ dhammā 
+ 
+ tatthāyasmante 
+ pucchāmi 
+ kaccittha 
+ parisuddhā 
+ 
+ dutiyampi 
+ pucchāmi 
+ kaccittha 
+ parisuddhā 
+ 
+ tatiyampi 
+ pucchāmi 
+ kaccittha 
+ parisuddhā 
+ 
+ parisuddhetthāyasmanto 
+ tasmā 
+ tuṇhī 
+ evametaṃ 
+ dhārayāmi 
+ 
+ 
+ adhikaraṇasamathā niṭṭhitā 
+ 
+  
+ 
+ 
+ 
+ uddiṭṭhaṃ 
+ kho 
+ āyasmanto 
+ nidānaṃ 
+ 
+ 
+ uddiṭṭhā 
+ cattāro 
+ pārājikā 
+ dhammā 
+ 
+ 
+ uddiṭṭhā 
+ terasa 
+ saṅghādisesā 
+ dhammā 
+ 
+ 
+ uddiṭṭhā 
+ dve 
+ aniyatā 
+ dhammā 
+ 
+ 
+ uddiṭṭhā 
+ tiṃsa 
+ nissaggiyā 
+ pācittiyā 
+ dhammā 
+ 
+ 
+ uddiṭṭhā 
+ dvenavuti 
+ pācittiyā 
+ dhammā 
+ 
+ 
+ uddiṭṭhā 
+ cattāro 
+ pāṭidesanīyā 
+ dhammā 
+ 
+ 
+ uddiṭṭhā 
+ sekhiyā 
+ dhammā 
+ 
+ 
+ uddiṭṭhā 
+ satta 
+ adhikaraṇasamathā 
+ dhammā 
+ 
+ 
+ 
+ ettakaṃ 
+ tassa 
+ bhagavato 
+ suttāgataṃ 
+ suttapariyāpannaṃ 
+ 
+ anvaḍḍhamāsaṃ 
+ uddesaṃ 
+ āgacchati 
+ 
+ tattha 
+ sabbeheva 
+ samaggehi 
+ sammodamānehi 
+ avivadamānehi 
+ sikkhitabbanti 
+ 
+ 
+ vitthāruddeso pañcamo 
+ 
+  
+ 
+ bhikkhupātimokkhaṃ niṭṭhitaṃ 
+ 
+  
  

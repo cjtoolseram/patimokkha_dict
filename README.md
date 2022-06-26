@@ -4,4 +4,4 @@
  Extract words which are complete. 
  Keep only English.
 
-Also make html from ods
+Also make html and txt from ods

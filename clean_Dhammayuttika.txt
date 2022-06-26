@@ -57,7 +57,7 @@
  natthi 
  
  aparāni 
- tīṇi 
+ tīṇi1 
  bhikkhūnaṃ 
  vattaṃ 
  jānantehi 
@@ -141,7 +141,7 @@
  
  imasmimpana 
  uposathagge 
- cattāro 
+ cattāro7 
  bhikkhū 
  sannipatitā 
  honti 
@@ -428,7 +428,7 @@
  
  
  
- 
+ 1 
  
  yo 
  pana 
@@ -450,7 +450,7 @@
  
  
  
- 
+ 2 
  
  yo 
  pana 
@@ -489,7 +489,7 @@
  
  
  
- 
+ 3 
  
  yo 
  pana 
@@ -534,7 +534,7 @@
  
  
  
- 
+ 4 
  
  yo 
  pana 
@@ -643,7 +643,7 @@
  
  
  
- 
+ 1 
  
  sañcetanikā 
  sukkavisaṭṭhi 
@@ -653,7 +653,7 @@
  
  
  
- 
+ 2 
  
  yo 
  pana 
@@ -679,7 +679,7 @@
  
  
  
- 
+ 3 
  
  yo 
  pana 
@@ -700,7 +700,7 @@
  
  
  
- 
+ 4 
  
  yo 
  pana 
@@ -729,7 +729,7 @@
  
  
  
- 
+ 5 
  
  yo 
  pana 
@@ -752,7 +752,7 @@
  
  
  
- 
+ 6 
  
  saññācikāya 
  pana 
@@ -802,7 +802,7 @@
  saṅghādiseso 
  
  
- 
+ 7 
  
  mahallakampana 
  bhikkhunā 
@@ -837,7 +837,7 @@
  
  
  
- 
+ 8 
  
  yo 
  pana 
@@ -876,7 +876,7 @@
  
  
  
- 
+ 9 
  
  yo 
  pana 
@@ -924,7 +924,7 @@
  
  
  
- 
+ 10 
  
  yo 
  pana 
@@ -998,7 +998,7 @@
  
  
  
- 
+ 11 
  
  tasseva 
  kho 
@@ -1107,7 +1107,7 @@
  
  
  
- 
+ 12 
  
  bhikkhu 
  paneva 
@@ -1160,7 +1160,7 @@
  attānaṃ 
  karotu 
  
- āyasmāpi 
+ fiyasmāpi 
  bhikkhū 
  vadetu 
  sahadhammena 
@@ -1207,7 +1207,7 @@
  
  
  
- 
+ 13 
  
  bhikkhu 
  paneva 
@@ -1243,12 +1243,12 @@
  bhikkhūhi 
  evamassa 
  vacanīyo 
- āyasmā 
+ fiyasmā 
  kho 
  kuladūsako 
  pāpasamācāro 
  
- āyasmato 
+ fiyasmato 
  kho 
  pāpakā 
  samācārā 
@@ -1327,12 +1327,12 @@
  bhikkhū 
  bhayagāmino 
  
- āyasmā 
+ fiyasmā 
  kho 
  kuladūsako 
  pāpasamācāro 
  
- āyasmato 
+ fiyasmato 
  kho 
  pāpakā 
  samācārā 
@@ -1486,7 +1486,7 @@
  
  
  
- 
+ 1 
  
  yo 
  pana 
@@ -1548,7 +1548,7 @@
  
  
  
- 
+ 2 
  
  na 
  heva 
@@ -1663,7 +1663,7 @@
  
  
  
- 
+ 1 
  
  niṭṭhitacīvarasmiṃ 
  bhikkhunā 
@@ -1680,7 +1680,7 @@
  
  
  
- 
+ 2 
  
  niṭṭhitacīvarasmiṃ 
  bhikkhunā 
@@ -1698,7 +1698,7 @@
  
  
  
- 
+ 3 
  
  niṭṭhitacīvarasmiṃ 
  bhikkhunā 
@@ -1740,7 +1740,7 @@
  
  
  
- 
+ 4 
  
  yo 
  pana 
@@ -1759,7 +1759,7 @@
  
  
  
- 
+ 5 
  
  yo 
  pana 
@@ -1770,13 +1770,13 @@
  cīvaraṃ 
  paṭiggaṇheyya 
  aññatra 
- pārivaṭąkā 
+ pārivaṭṭakā 
  nissaggiyaṃ 
  pācittiyaṃ 
  
  
  
- 
+ 6 
  
  yo 
  pana 
@@ -1808,7 +1808,7 @@
  
  
  
- 
+ 7 
  
  tañce 
  aññātako 
@@ -1834,7 +1834,7 @@
  
  
  
- 
+ 8 
  
  bhikkhuṃ 
  paneva 
@@ -1886,7 +1886,7 @@
  
  
  
- 
+ 9 
  
  bhikkhuṃ 
  paneva 
@@ -1944,7 +1944,7 @@
  
  
  
- 
+ 10 
  
  bhikkhuṃ 
  paneva 
@@ -2166,7 +2166,7 @@
  paṭhamo 
  
  
- 
+ 11 
  
  yo 
  pana 
@@ -2179,7 +2179,7 @@
  
  
  
- 
+ 12 
  
  yo 
  pana 
@@ -2192,7 +2192,7 @@
  pācittiyaṃ 
  
  
- 
+ 13 
  
  navampana 
  bhikkhunā 
@@ -2227,7 +2227,7 @@
  
  
  
- 
+ 14 
  
  navampana 
  bhikkhunā 
@@ -2257,7 +2257,7 @@
  
  
  
- 
+ 15 
  
  nisīdanasanthatampana 
  bhikkhunā 
@@ -2282,7 +2282,7 @@
  
  
  
- 
+ 16 
  
  bhikkhuno 
  paneva 
@@ -2290,7 +2290,7 @@
  eḷakalomāni 
  uppajjeyyuṃ 
  
- fikaṅkhamānena 
+ ākaṅkhamānena 
  bhikkhunā 
  paṭiggahetabbāni 
  
@@ -2312,7 +2312,7 @@
  
  
  
- 
+ 17 
  
  yo 
  pana 
@@ -2331,7 +2331,7 @@
  
  
  
- 
+ 18 
  
  yo 
  pana 
@@ -2349,7 +2349,7 @@
  
  
  
- 
+ 19 
  
  yo 
  pana 
@@ -2362,7 +2362,7 @@
  
  
  
- 
+ 20 
  
  yo 
  pana 
@@ -2379,7 +2379,7 @@
  dutiyo 
  
  
- 
+ 21 
  
  dasāhaparamaṃ 
  atirekapatto 
@@ -2391,7 +2391,7 @@
  pācittiyaṃ 
  
  
- 
+ 22 
  
  yo 
  pana 
@@ -2435,7 +2435,7 @@
  
  
  
- 
+ 23 
  
  yāni 
  kho 
@@ -2463,7 +2463,7 @@
  pācittiyaṃ 
  
  
- 
+ 24 
  
  māso 
  seso 
@@ -2494,7 +2494,7 @@
  pācittiyaṃ 
  
  
- 
+ 25 
  
  yo 
  pana 
@@ -2514,7 +2514,7 @@
  
  
  
- 
+ 26 
  
  yo 
  pana 
@@ -2530,7 +2530,7 @@
  
  
  
- 
+ 27 
  
  bhikkhuṃ 
  paneva 
@@ -2563,7 +2563,7 @@
  uddissa 
  vīyati 
  
- āyatañca 
+ fiyatañca 
  karotha 
  vitthatañca 
  appitañca 
@@ -2592,7 +2592,7 @@
  
  
  
- 
+ 28 
  
  dasāhānāgataṃ 
  kattikatemāsipuṇṇamaṃ 
@@ -2619,7 +2619,7 @@
  pācittiyaṃ 
  
  
- 
+ 29 
  
  upavassaṃ 
  kho 
@@ -2672,7 +2672,7 @@
  
  
  
- 
+ 30 
  
  yo 
  pana 
@@ -2737,28 +2737,28 @@
  
  
  
- 
+ 1 
  
  sampajānamusāvāde 
  pācittiyaṃ 
  
  
  
- 
+ 2 
  
  omasavāde 
  pācittiyaṃ 
  
  
  
- 
+ 3 
  
  bhikkhupesuññe 
  pācittiyaṃ 
  
  
  
- 
+ 4 
  
  yo 
  pana 
@@ -2771,7 +2771,7 @@
  
  
  
- 
+ 5 
  
  yo 
  pana 
@@ -2784,7 +2784,7 @@
  
  
  
- 
+ 6 
  
  yo 
  pana 
@@ -2796,7 +2796,7 @@
  
  
  
- 
+ 7 
  
  yo 
  pana 
@@ -2812,7 +2812,7 @@
  
  
  
- 
+ 8 
  
  yo 
  pana 
@@ -2824,7 +2824,7 @@
  pācittiyaṃ 
  
  
- 
+ 9 
  
  yo 
  pana 
@@ -2838,7 +2838,7 @@
  bhikkhusammatiyā 
  pācittiyaṃ 
  
- 
+ 10 
  
  yo 
  pana 
@@ -2855,14 +2855,14 @@
  paṭhamo 
  
  
- 
+ 11 
  
  bhūtagāmapātabyatāya 
  pācittiyaṃ 
  
  
  
- 
+ 12 
  
  aññavādake 
  vihesake 
@@ -2870,7 +2870,7 @@
  
  
  
- 
+ 13 
  
  ujjhāpanake 
  khiyyanake 
@@ -2878,7 +2878,7 @@
  
  
  
- 
+ 14 
  
  yo 
  pana 
@@ -2910,7 +2910,7 @@
  
  
  
- 
+ 15 
  
  yo 
  pana 
@@ -2935,7 +2935,7 @@
  
  
  
- 
+ 16 
  
  yo 
  pana 
@@ -2962,7 +2962,7 @@
  
  
  
- 
+ 17 
  
  yo 
  pana 
@@ -2980,7 +2980,7 @@
  
  
  
- 
+ 18 
  
  yo 
  pana 
@@ -3001,7 +3001,7 @@
  
  
  
- 
+ 19 
  
  mahallakampana 
  bhikkhunā 
@@ -3025,7 +3025,7 @@
  adhiṭṭhaheyya 
  pācittiyaṃ 
  
- 
+ 20 
  
  yo 
  pana 
@@ -3048,7 +3048,7 @@
  dutiyo 
  
  
- 
+ 21 
  
  yo 
  pana 
@@ -3060,7 +3060,7 @@
  
  
  
- 
+ 22 
  
  sammatopi 
  ce 
@@ -3073,7 +3073,7 @@
  
  
  
- 
+ 23 
  
  yo 
  pana 
@@ -3098,7 +3098,7 @@
  
  
  
- 
+ 24 
  
  yo 
  pana 
@@ -3113,7 +3113,7 @@
  
  
  
- 
+ 25 
  
  yo 
  pana 
@@ -3128,7 +3128,7 @@
  
  
  
- 
+ 26 
  
  yo 
  pana 
@@ -3144,7 +3144,7 @@
  
  
  
- 
+ 27 
  
  yo 
  pana 
@@ -3174,7 +3174,7 @@
  
  
  
- 
+ 28 
  
  yo 
  pana 
@@ -3195,7 +3195,7 @@
  
  
  
- 
+ 29 
  
  yo 
  pana 
@@ -3211,7 +3211,7 @@
  
  
  
- 
+ 30 
  
  yo 
  pana 
@@ -3231,7 +3231,7 @@
  tatiyo 
  
  
- 
+ 31 
  
  agilānena 
  bhikkhunā 
@@ -3247,7 +3247,7 @@
  
  
  
- 
+ 32 
  
  gaṇabhojane 
  aññatra 
@@ -3270,7 +3270,7 @@
  
  
  
- 
+ 33 
  
  paramparabhojane 
  aññatra 
@@ -3289,7 +3289,7 @@
  
  
  
- 
+ 34 
  
  bhikkhuṃ 
  paneva 
@@ -3325,7 +3325,7 @@
  
  
  
- 
+ 35 
  
  yo 
  pana 
@@ -3345,7 +3345,7 @@
  
  
  
- 
+ 36 
  
  yo 
  pana 
@@ -3372,7 +3372,7 @@
  
  
  
- 
+ 37 
  
  yo 
  pana 
@@ -3390,7 +3390,7 @@
  
  
  
- 
+ 38 
  
  yo 
  pana 
@@ -3408,7 +3408,7 @@
  
  
  
- 
+ 39 
  
  yāni 
  kho 
@@ -3439,7 +3439,7 @@
  pācittiyaṃ 
  
  
- 
+ 40 
  
  yo 
  pana 
@@ -3458,7 +3458,7 @@
  catuttho 
  
  
- 
+ 41 
  
  yo 
  pana 
@@ -3479,7 +3479,7 @@
  
  
  
- 
+ 42 
  
  yo 
  pana 
@@ -3531,7 +3531,7 @@
  
  
  
- 
+ 43 
  
  yo 
  pana 
@@ -3545,7 +3545,7 @@
  
  
  
- 
+ 44 
  
  yo 
  pana 
@@ -3561,7 +3561,7 @@
  
  
  
- 
+ 45 
  
  yo 
  pana 
@@ -3577,7 +3577,7 @@
  
  
  
- 
+ 46 
  
  yo 
  pana 
@@ -3610,7 +3610,7 @@
  
  
  
- 
+ 47 
  
  agilānena 
  bhikkhunā 
@@ -3629,7 +3629,7 @@
  
  
  
- 
+ 48 
  
  yo 
  pana 
@@ -3644,7 +3644,7 @@
  
  
  
- 
+ 49 
  
  siyā 
  ca 
@@ -3668,7 +3668,7 @@
  
  
  
- 
+ 50 
  
  dvirattatirattañce 
  bhikkhu 
@@ -3691,21 +3691,21 @@
  pañcamo 
  
  
- 
+ 51 
  
  surāmerayapāne 
  pācittiyaṃ 
  
  
  
- 
+ 52 
  
  aṅgulipatodake 
  pācittiyaṃ 
  
  
  
- 
+ 53 
  
  udake 
  hassadhamme 
@@ -3713,14 +3713,14 @@
  
  
  
- 
+ 54 
  
  anādariye 
  pācittiyaṃ 
  
  
  
- 
+ 55 
  
  yo 
  pana 
@@ -3730,7 +3730,7 @@
  pācittiyaṃ 
  
  
- 
+ 56 
  
  yo 
  pana 
@@ -3748,7 +3748,7 @@
  
  
  
- 
+ 57 
  
  yo 
  pana 
@@ -3783,7 +3783,7 @@
  
  
  
- 
+ 58 
  
  navampana 
  bhikkhunā 
@@ -3814,7 +3814,7 @@
  
  
  
- 
+ 59 
  
  yo 
  pana 
@@ -3836,7 +3836,7 @@
  paribhuñjeyya 
  pācittiyaṃ 
  
- 
+ 60 
  
  yo 
  pana 
@@ -3866,7 +3866,7 @@
  chaṭṭho 
  
  
- 
+ 61 
  
  yo 
  pana 
@@ -3879,7 +3879,7 @@
  
  
  
- 
+ 62 
  
  yo 
  pana 
@@ -3892,7 +3892,7 @@
  
  
  
- 
+ 63 
  
  yo 
  pana 
@@ -3906,7 +3906,7 @@
  
  
  
- 
+ 64 
  
  yo 
  pana 
@@ -3920,7 +3920,7 @@
  
  
  
- 
+ 65 
  
  yo 
  pana 
@@ -3944,7 +3944,7 @@
  
  
  
- 
+ 66 
  
  yo 
  pana 
@@ -3961,7 +3961,7 @@
  
  
  
- 
+ 67 
  
  yo 
  pana 
@@ -3977,7 +3977,7 @@
  
  
  
- 
+ 68 
  
  yo 
  pana 
@@ -4065,7 +4065,7 @@
  paṭinissajjeyya 
  pācittiyaṃ 
  
- 
+ 69 
  
  yo 
  pana 
@@ -4090,7 +4090,7 @@
  
  
  
- 
+ 70 
  
  samaṇuddesopi 
  ce 
@@ -4214,7 +4214,7 @@
  sattamo 
  
  
- 
+ 71 
  
  yo 
  pana 
@@ -4251,7 +4251,7 @@
  
  
  
- 
+ 72 
  
  yo 
  pana 
@@ -4275,7 +4275,7 @@
  
  
  
- 
+ 73 
  
  yo 
  pana 
@@ -4352,7 +4352,7 @@
  mohanake 
  pācittiyaṃ 
  
- 
+ 74 
  
  yo 
  pana 
@@ -4364,7 +4364,7 @@
  dadeyya 
  pācittiyaṃ 
  
- 
+ 75 
  
  yo 
  pana 
@@ -4376,7 +4376,7 @@
  uggireyya 
  pācittiyaṃ 
  
- 
+ 76 
  
  yo 
  pana 
@@ -4389,7 +4389,7 @@
  
  
  
- 
+ 77 
  
  yo 
  pana 
@@ -4411,7 +4411,7 @@
  
  
  
- 
+ 78 
  
  yo 
  pana 
@@ -4436,7 +4436,7 @@
  
  
  
- 
+ 79 
  
  yo 
  pana 
@@ -4452,7 +4452,7 @@
  
  
  
- 
+ 80 
  
  yo 
  pana 
@@ -4468,7 +4468,7 @@
  
  
  
- 
+ 81 
  
  yo 
  pana 
@@ -4489,7 +4489,7 @@
  
  
  
- 
+ 82 
  
  yo 
  pana 
@@ -4508,7 +4508,7 @@
  aṭṭhamo 
  
  
- 
+ 83 
  
  yo 
  pana 
@@ -4526,7 +4526,7 @@
  
  
  
- 
+ 84 
  
  yo 
  pana 
@@ -4572,7 +4572,7 @@
  
  
  
- 
+ 85 
  
  yo 
  pana 
@@ -4591,7 +4591,7 @@
  
  
  
- 
+ 86 
  
  yo 
  pana 
@@ -4609,7 +4609,7 @@
  
  
  
- 
+ 87 
  
  navampana 
  bhikkhunā 
@@ -4632,7 +4632,7 @@
  
  
  
- 
+ 88 
  
  yo 
  pana 
@@ -4648,7 +4648,7 @@
  
  
  
- 
+ 89 
  
  nisīdanampana 
  bhikkhunā 
@@ -4673,7 +4673,7 @@
  pācittiyaṃ 
  
  
- 
+ 90 
  
  kaṇḍupaṭicchādiṃ 
  pana 
@@ -4700,7 +4700,7 @@
  
  
  
- 
+ 91 
  
  vassikasāṭikaṃ 
  pana 
@@ -4725,7 +4725,7 @@
  
  
  
- 
+ 92 
  
  yo 
  pana 
@@ -4803,7 +4803,7 @@
  
  
  
- 
+ 1 
  
  yo 
  pana 
@@ -4837,7 +4837,7 @@
  
  
  
- 
+ 2 
  
  bhikkhū 
  paneva 
@@ -4897,7 +4897,7 @@
  
  
  
- 
+ 3 
  
  yāni 
  kho 
@@ -4939,7 +4939,7 @@
  
  
  
- 
+ 4 
  
  yāni 
  kho 
@@ -5025,7 +5025,7 @@
  
  
  
- 
+ 1 
  
  parimaṇḍalaṃ 
  nivāsessāmīti 
@@ -5033,7 +5033,7 @@
  karaṇīyā 
  
  
- 
+ 2 
  
  parimaṇḍalaṃ 
  pārupissāmīti 
@@ -5041,7 +5041,7 @@
  karaṇīyā 
  
  
- 
+ 3 
  
  supaṭicchanno 
  antaraghare 
@@ -5050,7 +5050,7 @@
  karaṇīyā 
  
  
- 
+ 4 
  
  supaṭicchanno 
  antaraghare 
@@ -5059,7 +5059,7 @@
  karaṇīyā 
  
  
- 
+ 5 
  
  susaṃvuto 
  antaraghare 
@@ -5068,7 +5068,7 @@
  karaṇīyā 
  
  
- 
+ 6 
  
  susaṃvuto 
  antaraghare 
@@ -5077,7 +5077,7 @@
  karaṇīyā 
  
  
- 
+ 7 
  
  okkhittacakkhu 
  antaraghare 
@@ -5085,7 +5085,7 @@
  sikkhā 
  karaṇīyā 
  
- 
+ 8 
  
  okkhittacakkhu 
  antaraghare 
@@ -5094,7 +5094,7 @@
  karaṇīyā 
  
  
- 
+ 9 
  
  na 
  ukkhittakāya 
@@ -5104,7 +5104,7 @@
  karaṇīyā 
  
  
- 
+ 10 
  
  na 
  ukkhittakāya 
@@ -5114,7 +5114,7 @@
  karaṇīyā 
  
  
- 
+ 11 
  
  na 
  ujjagghikāya 
@@ -5124,7 +5124,7 @@
  karaṇīyā 
  
  
- 
+ 12 
  
  na 
  ujjagghikāya 
@@ -5134,7 +5134,7 @@
  karaṇīyā 
  
  
- 
+ 13 
  
  appasaddo 
  antaraghare 
@@ -5143,7 +5143,7 @@
  karaṇīyā 
  
  
- 
+ 14 
  
  appasaddo 
  antaraghare 
@@ -5152,7 +5152,7 @@
  karaṇīyā 
  
  
- 
+ 15 
  
  na 
  kāyappacālakaṃ 
@@ -5162,7 +5162,7 @@
  karaṇīyā 
  
  
- 
+ 16 
  
  na 
  kāyappacālakaṃ 
@@ -5172,7 +5172,7 @@
  karaṇīyā 
  
  
- 
+ 17 
  
  na 
  bāhuppacālakaṃ 
@@ -5182,7 +5182,7 @@
  karaṇīyā 
  
  
- 
+ 18 
  
  na 
  bāhuppacālakaṃ 
@@ -5192,7 +5192,7 @@
  karaṇīyā 
  
  
- 
+ 19 
  
  na 
  sīsappacālakaṃ 
@@ -5202,7 +5202,7 @@
  karaṇīyā 
  
  
- 
+ 20 
  
  na 
  sīsappacālakaṃ 
@@ -5212,7 +5212,7 @@
  karaṇīyā 
  
  
- 
+ 21 
  
  na 
  khambhakato 
@@ -5222,7 +5222,7 @@
  karaṇīyā 
  
  
- 
+ 22 
  
  na 
  khambhakato 
@@ -5232,7 +5232,7 @@
  karaṇīyā 
  
  
- 
+ 23 
  
  na 
  oguṇṭhito 
@@ -5242,7 +5242,7 @@
  karaṇīyā 
  
  
- 
+ 24 
  
  na 
  oguṇṭhito 
@@ -5252,7 +5252,7 @@
  karaṇīyā 
  
  
- 
+ 25 
  
  na 
  ukkuṭikāya 
@@ -5262,7 +5262,7 @@
  karaṇīyā 
  
  
- 
+ 26 
  
  na 
  pallatthikāya 
@@ -5276,7 +5276,7 @@
  chabbīsatisāruppā 
  
  
- 
+ 27 
  
  sakkaccaṃ 
  piṇḍapātaṃ 
@@ -5285,7 +5285,7 @@
  karaṇīyā 
  
  
- 
+ 28 
  
  pattasaññī 
  piṇḍapātaṃ 
@@ -5294,7 +5294,7 @@
  karaṇīyā 
  
  
- 
+ 29 
  
  samasūpakaṃ 
  piṇḍapātaṃ 
@@ -5303,7 +5303,7 @@
  karaṇīyā 
  
  
- 
+ 30 
  
  samatittikaṃ 
  piṇḍapātaṃ 
@@ -5312,7 +5312,7 @@
  karaṇīyā 
  
  
- 
+ 31 
  
  sakkaccaṃ 
  piṇḍapātaṃ 
@@ -5321,7 +5321,7 @@
  karaṇīyā 
  
  
- 
+ 32 
  
  pattasaññī 
  piṇḍapātaṃ 
@@ -5330,7 +5330,7 @@
  karaṇīyā 
  
  
- 
+ 33 
  
  sapadānaṃ 
  piṇḍapātaṃ 
@@ -5339,7 +5339,7 @@
  karaṇīyā 
  
  
- 
+ 34 
  
  samasūpakaṃ 
  piṇḍapātaṃ 
@@ -5348,7 +5348,7 @@
  karaṇīyā 
  
  
- 
+ 35 
  
  na 
  thūpato 
@@ -5359,7 +5359,7 @@
  karaṇīyā 
  
  
- 
+ 36 
  
  na 
  sūpaṃ 
@@ -5374,7 +5374,7 @@
  karaṇīyā 
  
  
- 
+ 37 
  
  na 
  sūpaṃ 
@@ -5390,7 +5390,7 @@
  karaṇīyā 
  
  
- 
+ 38 
  
  na 
  ujjhānasaññī 
@@ -5401,7 +5401,7 @@
  karaṇīyā 
  
  
- 
+ 39 
  
  nātimahantaṃ 
  kavaḷaṃ 
@@ -5409,7 +5409,7 @@
  sikkhā 
  karaṇīyā 
  
- 
+ 40 
  
  parimaṇḍalaṃ 
  ālopaṃ 
@@ -5418,7 +5418,7 @@
  karaṇīyā 
  
  
- 
+ 41 
  
  na 
  anāhaę 
@@ -5429,7 +5429,7 @@
  karaṇīyā 
  
  
- 
+ 42 
  
  na 
  bhuñjamāno 
@@ -5441,7 +5441,7 @@
  karaṇīyā 
  
  
- 
+ 43 
  
  na 
  sakavaḷena 
@@ -5451,7 +5451,7 @@
  karaṇīyā 
  
  
- 
+ 44 
  
  na 
  piṇḍukkhepakaṃ 
@@ -5460,7 +5460,7 @@
  karaṇīyā 
  
  
- 
+ 45 
  
  na 
  kavaḷāvacchedakaṃ 
@@ -5469,7 +5469,7 @@
  karaṇīyā 
  
  
- 
+ 46 
  
  na 
  avagaṇḍakārakaṃ 
@@ -5478,7 +5478,7 @@
  karaṇīyā 
  
  
- 
+ 47 
  
  na 
  hatthaniddhūnakaṃ 
@@ -5486,7 +5486,7 @@
  sikkhā 
  karaṇīyā 
  
- 
+ 48 
  
  na 
  sitthāvakārakaṃ 
@@ -5495,7 +5495,7 @@
  karaṇīyā 
  
  
- 
+ 49 
  
  na 
  jivhānicchārakaṃ 
@@ -5504,7 +5504,7 @@
  karaṇīyā 
  
  
- 
+ 50 
  
  na 
  capucapukārakaṃ 
@@ -5513,7 +5513,7 @@
  karaṇīyā 
  
  
- 
+ 51 
  
  na 
  surusurukārakaṃ 
@@ -5521,7 +5521,7 @@
  sikkhā 
  karaṇīyā 
  
- 
+ 52 
  
  na 
  hatthanillehakaṃ 
@@ -5530,7 +5530,7 @@
  karaṇīyā 
  
  
- 
+ 53 
  
  na 
  pattanillehakaṃ 
@@ -5539,7 +5539,7 @@
  karaṇīyā 
  
  
- 
+ 54 
  
  na 
  oṭṭhanillehakaṃ 
@@ -5548,7 +5548,7 @@
  karaṇīyā 
  
  
- 
+ 55 
  
  na 
  sāmisena 
@@ -5559,7 +5559,7 @@
  karaṇīyā 
  
  
- 
+ 56 
  
  na 
  sasitthakaṃ 
@@ -5575,7 +5575,7 @@
  bhojanapaṭisaṃyuttā 
  
  
- 
+ 57 
  
  na 
  chattapāṇissa 
@@ -5586,7 +5586,7 @@
  karaṇīyā 
  
  
- 
+ 58 
  
  na 
  daṇḍapāṇissa 
@@ -5597,7 +5597,7 @@
  karaṇīyā 
  
  
- 
+ 59 
  
  na 
  satthapāṇissa 
@@ -5608,7 +5608,7 @@
  karaṇīyā 
  
  
- 
+ 60 
  
  na 
  āvudhapāṇissa 
@@ -5619,7 +5619,7 @@
  karaṇīyā 
  
  
- 
+ 61 
  
  na 
  pādukārūḷhassa 
@@ -5630,7 +5630,7 @@
  karaṇīyā 
  
  
- 
+ 62 
  
  na 
  upāhanārūḷhassa 
@@ -5640,7 +5640,7 @@
  sikkhā 
  karaṇīyā 
  
- 
+ 63 
  
  na 
  yānagatassa 
@@ -5651,7 +5651,7 @@
  karaṇīyā 
  
  
- 
+ 64 
  
  na 
  sayanagatassa 
@@ -5662,7 +5662,7 @@
  karaṇīyā 
  
  
- 
+ 65 
  
  na 
  pallatthikāya 
@@ -5674,7 +5674,7 @@
  karaṇīyā 
  
  
- 
+ 66 
  
  na 
  veṭṭhitasīsassa 
@@ -5685,7 +5685,7 @@
  karaṇīyā 
  
  
- 
+ 67 
  
  na 
  oguṇṭhitasīsassa 
@@ -5695,7 +5695,7 @@
  sikkhā 
  karaṇīyā 
  
- 
+ 68 
  
  na 
  chamāyaṃ 
@@ -5708,7 +5708,7 @@
  sikkhā 
  karaṇīyā 
  
- 
+ 69 
  
  na 
  nīce 
@@ -5724,7 +5724,7 @@
  karaṇīyā 
  
  
- 
+ 70 
  
  na 
  ṭhito 
@@ -5736,7 +5736,7 @@
  karaṇīyā 
  
  
- 
+ 71 
  
  na 
  pacchato 
@@ -5749,7 +5749,7 @@
  sikkhā 
  karaṇīyā 
  
- 
+ 72 
  
  na 
  uppathena 
@@ -5768,7 +5768,7 @@
  dhammadesanāpaṭisaṃyuttā 
  
  
- 
+ 73 
  
  na 
  ṭhito 
@@ -5782,7 +5782,7 @@
  karaṇīyā 
  
  
- 
+ 74 
  
  na 
  harite 
@@ -5798,7 +5798,7 @@
  karaṇīyā 
  
  
- 
+ 75 
  
  na 
  udake 
@@ -5863,28 +5863,28 @@
  adhikaraṇānaṃ 
  samathāya 
  vūpasamāya 
- 
+ 1 
  
  sammukhāvinayo 
  dātabbo 
- 
+ 2 
  
  sativinayo 
  dātabbo 
- 
+ 3 
  
  amūḷhavinayo 
  dātabbo 
- 
+ 4 
  
  paṭiññātakaraṇaṃ 
- 
+ 5 
  
  yebhuyyasikā 
- 
+ 6 
  
  tassapāpiyasikā 
- 
+ 7 
  
  tiṇavatthārakoti 
  

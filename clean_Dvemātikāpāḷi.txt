@@ -131,7 +131,7 @@ nidānuddeso
  āgacchanti 
  
  pārājika 
- 
+ 1 
  
  methunadhamma 
  
@@ -154,7 +154,7 @@ nidānuddeso
  asaṃvāso 
  
  pārājika 
- 
+ 2 
  
  adinnādāna 
  
@@ -193,7 +193,7 @@ nidānuddeso
  asaṃvāso 
  
  pārājika 
- 
+ 3 
  
  manussaviggaha 
  
@@ -239,7 +239,7 @@ nidānuddeso
  asaṃvāso 
  
  pārājika 
- 
+ 4 
  
  uttarimanussadhamma 
  
@@ -343,7 +343,7 @@ nidānuddeso
  āgacchanti 
  
  saṅghādisesa 
- 
+ 1 
  
  sukkavissaṭṭhi 
  
@@ -354,7 +354,7 @@ nidānuddeso
  saṅghādiseso 
  
  saṅghādisesa 
- 
+ 2 
  
  kāyasaṃsagga 
  
@@ -381,7 +381,7 @@ nidānuddeso
  saṅghādiseso 
  
  saṅghādisesa 
- 
+ 3 
  
  duṭṭhullavācā 
  
@@ -403,7 +403,7 @@ nidānuddeso
  saṅghādiseso 
  
  saṅghādisesa 
- 
+ 4 
  
  attakāmapāricariya 
  
@@ -433,7 +433,7 @@ nidānuddeso
  saṅghādiseso 
  
  saṅghādisesa 
- 
+ 5 
  
  sañcaritta 
  
@@ -457,7 +457,7 @@ nidānuddeso
  saṅghādiseso 
  
  saṅghādisesa 
- 
+ 6 
  
  kuṭikāra 
  
@@ -506,7 +506,7 @@ nidānuddeso
  saṅghādiseso 
  
  saṅghādisesa 
- 
+ 7 
  
  vihārakāra 
  
@@ -542,7 +542,7 @@ nidānuddeso
  saṅghādiseso 
  
  saṅghādisesa 
- 
+ 8 
  
  duṭṭhadosa 
  
@@ -581,7 +581,7 @@ nidānuddeso
  saṅghādiseso 
  
  saṅghādisesa 
- 
+ 9 
  
  aññabhāgiya 
  
@@ -627,7 +627,7 @@ nidānuddeso
  saṅghādiseso 
  
  saṅghādisesa 
- 
+ 10 
  
  saṅghabheda 
  
@@ -696,7 +696,7 @@ nidānuddeso
  saṅghādiseso 
  
  saṅghādisesa 
- 
+ 11 
  
  bhedānuvattaka 
  
@@ -794,7 +794,7 @@ nidānuddeso
  saṅghādiseso 
  
  saṅghādisesa 
- 
+ 12 
  
  dubbaca 
  
@@ -885,7 +885,7 @@ nidānuddeso
  saṅghādiseso 
  
  saṅghādisesa 
- 
+ 13 
  
  kuladūsaka 
  
@@ -1148,7 +1148,7 @@ nidānuddeso
  āgacchanti 
  
  aniyata 
- 
+ 1 
  
  paṭhamaaniyata 
  
@@ -1207,7 +1207,7 @@ nidānuddeso
  aniyato 
  
  aniyata 
- 
+ 2 
  
  dutiyaaniyata 
  
@@ -1317,12 +1317,12 @@ nidānuddeso
  āgacchanti 
  
  chapter 
- 
+ 1 
  
  kaṭhina 
  nissaggiya 
  pācittiya 
- 
+ 1 
  
  kathina 
  
@@ -1340,7 +1340,7 @@ nidānuddeso
  
  nissaggiya 
  pācittiya 
- 
+ 2 
  
  udosita 
  
@@ -1360,7 +1360,7 @@ nidānuddeso
  
  nissaggiya 
  pācittiya 
- 
+ 3 
  
  akālacīvara 
  
@@ -1403,7 +1403,7 @@ nidānuddeso
  
  nissaggiya 
  pācittiya 
- 
+ 4 
  
  purāṇacīvara 
  
@@ -1424,7 +1424,7 @@ nidānuddeso
  
  nissaggiya 
  pācittiya 
- 
+ 5 
  
  cīvarapaṭiggahaṇa 
  
@@ -1443,7 +1443,7 @@ nidānuddeso
  
  nissaggiya 
  pācittiya 
- 
+ 6 
  
  aññātakaviññatti 
  
@@ -1476,7 +1476,7 @@ nidānuddeso
  
  nissaggiya 
  pācittiya 
- 
+ 7 
  
  tatuttari 
  
@@ -1506,7 +1506,7 @@ nidānuddeso
  
  nissaggiya 
  pācittiya 
- 
+ 8 
  
  paṭhamaupakkhaṭa 
  
@@ -1559,7 +1559,7 @@ nidānuddeso
  
  nissaggiya 
  pācittiya 
- 
+ 9 
  
  dutiyaupakkhaṭa 
  
@@ -1617,7 +1617,7 @@ nidānuddeso
  
  nissaggiya 
  pācittiya 
- 
+ 10 
  
  rāja 
  
@@ -1828,12 +1828,12 @@ nidānuddeso
  paṭhamo 
  
  chapter 
- 
+ 2 
  
  kosiya 
  nissaggiya 
  pācittiya 
- 
+ 11 
  
  kosiya 
  
@@ -1848,7 +1848,7 @@ nidānuddeso
  
  nissaggiya 
  pācittiya 
- 
+ 12 
  
  suddhakāḷaka 
  
@@ -1864,7 +1864,7 @@ nidānuddeso
  
  nissaggiya 
  pācittiya 
- 
+ 13 
  
  dvebhāga 
  
@@ -1902,7 +1902,7 @@ nidānuddeso
  
  nissaggiya 
  pācittiya 
- 
+ 14 
  
  chabbassa 
  
@@ -1934,7 +1934,7 @@ nidānuddeso
  
  nissaggiya 
  pācittiya 
- 
+ 15 
  
  nisīdanasanthata 
  
@@ -1963,7 +1963,7 @@ nidānuddeso
  
  nissaggiya 
  pācittiya 
- 
+ 16 
  
  eḷakaloma 
  
@@ -1993,7 +1993,7 @@ nidānuddeso
  
  nissaggiya 
  pācittiya 
- 
+ 17 
  
  eḷakalomadhovāpana 
  
@@ -2014,7 +2014,7 @@ nidānuddeso
  
  nissaggiya 
  pācittiya 
- 
+ 18 
  
  rūpiya 
  
@@ -2034,7 +2034,7 @@ nidānuddeso
  
  nissaggiya 
  pācittiya 
- 
+ 19 
  
  rūpiyasaṃvohāra 
  
@@ -2049,7 +2049,7 @@ nidānuddeso
  
  nissaggiya 
  pācittiya 
- 
+ 20 
  
  kayavikkaya 
  
@@ -2067,12 +2067,12 @@ nidānuddeso
  dutiyo 
  
  chapter 
- 
+ 3 
  
  patta 
  nissaggiya 
  pācittiya 
- 
+ 21 
  
  patta 
  
@@ -2086,7 +2086,7 @@ nidānuddeso
  
  nissaggiya 
  pācittiya 
- 
+ 22 
  
  ūnapañcabandhana 
  
@@ -2130,7 +2130,7 @@ nidānuddeso
  
  nissaggiya 
  pācittiya 
- 
+ 23 
  
  bhesajja 
  
@@ -2159,7 +2159,7 @@ nidānuddeso
  
  nissaggiya 
  pācittiya 
- 
+ 24 
  
  vassikasāṭika 
  
@@ -2192,7 +2192,7 @@ nidānuddeso
  
  nissaggiya 
  pācittiya 
- 
+ 25 
  
  cīvaraacchindana 
  
@@ -2214,7 +2214,7 @@ nidānuddeso
  
  nissaggiya 
  pācittiya 
- 
+ 26 
  
  suttaviññatti 
  
@@ -2232,7 +2232,7 @@ nidānuddeso
  
  nissaggiya 
  pācittiya 
- 
+ 27 
  
  mahāpesakāra 
  
@@ -2294,7 +2294,7 @@ nidānuddeso
  
  nissaggiya 
  pācittiya 
- 
+ 28 
  
  accekacīvara 
  
@@ -2322,7 +2322,7 @@ nidānuddeso
  
  nissaggiya 
  pācittiya 
- 
+ 29 
  
  sāsaṅka 
  
@@ -2376,7 +2376,7 @@ nidānuddeso
  
  nissaggiya 
  pācittiya 
- 
+ 30 
  
  pariṇata 
  
@@ -2438,11 +2438,11 @@ nidānuddeso
  āgacchanti 
  
  chapter 
- 
+ 1 
  
  musāvāda 
  pācittiya 
- 
+ 1 
  
  musāvāda 
  
@@ -2450,7 +2450,7 @@ nidānuddeso
  pācittiyaṃ 
  
  pācittiya 
- 
+ 2 
  
  omasavāda 
  
@@ -2458,7 +2458,7 @@ nidānuddeso
  pācittiyaṃ 
  
  pācittiya 
- 
+ 3 
  
  pesuñña 
  
@@ -2466,7 +2466,7 @@ nidānuddeso
  pācittiyaṃ 
  
  pācittiya 
- 
+ 4 
  
  padasodhamma 
  
@@ -2480,7 +2480,7 @@ nidānuddeso
  pācittiyaṃ 
  
  pācittiya 
- 
+ 5 
  
  paṭhamasahaseyya 
  
@@ -2494,7 +2494,7 @@ nidānuddeso
  pācittiyaṃ 
  
  pācittiya 
- 
+ 6 
  
  dutiyasahaseyya 
  
@@ -2507,7 +2507,7 @@ nidānuddeso
  pācittiyaṃ 
  
  pācittiya 
- 
+ 7 
  
  dhammadesanā 
  
@@ -2524,7 +2524,7 @@ nidānuddeso
  pācittiyaṃ 
  
  pācittiya 
- 
+ 8 
  
  bhūtārocana 
  
@@ -2538,7 +2538,7 @@ nidānuddeso
  pācittiyaṃ 
  
  pācittiya 
- 
+ 9 
  
  duṭṭhullārocana 
  
@@ -2555,7 +2555,7 @@ nidānuddeso
  pācittiyaṃ 
  
  pācittiya 
- 
+ 10 
  
  pathavīkhaṇana 
  
@@ -2573,11 +2573,11 @@ nidānuddeso
  musāvādavaggo 
  paṭhamo 
  chapter 
- 
+ 2 
  
  bhūtagāma 
  pācittiya 
- 
+ 11 
  
  bhūtagāma 
  
@@ -2585,7 +2585,7 @@ nidānuddeso
  pācittiyaṃ 
  
  pācittiya 
- 
+ 12 
  
  aññavādaka 
  
@@ -2594,7 +2594,7 @@ nidānuddeso
  pācittiyaṃ 
  
  pācittiya 
- 
+ 13 
  
  ujjhāpanaka 
  
@@ -2603,7 +2603,7 @@ nidānuddeso
  pācittiyaṃ 
  
  pācittiya 
- 
+ 14 
  
  paṭhamasenāsana 
  
@@ -2636,7 +2636,7 @@ nidānuddeso
  pācittiyaṃ 
  
  pācittiya 
- 
+ 15 
  
  dutiyasenāsana 
  
@@ -2662,7 +2662,7 @@ nidānuddeso
  pācittiyaṃ 
  
  pācittiya 
- 
+ 16 
  
  anupakhajja 
  
@@ -2689,7 +2689,7 @@ nidānuddeso
  pācittiyaṃ 
  
  pācittiya 
- 
+ 17 
  
  nikkaḍḍhana 
  
@@ -2708,7 +2708,7 @@ nidānuddeso
  pācittiyaṃ 
  
  pācittiya 
- 
+ 18 
  
  vehāsakuṭi 
  
@@ -2730,7 +2730,7 @@ nidānuddeso
  pācittiyaṃ 
  
  pācittiya 
- 
+ 19 
  
  mahallakavihāra 
  
@@ -2757,7 +2757,7 @@ nidānuddeso
  pācittiyaṃ 
  
  pācittiya 
- 
+ 20 
  
  sappāṇaka 
  
@@ -2781,11 +2781,11 @@ nidānuddeso
  bhūtagāmavaggo 
  dutiyo 
  chapter 
- 
+ 3 
  
  ovāda 
  pācittiya 
- 
+ 21 
  
  ovāda 
  
@@ -2798,7 +2798,7 @@ nidānuddeso
  pācittiyaṃ 
  
  pācittiya 
- 
+ 22 
  
  atthaṅgata 
  
@@ -2812,7 +2812,7 @@ nidānuddeso
  pācittiyaṃ 
  
  pācittiya 
- 
+ 23 
  
  bhikkhunupassaya 
  
@@ -2837,7 +2837,7 @@ nidānuddeso
  samayo 
  
  pācittiya 
- 
+ 24 
  
  āmisa 
  
@@ -2854,7 +2854,7 @@ nidānuddeso
  pācittiyaṃ 
  
  pācittiya 
- 
+ 25 
  
  cīvaradāna 
  
@@ -2870,7 +2870,7 @@ nidānuddeso
  pācittiyaṃ 
  
  pācittiya 
- 
+ 26 
  
  cīvarasibbana 
  
@@ -2887,7 +2887,7 @@ nidānuddeso
  pācittiyaṃ 
  
  pācittiya 
- 
+ 27 
  
  saṃvidhāna 
  
@@ -2917,7 +2917,7 @@ nidānuddeso
  samayo 
  
  pācittiya 
- 
+ 28 
  
  nāvābhiruhana 
  
@@ -2940,7 +2940,7 @@ nidānuddeso
  pācittiyaṃ 
  
  pācittiya 
- 
+ 29 
  
  paripācita 
  
@@ -2957,7 +2957,7 @@ nidānuddeso
  pācittiyaṃ 
  
  pācittiya 
- 
+ 30 
  
  rahonisajja 
  
@@ -2977,11 +2977,11 @@ nidānuddeso
  ovādavaggo 
  tatiyo 
  chapter 
- 
+ 4 
  
  bhojanavaggo 
  pācittiya 
- 
+ 31 
  
  āvasathapiṇḍa 
  
@@ -2998,7 +2998,7 @@ nidānuddeso
  pācittiyaṃ 
  
  pācittiya 
- 
+ 32 
  
  gaṇabhojana 
  
@@ -3021,7 +3021,7 @@ nidānuddeso
  samayo 
  
  pācittiya 
- 
+ 33 
  
  paramparabhojana 
  
@@ -3040,7 +3040,7 @@ nidānuddeso
  samayo 
  
  pācittiya 
- 
+ 34 
  
  kāṇamātu 
  
@@ -3077,7 +3077,7 @@ nidānuddeso
  sāmīci 
  
  pācittiya 
- 
+ 35 
  
  paṭhamapavāraṇā 
  
@@ -3098,7 +3098,7 @@ nidānuddeso
  pācittiyaṃ 
  
  pācittiya 
- 
+ 36 
  
  dutiyapavāraṇā 
  
@@ -3127,7 +3127,7 @@ nidānuddeso
  pācittiyaṃ 
  
  pācittiya 
- 
+ 37 
  
  vikālabhojana 
  
@@ -3146,7 +3146,7 @@ nidānuddeso
  pācittiyaṃ 
  
  pācittiya 
- 
+ 38 
  
  sannidhikāraka 
  
@@ -3165,7 +3165,7 @@ nidānuddeso
  pācittiyaṃ 
  
  pācittiya 
- 
+ 39 
  
  paṇītabhojana 
  
@@ -3197,7 +3197,7 @@ nidānuddeso
  pācittiyaṃ 
  
  pācittiya 
- 
+ 40 
  
  dantapona 
  
@@ -3216,11 +3216,11 @@ nidānuddeso
  bhojanavaggo 
  catuttho 
  chapter 
- 
+ 5 
  
  acelaka 
  pācittiya 
- 
+ 41 
  
  acelaka 
  
@@ -3242,7 +3242,7 @@ nidānuddeso
  pācittiyaṃ 
  
  pācittiya 
- 
+ 42 
  
  uyyojana 
  
@@ -3289,7 +3289,7 @@ nidānuddeso
  pācittiyaṃ 
  
  pācittiya 
- 
+ 43 
  
  sabhojana 
  
@@ -3304,7 +3304,7 @@ nidānuddeso
  pācittiyaṃ 
  
  pācittiya 
- 
+ 44 
  
  rahopaṭicchanna 
  
@@ -3321,7 +3321,7 @@ nidānuddeso
  pācittiyaṃ 
  
  pācittiya 
- 
+ 45 
  
  rahonisajja 
  
@@ -3338,7 +3338,7 @@ nidānuddeso
  pācittiyaṃ 
  
  pācittiya 
- 
+ 46 
  
  cāritta 
  
@@ -3371,7 +3371,7 @@ nidānuddeso
  samayo 
  
  pācittiya 
- 
+ 47 
  
  mahānāma 
  
@@ -3391,7 +3391,7 @@ nidānuddeso
  pācittiyaṃ 
  
  pācittiya 
- 
+ 48 
  
  uyyuttasenā 
  
@@ -3407,7 +3407,7 @@ nidānuddeso
  pācittiyaṃ 
  
  pācittiya 
- 
+ 49 
  
  senāvāsa 
  
@@ -3432,7 +3432,7 @@ nidānuddeso
  pācittiyaṃ 
  
  pācittiya 
- 
+ 50 
  
  uyyodhika 
  
@@ -3456,11 +3456,11 @@ nidānuddeso
  acelakavaggo 
  pañcamo 
  chapter 
- 
+ 6 
  
  surāpāna 
  pācittiya 
- 
+ 51 
  
  surāpāna 
  
@@ -3468,7 +3468,7 @@ nidānuddeso
  pācittiyaṃ 
  
  pācittiya 
- 
+ 52 
  
  aṅgulipatodaka 
  
@@ -3476,7 +3476,7 @@ nidānuddeso
  pācittiyaṃ 
  
  pācittiya 
- 
+ 53 
  
  hasadhamma 
  
@@ -3485,7 +3485,7 @@ nidānuddeso
  pācittiyaṃ 
  
  pācittiya 
- 
+ 54 
  
  anādariya 
  
@@ -3493,7 +3493,7 @@ nidānuddeso
  pācittiyaṃ 
  
  pācittiya 
- 
+ 55 
  
  bhiṃsāpana 
  
@@ -3505,7 +3505,7 @@ nidānuddeso
  pācittiyaṃ 
  
  pācittiya 
- 
+ 56 
  
  joti 
  
@@ -3524,7 +3524,7 @@ nidānuddeso
  pācittiyaṃ 
  
  pācittiya 
- 
+ 57 
  
  nahāna 
  
@@ -3559,7 +3559,7 @@ nidānuddeso
  samayo 
  
  pācittiya 
- 
+ 58 
  
  dubbaṇṇakaraṇa 
  
@@ -3592,7 +3592,7 @@ nidānuddeso
  pācittiyaṃ 
  
  pācittiya 
- 
+ 59 
  
  vikappana 
  
@@ -3617,7 +3617,7 @@ nidānuddeso
  pācittiyaṃ 
  
  pācittiya 
- 
+ 60 
  
  apanidhāna 
  
@@ -3647,11 +3647,11 @@ nidānuddeso
  surāpānavaggo 
  chaṭṭho 
  chapter 
- 
+ 7 
  
  sappāṇa 
  pācittiya 
- 
+ 61 
  
  sañcicca 
  
@@ -3665,7 +3665,7 @@ nidānuddeso
  pācittiyaṃ 
  
  pācittiya 
- 
+ 62 
  
  sappāṇaka 
  
@@ -3679,7 +3679,7 @@ nidānuddeso
  pācittiyaṃ 
  
  pācittiya 
- 
+ 63 
  
  ukkoṭana 
  
@@ -3694,7 +3694,7 @@ nidānuddeso
  pācittiyaṃ 
  
  pācittiya 
- 
+ 64 
  
  duṭṭhulla 
  
@@ -3709,7 +3709,7 @@ nidānuddeso
  pācittiyaṃ 
  
  pācittiya 
- 
+ 65 
  
  ūnavīsativassa 
  
@@ -3733,7 +3733,7 @@ nidānuddeso
  pācittiyaṃ 
  
  pācittiya 
- 
+ 66 
  
  theyyasattha 
  
@@ -3751,7 +3751,7 @@ nidānuddeso
  pācittiyaṃ 
  
  pācittiya 
- 
+ 67 
  
  saṃvidhāna 
  
@@ -3768,7 +3768,7 @@ nidānuddeso
  pācittiyaṃ 
  
  pācittiya 
- 
+ 68 
  
  ariṭṭha 
  
@@ -3853,7 +3853,7 @@ nidānuddeso
  pācittiyaṃ 
  
  pācittiya 
- 
+ 69 
  
  ukkhittasambhoga 
  
@@ -3879,7 +3879,7 @@ nidānuddeso
  pācittiyaṃ 
  
  pācittiya 
- 
+ 70 
  
  kaṇṭaka 
  
@@ -3995,11 +3995,11 @@ nidānuddeso
  sappāṇakavaggo 
  sattamo 
  chapter 
- 
+ 8 
  
  sahadhammika 
  pācittiya 
- 
+ 71 
  
  sahadhammika 
  
@@ -4037,7 +4037,7 @@ nidānuddeso
  sāmīci 
  
  pācittiya 
- 
+ 72 
  
  vilekhana 
  
@@ -4062,7 +4062,7 @@ nidānuddeso
  pācittiyaṃ 
  
  pācittiya 
- 
+ 73 
  
  mohana 
  
@@ -4142,7 +4142,7 @@ nidānuddeso
  pācittiyaṃ 
  
  pācittiya 
- 
+ 74 
  
  pahāra 
  
@@ -4157,7 +4157,7 @@ nidānuddeso
  pācittiyaṃ 
  
  pācittiya 
- 
+ 75 
  
  talasattika 
  
@@ -4172,7 +4172,7 @@ nidānuddeso
  pācittiyaṃ 
  
  pācittiya 
- 
+ 76 
  
  amūlaka 
  
@@ -4186,7 +4186,7 @@ nidānuddeso
  pācittiyaṃ 
  
  pācittiya 
- 
+ 77 
  
  sañcicca 
  
@@ -4208,7 +4208,7 @@ nidānuddeso
  pācittiyaṃ 
  
  pācittiya 
- 
+ 78 
  
  upassuti 
  
@@ -4233,7 +4233,7 @@ nidānuddeso
  pācittiyaṃ 
  
  pācittiya 
- 
+ 79 
  
  kammappaṭibāhana 
  
@@ -4250,7 +4250,7 @@ nidānuddeso
  pācittiyaṃ 
  
  pācittiya 
- 
+ 80 
  
  chandaṃadatvāgamana 
  
@@ -4267,7 +4267,7 @@ nidānuddeso
  pācittiyaṃ 
  
  pācittiya 
- 
+ 81 
  
  dubbala 
  
@@ -4289,7 +4289,7 @@ nidānuddeso
  pācittiyaṃ 
  
  pācittiya 
- 
+ 82 
  
  pariṇāmana 
  
@@ -4308,11 +4308,11 @@ nidānuddeso
  sahadhammikavaggo 
  aṭṭhamo 
  chapter 
- 
+ 9 
  
  ratana 
  pācittiya 
- 
+ 83 
  
  antepura 
  
@@ -4331,7 +4331,7 @@ nidānuddeso
  pācittiyaṃ 
  
  pācittiya 
- 
+ 84 
  
  ratana 
  
@@ -4377,7 +4377,7 @@ nidānuddeso
  sāmīci 
  
  pācittiya 
- 
+ 85 
  
  vikālagāmappavesana 
  
@@ -4396,7 +4396,7 @@ nidānuddeso
  pācittiyaṃ 
  
  pācittiya 
- 
+ 86 
  
  sūcighara 
  
@@ -4415,7 +4415,7 @@ nidānuddeso
  pācittiyaṃ 
  
  pācittiya 
- 
+ 87 
  
  mañcapīṭha 
  
@@ -4440,7 +4440,7 @@ nidānuddeso
  pācittiyaṃ 
  
  pācittiya 
- 
+ 88 
  
  tūlonaddha 
  
@@ -4457,7 +4457,7 @@ nidānuddeso
  pācittiyaṃ 
  
  pācittiya 
- 
+ 89 
  
  nisīdana 
  
@@ -4484,7 +4484,7 @@ nidānuddeso
  pācittiyaṃ 
  
  pācittiya 
- 
+ 90 
  
  kaṇḍuppaṭicchādi 
  
@@ -4510,7 +4510,7 @@ nidānuddeso
  pācittiyaṃ 
  
  pācittiya 
- 
+ 91 
  
  vassikasāṭika 
  
@@ -4535,7 +4535,7 @@ nidānuddeso
  pācittiyaṃ 
  
  pācittiya 
- 
+ 92 
  
  nanda 
  
@@ -4608,7 +4608,7 @@ nidānuddeso
  āgacchanti 
  
  pāṭidesanīya 
- 
+ 1 
  
  paṭhamapāṭidesanīya 
  
@@ -4643,7 +4643,7 @@ nidānuddeso
  paṭidesemīti 
  
  pāṭidesanīya 
- 
+ 2 
  
  dutiyapāṭidesanīya 
  
@@ -4705,7 +4705,7 @@ nidānuddeso
  paṭidesemāti 
  
  pāṭidesanīya 
- 
+ 3 
  
  tatiyapāṭidesanīya 
  
@@ -4747,7 +4747,7 @@ nidānuddeso
  paṭidesemīti 
  
  pāṭidesanīya 
- 
+ 4 
  
  catutthapāṭidesanīya 
  
@@ -4830,11 +4830,11 @@ nidānuddeso
  āgacchanti 
  
  chapter 
- 
+ 1 
  
  parimaṇḍala 
  sekhiya 
- 
+ 1 
  
  parimaṇḍala 
  
@@ -4844,7 +4844,7 @@ nidānuddeso
  karaṇīyā 
  
  sekhiya 
- 
+ 2 
  
  
  parimaṇḍalaṃ 
@@ -4853,7 +4853,7 @@ nidānuddeso
  karaṇīyā 
  
  sekhiya 
- 
+ 3 
  
  suppaṭicchanna 
  
@@ -4864,7 +4864,7 @@ nidānuddeso
  karaṇīyā 
  
  sekhiya 
- 
+ 4 
  
  
  suppaṭicchanno 
@@ -4874,7 +4874,7 @@ nidānuddeso
  karaṇīyā 
  
  sekhiya 
- 
+ 5 
  
  susaṃvuta 
  
@@ -4885,7 +4885,7 @@ nidānuddeso
  karaṇīyā 
  
  sekhiya 
- 
+ 6 
  
  
  susaṃvuto 
@@ -4895,7 +4895,7 @@ nidānuddeso
  karaṇīyā 
  
  sekhiya 
- 
+ 7 
  
  okkhittacakkhu 
  
@@ -4906,7 +4906,7 @@ nidānuddeso
  karaṇīyā 
  
  sekhiya 
- 
+ 8 
  
  
  okkhittacakkhu 
@@ -4916,7 +4916,7 @@ nidānuddeso
  karaṇīyā 
  
  sekhiya 
- 
+ 9 
  
  ukkhittaka 
  
@@ -4928,7 +4928,7 @@ nidānuddeso
  karaṇīyā 
  
  sekhiya 
- 
+ 10 
  
  
  na 
@@ -4942,11 +4942,11 @@ nidānuddeso
  parimaṇḍalavaggo 
  paṭhamo 
  chapter 
- 
+ 2 
  
  ujjagghika 
  sekhiya 
- 
+ 11 
  
  ujjagghika 
  
@@ -4958,7 +4958,7 @@ nidānuddeso
  karaṇīyā 
  
  sekhiya 
- 
+ 12 
  
  
  na 
@@ -4969,7 +4969,7 @@ nidānuddeso
  karaṇīyā 
  
  sekhiya 
- 
+ 13 
  
  uccasadda 
  
@@ -4980,7 +4980,7 @@ nidānuddeso
  karaṇīyā 
  
  sekhiya 
- 
+ 14 
  
  
  appasaddo 
@@ -4990,7 +4990,7 @@ nidānuddeso
  karaṇīyā 
  
  sekhiya 
- 
+ 15 
  
  kāyappacālaka 
  
@@ -5002,7 +5002,7 @@ nidānuddeso
  karaṇīyā 
  
  sekhiya 
- 
+ 16 
  
  
  na 
@@ -5013,7 +5013,7 @@ nidānuddeso
  karaṇīyā 
  
  sekhiya 
- 
+ 17 
  
  bāhuppacālaka 
  
@@ -5025,7 +5025,7 @@ nidānuddeso
  karaṇīyā 
  
  sekhiya 
- 
+ 18 
  
  
  na 
@@ -5036,7 +5036,7 @@ nidānuddeso
  karaṇīyā 
  
  sekhiya 
- 
+ 19 
  
  sīsappacālaka 
  
@@ -5048,7 +5048,7 @@ nidānuddeso
  karaṇīyā 
  
  sekhiya 
- 
+ 20 
  
  
  na 
@@ -5062,11 +5062,11 @@ nidānuddeso
  ujjagghikavaggo 
  dutiyo 
  chapter 
- 
+ 3 
  
  khambhakata 
  sekhiya 
- 
+ 21 
  
  khambhakata 
  
@@ -5078,7 +5078,7 @@ nidānuddeso
  karaṇīyā 
  
  sekhiya 
- 
+ 22 
  
  
  na 
@@ -5089,7 +5089,7 @@ nidānuddeso
  karaṇīyā 
  
  sekhiya 
- 
+ 23 
  
  oguṇṭhita 
  
@@ -5101,7 +5101,7 @@ nidānuddeso
  karaṇīyā 
  
  sekhiya 
- 
+ 24 
  
  
  na 
@@ -5112,7 +5112,7 @@ nidānuddeso
  karaṇīyā 
  
  sekhiya 
- 
+ 25 
  
  ukkuṭika 
  
@@ -5124,7 +5124,7 @@ nidānuddeso
  karaṇīyā 
  
  sekhiya 
- 
+ 26 
  
  pallatthika 
  
@@ -5136,7 +5136,7 @@ nidānuddeso
  karaṇīyā 
  
  sekhiya 
- 
+ 27 
  
  sakkaccapaṭiggahaṇa 
  
@@ -5147,7 +5147,7 @@ nidānuddeso
  karaṇīyā 
  
  sekhiya 
- 
+ 28 
  
  pattasaññīpaṭiggahaṇa 
  
@@ -5158,7 +5158,7 @@ nidānuddeso
  karaṇīyā 
  
  sekhiya 
- 
+ 29 
  
  samasūpakapaṭiggahaṇa 
  
@@ -5169,7 +5169,7 @@ nidānuddeso
  karaṇīyā 
  
  sekhiya 
- 
+ 30 
  
  samatittika 
  
@@ -5183,11 +5183,11 @@ nidānuddeso
  khambhakatavaggo 
  tatiyo 
  chapter 
- 
+ 4 
  
  sakkacca 
  sekhiya 
- 
+ 31 
  
  sakkaccabhuñjana 
  
@@ -5198,7 +5198,7 @@ nidānuddeso
  karaṇīyā 
  
  sekhiya 
- 
+ 32 
  
  pattasaññībhuñjana 
  
@@ -5209,7 +5209,7 @@ nidānuddeso
  karaṇīyā 
  
  sekhiya 
- 
+ 33 
  
  sapadāna 
  
@@ -5220,7 +5220,7 @@ nidānuddeso
  karaṇīyā 
  
  sekhiya 
- 
+ 34 
  
  samasūpaka 
  
@@ -5231,7 +5231,7 @@ nidānuddeso
  karaṇīyā 
  
  sekhiya 
- 
+ 35 
  
  nathūpakata 
  
@@ -5244,7 +5244,7 @@ nidānuddeso
  karaṇīyā 
  
  sekhiya 
- 
+ 36 
  
  odanappaṭicchādana 
  
@@ -5261,7 +5261,7 @@ nidānuddeso
  karaṇīyā 
  
  sekhiya 
- 
+ 37 
  
  sūpodanaviññatti 
  
@@ -5279,7 +5279,7 @@ nidānuddeso
  karaṇīyā 
  
  sekhiya 
- 
+ 38 
  
  ujjhānasaññī 
  
@@ -5292,7 +5292,7 @@ nidānuddeso
  karaṇīyā 
  
  sekhiya 
- 
+ 39 
  
  kabaḷa 
  
@@ -5303,7 +5303,7 @@ nidānuddeso
  karaṇīyā 
  
  sekhiya 
- 
+ 40 
  
  ālopa 
  
@@ -5317,11 +5317,11 @@ nidānuddeso
  sakkaccavaggo 
  catuttho 
  chapter 
- 
+ 5 
  
  kabaḷa 
  sekhiya 
- 
+ 41 
  
  anāhaṭa 
  
@@ -5334,7 +5334,7 @@ nidānuddeso
  karaṇīyā 
  
  sekhiya 
- 
+ 42 
  
  bhuñjamāna 
  
@@ -5347,7 +5347,7 @@ nidānuddeso
  karaṇīyā 
  
  sekhiya 
- 
+ 43 
  
  sakabaḷa 
  
@@ -5359,7 +5359,7 @@ nidānuddeso
  karaṇīyā 
  
  sekhiya 
- 
+ 44 
  
  piṇḍukkhepaka 
  
@@ -5370,7 +5370,7 @@ nidānuddeso
  karaṇīyā 
  
  sekhiya 
- 
+ 45 
  
  kabaḷāvacchedaka 
  
@@ -5381,7 +5381,7 @@ nidānuddeso
  karaṇīyā 
  
  sekhiya 
- 
+ 46 
  
  avagaṇḍakāraka 
  
@@ -5392,7 +5392,7 @@ nidānuddeso
  karaṇīyā 
  
  sekhiya 
- 
+ 47 
  
  hatthaniddhunaka 
  
@@ -5403,7 +5403,7 @@ nidānuddeso
  karaṇīyā 
  
  sekhiya 
- 
+ 48 
  
  sitthāvakāraka 
  
@@ -5414,7 +5414,7 @@ nidānuddeso
  karaṇīyā 
  
  sekhiya 
- 
+ 49 
  
  jivhānicchāraka 
  
@@ -5425,7 +5425,7 @@ nidānuddeso
  karaṇīyā 
  
  sekhiya 
- 
+ 50 
  
  capucapukāraka 
  
@@ -5439,11 +5439,11 @@ nidānuddeso
  kabaḷavaggo 
  pañcamo 
  chapter 
- 
+ 6 
  
  surusuru 
  sekhiya 
- 
+ 51 
  
  surusurukāraka 
  
@@ -5454,7 +5454,7 @@ nidānuddeso
  karaṇīyā 
  
  sekhiya 
- 
+ 52 
  
  hatthanillehaka 
  
@@ -5465,7 +5465,7 @@ nidānuddeso
  karaṇīyā 
  
  sekhiya 
- 
+ 53 
  
  pattanillehaka 
  
@@ -5476,7 +5476,7 @@ nidānuddeso
  karaṇīyā 
  
  sekhiya 
- 
+ 54 
  
  oṭṭhanillehaka 
  
@@ -5487,7 +5487,7 @@ nidānuddeso
  karaṇīyā 
  
  sekhiya 
- 
+ 55 
  
  sāmisa 
  
@@ -5500,7 +5500,7 @@ nidānuddeso
  karaṇīyā 
  
  sekhiya 
- 
+ 56 
  
  sasitthaka 
  
@@ -5513,7 +5513,7 @@ nidānuddeso
  karaṇīyā 
  
  sekhiya 
- 
+ 57 
  
  chattapāṇi 
  
@@ -5526,7 +5526,7 @@ nidānuddeso
  karaṇīyā 
  
  sekhiya 
- 
+ 58 
  
  daṇḍapāṇi 
  
@@ -5539,7 +5539,7 @@ nidānuddeso
  karaṇīyā 
  
  sekhiya 
- 
+ 59 
  
  satthapāṇi 
  
@@ -5552,7 +5552,7 @@ nidānuddeso
  karaṇīyā 
  
  sekhiya 
- 
+ 60 
  
  āvudhapāṇi 
  
@@ -5568,11 +5568,11 @@ nidānuddeso
  surusuruvaggo 
  chaṭṭho 
  chapter 
- 
+ 7 
  
  pāduka 
  sekhiya 
- 
+ 61 
  
  pāduka 
  
@@ -5585,7 +5585,7 @@ nidānuddeso
  karaṇīyā 
  
  sekhiya 
- 
+ 62 
  
  upāhana 
  
@@ -5598,7 +5598,7 @@ nidānuddeso
  karaṇīyā 
  
  sekhiya 
- 
+ 63 
  
  yāna 
  
@@ -5611,7 +5611,7 @@ nidānuddeso
  karaṇīyā 
  
  sekhiya 
- 
+ 64 
  
  sayana 
  
@@ -5624,7 +5624,7 @@ nidānuddeso
  karaṇīyā 
  
  sekhiya 
- 
+ 65 
  
  pallatthika 
  
@@ -5638,7 +5638,7 @@ nidānuddeso
  karaṇīyā 
  
  sekhiya 
- 
+ 66 
  
  veṭhita 
  
@@ -5651,7 +5651,7 @@ nidānuddeso
  karaṇīyā 
  
  sekhiya 
- 
+ 67 
  
  oguṇṭhita 
  
@@ -5664,7 +5664,7 @@ nidānuddeso
  karaṇīyā 
  
  sekhiya 
- 
+ 68 
  
  chamā 
  
@@ -5680,7 +5680,7 @@ nidānuddeso
  karaṇīyā 
  
  sekhiya 
- 
+ 69 
  
  nīcāsana 
  
@@ -5698,7 +5698,7 @@ nidānuddeso
  karaṇīyā 
  
  sekhiya 
- 
+ 70 
  
  ṭhita 
  
@@ -5712,7 +5712,7 @@ nidānuddeso
  karaṇīyā 
  
  sekhiya 
- 
+ 71 
  
  pacchatogamana 
  
@@ -5728,7 +5728,7 @@ nidānuddeso
  karaṇīyā 
  
  sekhiya 
- 
+ 72 
  
  uppathenagamana 
  
@@ -5744,7 +5744,7 @@ nidānuddeso
  karaṇīyā 
  
  sekhiya 
- 
+ 73 
  
  ṭhitouccāra 
  
@@ -5760,7 +5760,7 @@ nidānuddeso
  karaṇīyā 
  
  sekhiya 
- 
+ 74 
  
  hariteuccāra 
  
@@ -5778,7 +5778,7 @@ nidānuddeso
  karaṇīyā 
  
  sekhiya 
- 
+ 75 
  
  udakeuccāra 
  
@@ -5843,41 +5843,41 @@ nidānuddeso
  samathāya 
  vūpasamāya 
  adhikaraṇasamatha 
- 
+ 1 
  
  sammukhāvinayo 
  dātabbo 
  
  adhikaraṇasamatha 
- 
+ 2 
  
  sativinayo 
  dātabbo 
  
  adhikaraṇasamatha 
- 
+ 3 
  
  amūḷhavinayo 
  dātabbo 
  
  adhikaraṇasamatha 
- 
+ 4 
  
  paṭiññāya 
  kāretabbaṃ 
  
  adhikaraṇasamatha 
- 
+ 5 
  
  yebhuyyasikā 
  
  adhikaraṇasamatha 
- 
+ 6 
  
  tassapāpiyasikā 
  
  adhikaraṇasamatha 
- 
+ 7 
  
  tiṇavatthārakoti 
  

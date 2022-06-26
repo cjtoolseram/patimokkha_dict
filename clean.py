@@ -3,7 +3,7 @@ import re
 
 def clean_machine(text):
 	text = text.lower()
-	text = re.sub("\d", "", text)
+	# text = re.sub("\d", "", text)
 	text = re.sub("\.", "\n", text)
 	text = re.sub(" ", "\n", text)
 	text = re.sub("/", "", text)
@@ -30,7 +30,7 @@ def clean_machine(text):
 	text = re.sub("-", "", text)
 	text = re.sub("–", "", text)	
 	text = re.sub("\—", " ", text)	
-	text = re.sub("\t", " ", text)
+	# text = re.sub("\t", " ", text)
 	text = re.sub("…", " ", text)
 	text = re.sub("–", "", text)
 	text = re.sub("\n", " \n ", text)

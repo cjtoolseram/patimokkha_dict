@@ -104,3 +104,14 @@ with open(f"output/clean_sentences.txt", 'w') as ptmk_sentences_save :
 
 ptmk_sentences.close()
 ptmk_sentences_save.close()
+
+with open(f"source/PAT_Mahāsaṅgīti.txt", 'r') as maha_sentences :
+	maha_sentences_text = maha_sentences.read()
+	
+maha_sentences_text_clean = clean_machine(maha_sentences_text)
+
+with open(f"output/clean_Mahāsaṅgīti.txt", 'w') as maha_sentences_save :
+	maha_sentences_save.write(maha_sentences_text_clean)
+
+maha_sentences.close()
+maha_sentences_save.close()

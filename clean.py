@@ -115,3 +115,14 @@ with open(f"output/clean_Mahāsaṅgīti.txt", 'w') as maha_sentences_save :
 
 maha_sentences.close()
 maha_sentences_save.close()
+
+with open(f"source/PAT_Nyanatusita_old.txt", 'r') as nyanaold_sentences :
+	nyanaold_sentences_text = nyanaold_sentences.read()
+	
+nyanaold_sentences_text_clean = clean_machine(nyanaold_sentences_text)
+
+with open(f"output/clean_Nyanatusita_old.txt", 'w') as nyanaold_sentences_save :
+	nyanaold_sentences_save.write(nyanaold_sentences_text_clean)
+
+nyanaold_sentences.close()
+nyanaold_sentences_save.close()

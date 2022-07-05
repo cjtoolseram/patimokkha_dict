@@ -3,12 +3,12 @@ def convert_dps_ods_to_csv():
     from pandas_ods_reader import read_ods 
     import re
 
-    df_convert_dps = read_ods("Pātimokkha Word by Word.ods")
+    df_convert_dps = read_ods("original_sources/Pātimokkha Word by Word.ods")
     df_convert_dps.fillna("", inplace=True)
     df_convert_dps = df_convert_dps.astype(str)
     # df_convert_dps.rename(columns=df_convert_dps.iloc[0], inplace = True)
     # df_convert_dps.drop([0], inplace = True)
 
-    df_convert_dps.to_csv("Pātimokkha full.csv", sep="\t", index=None)
+    df_convert_dps.to_csv("curated_sources/Pātimokkha full.csv", sep="\t", index=None)
 
 convert_dps_ods_to_csv()

@@ -5,7 +5,7 @@ MAIN_DIR="Bhikkhu Patimokkha"
 DB_DIR=MAIN_DIR + "/json"
 
 ## Read ods files and generate DF
-df = pd.read_excel("Pātimokkha Word by Word.ods", engine="odf")
+df = pd.read_excel("original_sources/Pātimokkha Word by Word.ods", engine="odf")
 
 #Create main dir 
 os.makedirs(MAIN_DIR, exist_ok=True)

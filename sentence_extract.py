@@ -4,7 +4,7 @@ import json
 MAIN_DIR="Bhikkhu Patimokkha"
 DB_DIR=MAIN_DIR + "/json"
 
-sentences_file = open("ptmk_sentences.txt", "w")
+sentences_file = open("curated_sources/ptmk_sentences.txt", "w")
 
 json_file = open(DB_DIR + "/sources.json")
 sources_json = json.load(json_file)

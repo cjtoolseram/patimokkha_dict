@@ -1,7 +1,7 @@
 import pandas as pd
 import json, os
 
-MAIN_DIR="Bhikkhu Patimokkha"
+MAIN_DIR="Bhikkhu_Patimokkha"
 DB_DIR=MAIN_DIR + "/json"
 
 ## Read ods files and generate DF

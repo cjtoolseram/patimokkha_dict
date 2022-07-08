@@ -22,7 +22,7 @@ def replace_pat_sbs_file():
 
 def replace_pat_ods_file():
     diff_dict = read_differences_file()
-    df = pd.read_excel("original_sources/Pātimokkha Word by Word.ods", engine="odf")
+    df = pd.read_excel("original_sources/Pātimokkha Word by Word.ods", engine="odf")
 
     for word in diff_dict:
         df = df.replace(to_replace=word["now"], value=word["result"])

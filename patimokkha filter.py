@@ -23,4 +23,4 @@ df = df[['bhikkhupātimokkhapāḷi', 'pos', 'grammar', '+case', 'tamil',
 df.insert(18, 'feedback', "<a href=\"https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.438735500="+df['bhikkhupātimokkhapāḷi']+"\">feedback</a>")    
 
 # save csv
-df.to_csv("curated_sources/Pātimokkha for Anki.csv", sep="\t", index=None)
+df.to_csv("curated_sources/Pātimokkha Word by Word.csv", sep="\t", index=None)

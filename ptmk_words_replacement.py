@@ -35,7 +35,7 @@ def replace_inflections_file():
     data = df.to_dict(orient="records")
 
     csvheader = ["inflection", "headwords"]
-    with open("curated_sources/all_inflections_curated.csv", "w") as csvwriter:
+    with open("frequency/all_inflections_modified.csv", "w") as csvwriter:
         writer = csv.writer(csvwriter, delimiter="\t")
         writer.writerow(csvheader)
         for row in data:

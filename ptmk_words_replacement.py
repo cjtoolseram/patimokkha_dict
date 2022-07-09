@@ -1,5 +1,5 @@
-from numpy import save
 import pandas as pd
+import csv
 
 
 def read_differences_file() -> dict:
@@ -30,5 +30,24 @@ def replace_pat_ods_file():
     df.to_excel("curated_sources/Pātimokkha Word by Word Replaced.ods")
 
 
+def replace_inflections_file():
+    df = pd.read_csv("frequency/all_inflections.csv", sep="\t")
+    data = df.to_dict(orient="records")
+
+    csvheader = ["inflection", "headwords"]
+    with open("curated_sources/all_inflections_curated.csv", "w") as csvwriter:
+        writer = csv.writer(csvwriter, delimiter="\t")
+        writer.writerow(csvheader)
+        for row in data:
+            non_numeric_str = ''.join([i for i in row["headwords"] if not i.isdigit()])
+            non_numeric_str = non_numeric_str.replace(" ", "").replace("[", "").replace("]", "").replace("'", "")
+            headwords_list = list(non_numeric_str.split(","))
+            headwords_list = pd.unique(headwords_list).tolist()
+            row["headwords"] = ','.join(map(str, headwords_list))
+            csvrow = [row["inflection"], row["headwords"]]
+            writer.writerow(csvrow)
+
+
 replace_pat_sbs_file()
 replace_pat_ods_file()
+replace_inflections_file()

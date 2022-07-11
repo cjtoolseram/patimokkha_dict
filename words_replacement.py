@@ -18,9 +18,13 @@ def replace_ebts_file():
     for inflection_words in inflections_dict:
         for ebts_data_word in ebts_data_list:
             if inflection_words["inflection"] == ebts_data_word.lower():
-                index = ebts_data_list.index(ebts_data_word)
-                ebts_data_list[index] = inflection_words["headwords"]
-                print(f"{ebts_data_word} -> {ebts_data_list[index]} REPLACED!")
+                if inflection_words["headwords"] == ebts_data_word.lower():
+                    index = ebts_data_list.index(ebts_data_word)
+                    ebts_data_list[index] = inflection_words["headwords"]
+                    print(f"{ebts_data_word} -> {ebts_data_list[index]} REPLACED!")
+                else:
+                    print(f"No replacement for ...... {ebts_data_word}!")
+                    
 
     ebts_data = " ".join(ebts_data_list)
 

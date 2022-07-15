@@ -12,7 +12,7 @@ def replace_ebts_file():
     
     with open("original_sources/ebts.txt", "r") as ebts_file:
         ebts_data = ebts_file.read()
-        ebts_data = ebts_data.split("\n", " \n ")
+        ebts_data = ebts_data.replace("\n", " \n ")
     ebts_data_list = list(ebts_data.split(" "))
 
     for inflection_words in inflections_dict:
@@ -27,7 +27,7 @@ def replace_ebts_file():
                     
 
     ebts_data = " ".join(ebts_data_list)
-    ebts_data = ebts_data.split(" \n ", "\n")
+    ebts_data = ebts_data.replace(" \n ", "\n")
 
     with open("curated_sources/ebts_REPLACED.txt", "w") as ebts_replaced_file:
         ebts_replaced_file.write(ebts_data)

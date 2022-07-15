@@ -38,9 +38,12 @@ def replace_inflections_file():
             headwords_non_numeric_str = headwords_non_numeric_str.replace(" ", "").replace("[", "").replace("]", "").replace("'", "")
             headwords_list = list(headwords_non_numeric_str.split(","))
             headwords_list = pd.unique(headwords_list).tolist()
-            row["headwords"] = " ".join(map(str, headwords_list))
-            csvrow = [row["inflection"], row["headwords"]]
-            writer.writerow(csvrow)
+            if(len(headwords_list) == 1):
+                row["headwords"] = " ".join(map(str, headwords_list))
+                csvrow = [row["inflection"], row["headwords"]]
+                writer.writerow(csvrow)
+
+            
     replace_pat_sbs_file()
     replace_pat_ods_file()
 

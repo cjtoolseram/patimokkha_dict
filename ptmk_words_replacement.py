@@ -23,7 +23,7 @@ def replace_pat_ods_file():
 
 
 def replace_inflections_file():
-    df = pd.read_csv("frequency/all_inflections.csv", sep="\t")
+    df = pd.read_csv("original_sources/all_inflections.csv", sep="\t")
     data = df.to_dict(orient="records")
 
     csvheader = ["inflection", "headwords"]

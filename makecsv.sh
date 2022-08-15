@@ -6,11 +6,11 @@ echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
 
 # python3 ods_to_csv.py "Pātimokkha Word by Word.ods" Sheet1 20
 
-mv "original_sources/Pātimokkha Word by Word.ods" "Pātimokkha Word by Word.ods"
+# mv "original_sources/Pātimokkha Word by Word.ods" "Pātimokkha Word by Word.ods"
 
-python3 ods-to-csv-headers.py "Pātimokkha Word by Word.ods" Sheet1 20
+python3 ods-to-csv-headers.py "original_sources/Pātimokkha Word by Word.ods" Sheet1 20
 
-mv "Pātimokkha Word by Word.ods" "original_sources/Pātimokkha Word by Word.ods"
+# mv "Pātimokkha Word by Word.ods" "original_sources/Pātimokkha Word by Word.ods"
 
 echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
 echo "filtering words that have been done"

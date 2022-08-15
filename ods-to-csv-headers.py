@@ -113,7 +113,7 @@ with ZipFile(ods_file_name) as ods_file:
 
         # Open a CSV file to write to
         #
-        with open('curated_sources/{}.csv'.format(os.path.splitext(ods_file_name)[0]), 'w', encoding='utf-8') as csv_file:
+        with open('{}.csv'.format(os.path.splitext(ods_file_name)[0]), 'w', encoding='utf-8') as csv_file:
             first = True
             for row in rows:
                 base_cells = [cell for cell in row.getElementsByTagName('table:table-cell')]

@@ -1,5 +1,5 @@
 echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
-echo "making csv with bold"
+echo "making Patimokkha csv with bold - ods-to-csv-headers.py"
 echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
 
 #cd "/home/deva/Documents/sasanarakkha/patimokkha-analysis/original_sources"

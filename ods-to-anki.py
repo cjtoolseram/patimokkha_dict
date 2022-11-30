@@ -41,8 +41,7 @@ class ReadOds:
         test2 = self.df['Sheet1']['meaning'] != ""
         filter = test1 & test2
         self.df['Sheet1'] = self.df['Sheet1'][filter]
-# !["#", "x", "comments"]
-        self.df['Sheet1'].drop(["#", "x"], axis = 1, inplace=True)
+        self.df['Sheet1'].drop(["#", "x", "comments"], axis = 1, inplace=True)
         self.df['Sheet1'].drop(self.df['Sheet1'].iloc[:, 20:], axis = 1, inplace=True)
         self.df['Sheet1']['GoogleForm'] = f"""Spot a mistake? <a class="link" href="https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.438735500=""" + self.df['Sheet1'].pali + """&entry.1433863141=Anki">Fix it here</a>."""
 

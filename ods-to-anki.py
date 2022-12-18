@@ -47,7 +47,7 @@ class ReadOds:
 
         rows = self.df['Sheet1'].shape[0]
         columns = self.df['Sheet1'].shape[1]
-        self.df['Sheet1'].to_csv(f'Pātimokkha Word by Word.csv', sep='\t', index=False, header=False, quoting=1)
+        self.df['Sheet1'].to_csv(f'Pātimokkha Word by Word.csv', sep='\t', index=False, header=True, quoting=1)
         print(f"{timeis()} {green}saving {white}{rows} {green}rows {white}{columns} {green}columns")
         # print(self.df['Sheet1'])
 

@@ -12,15 +12,15 @@ echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
 # echo "making Patimokkha csv with bold - ods-to-csv-headers.py"
 # echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
 
-# python3 ods-to-csv-headers.py "original_sources/Pātimokkha Word by Word.ods" Sheet1 20
+# poetry run python ods-to-csv-headers.py "original_sources/Pātimokkha Word by Word.ods" Sheet1 20
 
 # echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
 # echo "filtering words that have been done"
 # echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
 
-# python3 "patimokkha filter.py"
+# poetry run python "patimokkha filter.py"
 
-python3 ods-to-anki.py
+poetry run python ods-to-anki.py
 
 echo "process completed"
 echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"

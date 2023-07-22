@@ -37,19 +37,19 @@ class ReadOds:
     def process_and_save_csv(self):
         print(f"{timeis()} {green}processing for anki")
             
-        test1 = self.df['Sheet1']['#'] == "1"
-        test2 = self.df['Sheet1']['meaning'] != ""
+        test1 = self.df['analysis']['#'] == "1"
+        test2 = self.df['analysis']['meaning'] != ""
         filter = test1 & test2
-        self.df['Sheet1'] = self.df['Sheet1'][filter]
-        self.df['Sheet1'].drop(["#", "x", "comments"], axis = 1, inplace=True)
-        self.df['Sheet1'].drop(self.df['Sheet1'].iloc[:, 20:], axis = 1, inplace=True)
-        self.df['Sheet1']['GoogleForm'] = f"""Spot a mistake? <a class="link" href="https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.438735500=""" + self.df['Sheet1'].pali + """&entry.1433863141=Anki">Fix it here</a>."""
+        self.df['analysis'] = self.df['analysis'][filter]
+        self.df['analysis'].drop(["#", "x", "comments"], axis = 1, inplace=True)
+        self.df['analysis'].drop(self.df['analysis'].iloc[:, 20:], axis = 1, inplace=True)
+        self.df['analysis']['GoogleForm'] = f"""Spot a mistake? <a class="link" href="https://docs.google.com/forms/d/e/1FAIpQLSdG6zKDtlwibtrX-cbKVn4WmIs8miH4VnuJvb7f94plCDKJyA/viewform?usp=pp_url&entry.438735500=""" + self.df['analysis'].pali + """&entry.1433863141=Anki">Fix it here</a>."""
 
-        rows = self.df['Sheet1'].shape[0]
-        columns = self.df['Sheet1'].shape[1]
-        self.df['Sheet1'].to_csv(f'Pātimokkha Word by Word.csv', sep='\t', index=False, header=True, quoting=1)
+        rows = self.df['analysis'].shape[0]
+        columns = self.df['analysis'].shape[1]
+        self.df['analysis'].to_csv(f'Pātimokkha Word by Word.csv', sep='\t', index=False, header=True, quoting=1)
         print(f"{timeis()} {green}saving {white}{rows} {green}rows {white}{columns} {green}columns")
-        # print(self.df['Sheet1'])
+        # print(self.df['analysis'])
 
     def get_bold_styles(self):
         ''' 
@@ -133,7 +133,7 @@ if __name__ == '__main__':
     print(f"{timeis()} {line}")
     print(f"{timeis()} {yellow}converting ods to csv")
     print(f"{timeis()} {line}")
-    a = ReadOds("original_sources/Pātimokkha Word by Word.ods", ['Sheet1'])
+    a = ReadOds("original_sources/Pātimokkha Word by Word.ods", ['analysis'])
     a.process_and_save_csv()
     toc()
 

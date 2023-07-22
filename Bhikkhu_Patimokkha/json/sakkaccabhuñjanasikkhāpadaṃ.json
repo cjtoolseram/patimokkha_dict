@@ -1,0 +1,34 @@
+[
+  {
+    "abbrev":"SE 31",
+    "source":"sakkaccabhuñjanasikkhāpadaṃ",
+    "sentence":"sakkaccaṃ piṇḍapātaṃ bhuñjissāmī'ti sikkhā karaṇīyā.",
+    "pali":"sakkaccaṃ",
+    "pos":"ind",
+    "grammar":"adv, nt acc sg of sakkacca",
+    "+case":0,
+    "meaning":"respectfully; carefully; thoroughly; properly",
+    "lit. meaning":0,
+    "root":"√kar (do, make)",
+    "base":0,
+    "construction":"sat + √kar + tya + aṃ",
+    "compound type":0,
+    "compound construction":0
+  },
+  {
+    "abbrev":"SE 31",
+    "source":"sakkaccabhuñjanasikkhāpadaṃ",
+    "sentence":"sakkaccaṃ piṇḍapātaṃ bhuñjissāmī'ti sikkhā karaṇīyā.",
+    "pali":"- bhuñjissāmi",
+    "pos":"verb",
+    "grammar":"fut 1st sg of bhuñjati",
+    "+case":"",
+    "meaning":"I will eat",
+    "lit. meaning":"",
+    "root":"√bhuj (eat, enjoy)",
+    "base":"√bhuj + ṃa > bhuñja",
+    "construction":"bhuñja + issa + ti",
+    "compound type":"",
+    "compound construction":""
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "abbrev":"SE 60",
+    "source":"āvudhapāṇisikkhāpadaṃ",
+    "sentence":"na āvudhapāṇissa agilānassa dhammaṃ desessāmī'ti sikkhā karaṇīyā.",
+    "pali":"na",
+    "pos":"ind",
+    "grammar":"neg",
+    "+case":0,
+    "meaning":"not",
+    "lit. meaning":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound type":0,
+    "compound construction":0
+  },
+  {
+    "abbrev":"SE 60",
+    "source":"āvudhapāṇisikkhāpadaṃ",
+    "sentence":"na āvudhapāṇissa agilānassa dhammaṃ desessāmī'ti sikkhā karaṇīyā.",
+    "pali":"āyudhapāṇissa",
+    "pos":"noun",
+    "grammar":"masc dat sg of āyudhapāṇī",
+    "+case":"",
+    "meaning":"to a person with a weapon in hand",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"āyudha + pāṇī",
+    "compound type":"kammadhāraya",
+    "compound construction":"āyudha + pāṇī"
+  },
+  {
+    "abbrev":"SE 60",
+    "source":"āvudhapāṇisikkhāpadaṃ",
+    "sentence":"na āvudhapāṇissa agilānassa dhammaṃ desessāmī'ti sikkhā karaṇīyā.",
+    "pali":"- āyudha",
+    "pos":"noun",
+    "grammar":"nt",
+    "+case":"",
+    "meaning":"weapon",
+    "lit. meaning":"",
+    "root":"√yudh (fight)",
+    "base":"",
+    "construction":"ā + √yudh + a",
+    "compound type":"",
+    "compound construction":""
+  }
+]

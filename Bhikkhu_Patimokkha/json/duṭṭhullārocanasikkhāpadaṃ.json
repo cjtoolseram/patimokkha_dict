@@ -1,0 +1,50 @@
+[
+  {
+    "abbrev":"PC 09",
+    "source":"duṭṭhullārocanasikkhāpadaṃ",
+    "sentence":"yo pana bhikkhu bhikkhussa duṭṭhullaṃ āpattiṃ anupasampannassa āroceyya aññatra bhikkhusammutiyā, pācittiyaṃ.",
+    "pali":"yo",
+    "pos":"pron",
+    "grammar":"masc nom sg of ya",
+    "+case":0,
+    "meaning":"whichever, whoever",
+    "lit. meaning":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound type":0,
+    "compound construction":0
+  },
+  {
+    "abbrev":"PC 09",
+    "source":"duṭṭhullārocanasikkhāpadaṃ",
+    "sentence":"yo pana bhikkhu bhikkhussa duṭṭhullaṃ āpattiṃ anupasampannassa āroceyya aññatra bhikkhusammutiyā, pācittiyaṃ.",
+    "pali":"pana",
+    "pos":"ind",
+    "grammar":0,
+    "+case":0,
+    "meaning":"then, now, so, but",
+    "lit. meaning":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound type":0,
+    "compound construction":0
+  },
+  {
+    "abbrev":"PC 09",
+    "source":"duṭṭhullārocanasikkhāpadaṃ",
+    "sentence":"yo pana bhikkhu bhikkhussa duṭṭhullaṃ āpattiṃ anupasampannassa āroceyya aññatra bhikkhusammutiyā, pācittiyaṃ.",
+    "pali":"duṭṭhullaṃ",
+    "pos":"adj",
+    "grammar":"fem acc sg of duṭṭhalla",
+    "+case":"",
+    "meaning":"serious",
+    "lit. meaning":"bad heavy",
+    "root":"√thūl (be fat, coarse)",
+    "base":"",
+    "construction":"dur + √thūl + a ",
+    "compound type":"",
+    "compound construction":""
+  }
+]

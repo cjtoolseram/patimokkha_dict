@@ -1,0 +1,50 @@
+[
+  {
+    "abbrev":"SE 27",
+    "source":"pattasaññīpaṭiggahaṇasikkhāpadaṃ",
+    "sentence":"sakkaccaṃ piṇḍapātaṃ paṭiggahessāmī'ti sikkhā karaṇīyā.",
+    "pali":"- paṭiggahessāmi",
+    "pos":"verb",
+    "grammar":"fut 1st sg of paṭiggaṇhāti",
+    "+case":"",
+    "meaning":"I will receive, accept",
+    "lit. meaning":"I will take back",
+    "root":"√gah (grasp)",
+    "base":"√gah + ṇhā > gahe",
+    "construction":"pati + gahe + ssa + ti",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"SE 28",
+    "source":"pattasaññīpaṭiggahaṇasikkhāpadaṃ",
+    "sentence":"pattasaññī piṇḍapātaṃ paṭiggahessāmī'ti sikkhā karaṇīyā.",
+    "pali":"pattasaññī",
+    "pos":"adj",
+    "grammar":"masc nom sg of pattasaññī",
+    "+case":"",
+    "meaning":"attentive to the bowl; aware of the bowl",
+    "lit. meaning":"perceiving the bowl",
+    "root":"",
+    "base":"",
+    "construction":"patta + saññī",
+    "compound type":"accusative tappurisa",
+    "compound construction":"pattaṃ + saññī"
+  },
+  {
+    "abbrev":"SE 28",
+    "source":"pattasaññīpaṭiggahaṇasikkhāpadaṃ",
+    "sentence":"pattasaññī piṇḍapātaṃ paṭiggahessāmī'ti sikkhā karaṇīyā.",
+    "pali":"- saññī",
+    "pos":"adj",
+    "grammar":"mac nom sg of saññī",
+    "+case":"",
+    "meaning":"aware of, perceiving, attentive to",
+    "lit. meaning":"",
+    "root":"√ñā (know)",
+    "base":"",
+    "construction":"saṃ + √ñā + ī",
+    "compound type":"",
+    "compound construction":""
+  }
+]

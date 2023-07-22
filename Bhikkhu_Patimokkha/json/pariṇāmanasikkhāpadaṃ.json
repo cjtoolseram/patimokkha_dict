@@ -1,0 +1,34 @@
+[
+  {
+    "abbrev":"PC 82",
+    "source":"pariṇāmanasikkhāpadaṃ",
+    "sentence":"yo pana bhikkhu jānaṃ saṅghikaṃ lābhaṃ pariṇataṃ puggalassa pariṇāmeyya, pācittiyaṃ.",
+    "pali":"yo",
+    "pos":"pron",
+    "grammar":"masc nom sg of ya",
+    "+case":0,
+    "meaning":"whichever, whoever",
+    "lit. meaning":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound type":0,
+    "compound construction":0
+  },
+  {
+    "abbrev":"PC 82",
+    "source":"pariṇāmanasikkhāpadaṃ",
+    "sentence":"yo pana bhikkhu jānaṃ saṅghikaṃ lābhaṃ pariṇataṃ puggalassa pariṇāmeyya, pācittiyaṃ.",
+    "pali":"puggalassa",
+    "pos":"noun",
+    "grammar":"masc dat sg of puggala",
+    "+case":"",
+    "meaning":"to an individual",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
+  }
+]

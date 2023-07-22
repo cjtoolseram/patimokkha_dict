@@ -1,0 +1,50 @@
+[
+  {
+    "abbrev":"SE 69",
+    "source":"nīcāsanasikkhāpadaṃ",
+    "sentence":"na nīce āsane nisīditvā ucce āsane nisinnassa agilānassa dhammaṃ desessāmī'ti sikkhā karaṇīyā.",
+    "pali":"na",
+    "pos":"ind",
+    "grammar":"neg",
+    "+case":0,
+    "meaning":"not",
+    "lit. meaning":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound type":0,
+    "compound construction":0
+  },
+  {
+    "abbrev":"SE 69",
+    "source":"nīcāsanasikkhāpadaṃ",
+    "sentence":"na nīce āsane nisīditvā ucce āsane nisinnassa agilānassa dhammaṃ desessāmī'ti sikkhā karaṇīyā.",
+    "pali":"nīce",
+    "pos":"adj",
+    "grammar":"nt loc sg of nīca",
+    "+case":"",
+    "meaning":"low",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"ni + tya",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"SE 69",
+    "source":"nīcāsanasikkhāpadaṃ",
+    "sentence":"na nīce āsane nisīditvā ucce āsane nisinnassa agilānassa dhammaṃ desessāmī'ti sikkhā karaṇīyā.",
+    "pali":"ucce",
+    "pos":"adj",
+    "grammar":"nt loc sg of ucca",
+    "+case":"",
+    "meaning":"high",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"ud + tya",
+    "compound type":"",
+    "compound construction":""
+  }
+]

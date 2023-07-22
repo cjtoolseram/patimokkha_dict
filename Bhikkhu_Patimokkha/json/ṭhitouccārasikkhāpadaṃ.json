@@ -1,0 +1,34 @@
+[
+  {
+    "abbrev":"SE 73",
+    "source":"ṭhitouccārasikkhāpadaṃ",
+    "sentence":"na ṭhito agilāno uccāraṃ vā passāvaṃ vā karissāmī'ti sikkhā karaṇīyā.",
+    "pali":"na",
+    "pos":"ind",
+    "grammar":"neg",
+    "+case":0,
+    "meaning":"not",
+    "lit. meaning":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound type":0,
+    "compound construction":0
+  },
+  {
+    "abbrev":"SE 73",
+    "source":"ṭhitouccārasikkhāpadaṃ",
+    "sentence":"na ṭhito agilāno uccāraṃ vā passāvaṃ vā karissāmī'ti sikkhā karaṇīyā.",
+    "pali":"uccāraṃ",
+    "pos":"noun",
+    "grammar":"masc acc sg of uccāra",
+    "+case":"",
+    "meaning":"excrement",
+    "lit. meaning":"discharge",
+    "root":"√car (walk, behave)",
+    "base":"",
+    "construction":"ud + √car + *a",
+    "compound type":"",
+    "compound construction":""
+  }
+]

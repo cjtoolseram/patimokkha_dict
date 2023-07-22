@@ -1,0 +1,34 @@
+[
+  {
+    "abbrev":"SE 5",
+    "source":"susaṃvutasikkhāpadaṃ",
+    "sentence":"susaṃvuto antaraghare gamissāmī'ti sikkhā karaṇīyā.",
+    "pali":"susaṃvuto",
+    "pos":"adj",
+    "grammar":"masc nom sg of susaṃvuta",
+    "+case":"",
+    "meaning":"well restrained, well controlled",
+    "lit. meaning":"",
+    "root":"√var (cover, dress, restrain)",
+    "base":"",
+    "construction":"su + saṃ + √var + ta",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"SE 6",
+    "source":"susaṃvutasikkhāpadaṃ",
+    "sentence":"susaṃvuto antaraghare nisīdissāmīti sikkhā karaṇīyā.",
+    "pali":"susaṃvuto",
+    "pos":"adj",
+    "grammar":"masc nom sg of susaṃvuta",
+    "+case":0,
+    "meaning":"well restrained, well controlled",
+    "lit. meaning":0,
+    "root":"√var (cover, dress, restrain)",
+    "base":0,
+    "construction":"su + saṃ + √var + ta",
+    "compound type":0,
+    "compound construction":0
+  }
+]

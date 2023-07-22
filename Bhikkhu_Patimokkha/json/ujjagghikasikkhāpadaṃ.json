@@ -1,0 +1,50 @@
+[
+  {
+    "abbrev":"SE 11",
+    "source":"ujjagghikasikkhāpadaṃ",
+    "sentence":"na ujjagghikāya antaraghare gamissāmī'ti sikkhā karaṇīyā.",
+    "pali":"na",
+    "pos":"ind",
+    "grammar":"neg",
+    "+case":0,
+    "meaning":"not",
+    "lit. meaning":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound type":0,
+    "compound construction":0
+  },
+  {
+    "abbrev":"SE 11",
+    "source":"ujjagghikasikkhāpadaṃ",
+    "sentence":"na ujjagghikāya antaraghare gamissāmī'ti sikkhā karaṇīyā.",
+    "pali":"ujjagghikāya",
+    "pos":"fem",
+    "grammar":"fem instr sg of ujjagghikā",
+    "+case":"",
+    "meaning":"with laughter",
+    "lit. meaning":"",
+    "root":"√jaggh (laugh)",
+    "base":"",
+    "construction":"ud + √jaggh + ikā",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"SE 12",
+    "source":"ujjagghikasikkhāpadaṃ",
+    "sentence":"na ujjagghikāya antaraghare nisīdissāmīti sikkhā karaṇīyā.",
+    "pali":"na",
+    "pos":"ind",
+    "grammar":"neg",
+    "+case":0,
+    "meaning":"not",
+    "lit. meaning":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound type":0,
+    "compound construction":0
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "abbrev":"SE 68",
+    "source":"chamāsikkhāpadaṃ",
+    "sentence":"na chamāyaṃ nisīditvā āsane nisinnassa agilānassa dhammaṃ desessāmī'ti sikkhā karaṇīyā.",
+    "pali":"na",
+    "pos":"ind",
+    "grammar":"neg",
+    "+case":0,
+    "meaning":"not",
+    "lit. meaning":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound type":0,
+    "compound construction":0
+  },
+  {
+    "abbrev":"SE 68",
+    "source":"chamāsikkhāpadaṃ",
+    "sentence":"na chamāyaṃ nisīditvā āsane nisinnassa agilānassa dhammaṃ desessāmī'ti sikkhā karaṇīyā.",
+    "pali":"chamāyaṃ",
+    "pos":"noun",
+    "grammar":"fem loc sg of chamā",
+    "+case":"",
+    "meaning":"on the earth",
+    "lit. meaning":"",
+    "root":"√kham (endure)",
+    "base":"",
+    "construction":"√kham > cham + ā",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"SE 68",
+    "source":"chamāsikkhāpadaṃ",
+    "sentence":"na chamāyaṃ nisīditvā āsane nisinnassa agilānassa dhammaṃ desessāmī'ti sikkhā karaṇīyā.",
+    "pali":"nisīditvā",
+    "pos":"verb",
+    "grammar":"abs of nisīdati",
+    "+case":"",
+    "meaning":"having sat down",
+    "lit. meaning":"",
+    "root":"√sad (sink, sit, settle)",
+    "base":"√sad + a > sīda",
+    "construction":"ni + sīda + ti",
+    "compound type":"",
+    "compound construction":""
+  }
+]

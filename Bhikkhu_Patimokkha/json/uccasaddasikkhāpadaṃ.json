@@ -1,0 +1,50 @@
+[
+  {
+    "abbrev":"SE 13",
+    "source":"uccasaddasikkhāpadaṃ",
+    "sentence":"appasaddo antaraghare gamissāmī'ti sikkhā karaṇīyā.",
+    "pali":"appasaddo",
+    "pos":"adj",
+    "grammar":"mac nom sg of appasadda",
+    "+case":"",
+    "meaning":"quiet",
+    "lit. meaning":"little sound",
+    "root":"",
+    "base":"",
+    "construction":"appa + sadda",
+    "compound type":"kammadhāraya",
+    "compound construction":"appa + sadda"
+  },
+  {
+    "abbrev":"SE 13",
+    "source":"uccasaddasikkhāpadaṃ",
+    "sentence":"appasaddo antaraghare gamissāmī'ti sikkhā karaṇīyā.",
+    "pali":"- saddo",
+    "pos":"adj",
+    "grammar":"masc nom sg of sadda",
+    "+case":"",
+    "meaning":"with sound",
+    "lit. meaning":"",
+    "root":"√sadd (sound)",
+    "base":"",
+    "construction":"√sadd + a",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"SE 14",
+    "source":"uccasaddasikkhāpadaṃ",
+    "sentence":"appasaddo antaraghare nisīdissāmīti sikkhā karaṇīyā.",
+    "pali":"appasaddo",
+    "pos":"adj",
+    "grammar":"mac nom sg of appasadda",
+    "+case":0,
+    "meaning":"quiet",
+    "lit. meaning":"little sound",
+    "root":0,
+    "base":0,
+    "construction":"appa + sadda",
+    "compound type":"kammadhāraya",
+    "compound construction":"appa + sadda"
+  }
+]

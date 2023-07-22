@@ -1,0 +1,18 @@
+[
+  {
+    "abbrev":"SE 32",
+    "source":"pattasaññībhuñjanasikkhāpadaṃ",
+    "sentence":"pattasaññī piṇḍapātaṃ bhuñjissāmīti sikkhā karaṇīyā.",
+    "pali":"pattasaññī",
+    "pos":"adj",
+    "grammar":"masc nom sg of pattasaññī",
+    "+case":0,
+    "meaning":"attentive to the bowl; aware of the bowl",
+    "lit. meaning":"perceiving the bowl",
+    "root":0,
+    "base":0,
+    "construction":"patta + saññī",
+    "compound type":"accusative tappurisa",
+    "compound construction":"pattaṃ + saññī"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "abbrev":"SE 35",
+    "source":"nathūpakatasikkhāpadaṃ",
+    "sentence":"na thūpakato omadditvā piṇḍapātaṃ bhuñjissāmī'ti sikkhā karaṇīyā.",
+    "pali":"na",
+    "pos":"ind",
+    "grammar":"neg",
+    "+case":0,
+    "meaning":"not",
+    "lit. meaning":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound type":0,
+    "compound construction":0
+  },
+  {
+    "abbrev":"SE 35",
+    "source":"nathūpakatasikkhāpadaṃ",
+    "sentence":"na thūpakato omadditvā piṇḍapātaṃ bhuñjissāmī'ti sikkhā karaṇīyā.",
+    "pali":"thūpakato",
+    "pos":"noun",
+    "grammar":"masc abl sg of thūpaka",
+    "+case":"",
+    "meaning":"from the heap in the middle",
+    "lit. meaning":"from a small pagoda",
+    "root":"",
+    "base":"",
+    "construction":"thūpa + ka + to",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"SE 35",
+    "source":"nathūpakatasikkhāpadaṃ",
+    "sentence":"na thūpakato omadditvā piṇḍapātaṃ bhuñjissāmī'ti sikkhā karaṇīyā.",
+    "pali":"omadditvā",
+    "pos":"verb",
+    "grammar":"abs of omaddati",
+    "+case":"",
+    "meaning":"having pressed down, made a lump",
+    "lit. meaning":"having crushed down",
+    "root":"√madd (crush, grind)",
+    "base":"",
+    "construction":"ava + √madd + itvā",
+    "compound type":"",
+    "compound construction":""
+  }
+]

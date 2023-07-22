@@ -1,0 +1,34 @@
+[
+  {
+    "abbrev":"SE 30",
+    "source":"samatittikasikkhāpadaṃ",
+    "sentence":"samatittikaṃ piṇḍapātaṃ paṭiggahessāmī'ti sikkhā karaṇīyā.",
+    "pali":"samatittikaṃ",
+    "pos":"adj",
+    "grammar":"masc acc sg of samatittika",
+    "+case":"",
+    "meaning":"level with the brim, edge",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"sama + tittika",
+    "compound type":"kammadhāraya",
+    "compound construction":"sama + tittika"
+  },
+  {
+    "abbrev":"SE 30",
+    "source":"samatittikasikkhāpadaṃ",
+    "sentence":"samatittikaṃ piṇḍapātaṃ paṭiggahessāmī'ti sikkhā karaṇīyā.",
+    "pali":"- tittikaṃ",
+    "pos":"adj",
+    "grammar":"masc acc sg of tittika",
+    "+case":"",
+    "meaning":"regarding the brim, edge",
+    "lit. meaning":"",
+    "root":"√tir (cross)",
+    "base":"",
+    "construction":"√tir + ti + ika",
+    "compound type":"",
+    "compound construction":""
+  }
+]

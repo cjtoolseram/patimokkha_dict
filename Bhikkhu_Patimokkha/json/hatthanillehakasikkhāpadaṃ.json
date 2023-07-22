@@ -1,0 +1,50 @@
+[
+  {
+    "abbrev":"SE 52",
+    "source":"hatthanillehakasikkhāpadaṃ",
+    "sentence":"na hatthanillehakaṃ bhuñjissāmī'ti sikkhā karaṇīyā.",
+    "pali":"na",
+    "pos":"ind",
+    "grammar":"neg",
+    "+case":0,
+    "meaning":"not",
+    "lit. meaning":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound type":0,
+    "compound construction":0
+  },
+  {
+    "abbrev":"SE 52",
+    "source":"hatthanillehakasikkhāpadaṃ",
+    "sentence":"na hatthanillehakaṃ bhuñjissāmī'ti sikkhā karaṇīyā.",
+    "pali":"hatthanillehakaṃ",
+    "pos":"ind",
+    "grammar":"adv, nt acc sg of hatthanillehaka",
+    "+case":"",
+    "meaning":"licking the hand",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"hattha + nillehaka + aṃ",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"SE 52",
+    "source":"hatthanillehakasikkhāpadaṃ",
+    "sentence":"na hatthanillehakaṃ bhuñjissāmī'ti sikkhā karaṇīyā.",
+    "pali":"- nillehakaṃ",
+    "pos":"ind",
+    "grammar":"adv, nt acc sg of nillehaka",
+    "+case":"",
+    "meaning":"licking, lapping",
+    "lit. meaning":"",
+    "root":"√lih (lick, lap)",
+    "base":"",
+    "construction":"nī + √lih > leha + aka + aṃ",
+    "compound type":"",
+    "compound construction":""
+  }
+]

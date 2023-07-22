@@ -1,0 +1,50 @@
+[
+  {
+    "abbrev":"PC 06",
+    "source":"dutiyasahaseyyasikkhāpada",
+    "sentence":"yo pana bhikkhu mātugāmena sahaseyyaṃ kappeyya, pācittiyaṃ.",
+    "pali":"yo",
+    "pos":"pron",
+    "grammar":"masc nom sg of ya",
+    "+case":0,
+    "meaning":"whichever, whoever",
+    "lit. meaning":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound type":0,
+    "compound construction":0
+  },
+  {
+    "abbrev":"PC 06",
+    "source":"dutiyasahaseyyasikkhāpada",
+    "sentence":"yo pana bhikkhu mātugāmena sahaseyyaṃ kappeyya, pācittiyaṃ.",
+    "pali":"pana",
+    "pos":"ind",
+    "grammar":0,
+    "+case":0,
+    "meaning":"then, now, so, but",
+    "lit. meaning":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound type":0,
+    "compound construction":0
+  },
+  {
+    "abbrev":"PC 06",
+    "source":"dutiyasahaseyyasikkhāpada",
+    "sentence":"yo pana bhikkhu mātugāmena sahaseyyaṃ kappeyya, pācittiyaṃ.",
+    "pali":"bhikkhu",
+    "pos":"noun",
+    "grammar":"masc nom sg, from bhikkhati",
+    "+case":0,
+    "meaning":"monk, monastic",
+    "lit. meaning":"beggar, mendicant",
+    "root":"√bhikkh (beg)",
+    "base":0,
+    "construction":"√bhikkh + u",
+    "compound type":0,
+    "compound construction":0
+  }
+]

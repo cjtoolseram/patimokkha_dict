@@ -1,0 +1,34 @@
+[
+  {
+    "abbrev":"PC 13",
+    "source":"ujjhāpanakasikkhāpadaṃ",
+    "sentence":"ujjhāpanake, khīyanake pācittiyaṃ.",
+    "pali":"ujjhāpanake",
+    "pos":"adj",
+    "grammar":"masc loc sg of ujjhāpanaka",
+    "+case":"",
+    "meaning":"in provoking complaint",
+    "lit. meaning":"causing to think up",
+    "root":"√jhā (think)",
+    "base":"√jhā + āpe > jhāpe",
+    "construction":"ud + jhāpe + ana + ka",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"PC 13",
+    "source":"ujjhāpanakasikkhāpadaṃ",
+    "sentence":"ujjhāpanake, khīyanake pācittiyaṃ.",
+    "pali":"khīyanake",
+    "pos":"adj",
+    "grammar":"masc loc sg of khīyanaka",
+    "+case":"",
+    "meaning":"in complaining; criticising",
+    "lit. meaning":"",
+    "root":"√khī (destroy, exhaust)",
+    "base":"√khī + ya > khīya",
+    "construction":"khīya + ana + ka",
+    "compound type":"",
+    "compound construction":""
+  }
+]

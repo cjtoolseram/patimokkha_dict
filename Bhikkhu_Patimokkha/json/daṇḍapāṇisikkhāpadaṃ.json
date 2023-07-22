@@ -1,0 +1,50 @@
+[
+  {
+    "abbrev":"SE 58",
+    "source":"daṇḍapāṇisikkhāpadaṃ",
+    "sentence":"na daṇḍapāṇissa agilānassa dhammaṃ desessāmī'ti sikkhā karaṇīyā.",
+    "pali":"na",
+    "pos":"ind",
+    "grammar":"neg",
+    "+case":0,
+    "meaning":"not",
+    "lit. meaning":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound type":0,
+    "compound construction":0
+  },
+  {
+    "abbrev":"SE 58",
+    "source":"daṇḍapāṇisikkhāpadaṃ",
+    "sentence":"na daṇḍapāṇissa agilānassa dhammaṃ desessāmī'ti sikkhā karaṇīyā.",
+    "pali":"daṇḍapāṇissa",
+    "pos":"noun",
+    "grammar":"masc dat sg of daṇḍapāṇī",
+    "+case":"",
+    "meaning":"to a person with a stick in hand, to a stick-holder",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"daṇḍa + pāṇī",
+    "compound type":"kammadhāraya",
+    "compound construction":"daṇḍa + pāṇī"
+  },
+  {
+    "abbrev":"SE 58",
+    "source":"daṇḍapāṇisikkhāpadaṃ",
+    "sentence":"na daṇḍapāṇissa agilānassa dhammaṃ desessāmī'ti sikkhā karaṇīyā.",
+    "pali":"- daṇḍa",
+    "pos":"noun",
+    "grammar":"masc",
+    "+case":"",
+    "meaning":"stick, walking stick",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
+  }
+]

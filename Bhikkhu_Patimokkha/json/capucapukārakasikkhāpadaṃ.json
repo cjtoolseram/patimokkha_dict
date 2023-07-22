@@ -1,0 +1,50 @@
+[
+  {
+    "abbrev":"SE 50",
+    "source":"capucapukārakasikkhāpadaṃ",
+    "sentence":"na capucapukārakaṃ bhuñjissāmī'ti sikkhā karaṇīyā.",
+    "pali":"na",
+    "pos":"ind",
+    "grammar":"neg",
+    "+case":0,
+    "meaning":"not",
+    "lit. meaning":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound type":0,
+    "compound construction":0
+  },
+  {
+    "abbrev":"SE 50",
+    "source":"capucapukārakasikkhāpadaṃ",
+    "sentence":"na capucapukārakaṃ bhuñjissāmī'ti sikkhā karaṇīyā.",
+    "pali":"capucapukārakaṃ",
+    "pos":"ind",
+    "grammar":"adv, nt acc sg of capucapukāraka",
+    "+case":"",
+    "meaning":"munching loudly; making a chomping sound",
+    "lit. meaning":"making capucapu sound",
+    "root":"",
+    "base":"",
+    "construction":"capucapu + kāraka + aṃ",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"SE 50",
+    "source":"capucapukārakasikkhāpadaṃ",
+    "sentence":"na capucapukārakaṃ bhuñjissāmī'ti sikkhā karaṇīyā.",
+    "pali":"- capucapu",
+    "pos":"noun",
+    "grammar":"masc, onom",
+    "+case":"",
+    "meaning":"chomping sound; munching sound; lip-smacking sound ",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"capu + capu",
+    "compound type":"",
+    "compound construction":""
+  }
+]

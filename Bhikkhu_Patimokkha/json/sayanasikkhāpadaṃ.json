@@ -1,0 +1,50 @@
+[
+  {
+    "abbrev":"SE 64",
+    "source":"sayanasikkhāpadaṃ",
+    "sentence":"na sayanagatassa agilānassa dhammaṃ desessāmī'ti sikkhā karaṇīyā.",
+    "pali":"na",
+    "pos":"ind",
+    "grammar":"neg",
+    "+case":0,
+    "meaning":"not",
+    "lit. meaning":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound type":0,
+    "compound construction":0
+  },
+  {
+    "abbrev":"SE 64",
+    "source":"sayanasikkhāpadaṃ",
+    "sentence":"na sayanagatassa agilānassa dhammaṃ desessāmī'ti sikkhā karaṇīyā.",
+    "pali":"sayanagatassa",
+    "pos":"noun",
+    "grammar":"masc dat sg of sayanagata",
+    "+case":"",
+    "meaning":"to a person lying down, to a person on a bed",
+    "lit. meaning":"to a person bed gone",
+    "root":"",
+    "base":"",
+    "construction":"sayana + gata",
+    "compound type":"kammadhāraya",
+    "compound construction":"sayana + gata"
+  },
+  {
+    "abbrev":"SE 64",
+    "source":"sayanasikkhāpadaṃ",
+    "sentence":"na sayanagatassa agilānassa dhammaṃ desessāmī'ti sikkhā karaṇīyā.",
+    "pali":"- sayana",
+    "pos":"noun",
+    "grammar":"nt",
+    "+case":"",
+    "meaning":"lying down, bed",
+    "lit. meaning":"",
+    "root":"√sī (lie, sleep)",
+    "base":"",
+    "construction":"√sī + *ana",
+    "compound type":"",
+    "compound construction":""
+  }
+]

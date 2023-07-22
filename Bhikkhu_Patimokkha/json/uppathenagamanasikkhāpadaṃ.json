@@ -1,0 +1,50 @@
+[
+  {
+    "abbrev":"SE 72",
+    "source":"uppathenagamanasikkhāpadaṃ",
+    "sentence":"na uppathena gacchanto pathena gacchantassa agilānassa dhammaṃ desessāmī'ti sikkhā karaṇīyā.",
+    "pali":"na",
+    "pos":"ind",
+    "grammar":"neg",
+    "+case":0,
+    "meaning":"not",
+    "lit. meaning":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound type":0,
+    "compound construction":0
+  },
+  {
+    "abbrev":"SE 72",
+    "source":"uppathenagamanasikkhāpadaṃ",
+    "sentence":"na uppathena gacchanto pathena gacchantassa agilānassa dhammaṃ desessāmī'ti sikkhā karaṇīyā.",
+    "pali":"uppathena",
+    "pos":"noun",
+    "grammar":"masc instr sg of uppatha",
+    "+case":"",
+    "meaning":"not on the road",
+    "lit. meaning":"by the up-road",
+    "root":"√path (go, move)",
+    "base":"",
+    "construction":"ud + √path + a",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"SE 72",
+    "source":"uppathenagamanasikkhāpadaṃ",
+    "sentence":"na uppathena gacchanto pathena gacchantassa agilānassa dhammaṃ desessāmī'ti sikkhā karaṇīyā.",
+    "pali":"pathena",
+    "pos":"noun",
+    "grammar":"masc instr sg of patha",
+    "+case":"",
+    "meaning":"on the road",
+    "lit. meaning":"by the road",
+    "root":"√path (go, move)",
+    "base":"",
+    "construction":"√path + a",
+    "compound type":"",
+    "compound construction":""
+  }
+]

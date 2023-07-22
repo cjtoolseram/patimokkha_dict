@@ -1,0 +1,50 @@
+[
+  {
+    "abbrev":"SE 47",
+    "source":"hatthaniddhunakasikkhāpadaṃ",
+    "sentence":"na hatthaniddhunakaṃ bhuñjissāmī'ti sikkhā karaṇīyā.",
+    "pali":"na",
+    "pos":"ind",
+    "grammar":"neg",
+    "+case":0,
+    "meaning":"not",
+    "lit. meaning":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound type":0,
+    "compound construction":0
+  },
+  {
+    "abbrev":"SE 47",
+    "source":"hatthaniddhunakasikkhāpadaṃ",
+    "sentence":"na hatthaniddhunakaṃ bhuñjissāmī'ti sikkhā karaṇīyā.",
+    "pali":"hatthaniddhunakaṃ",
+    "pos":"ind",
+    "grammar":"adv, nt acc sg of hatthaniddhunaka",
+    "+case":"",
+    "meaning":"shaking (food) off the hand",
+    "lit. meaning":"hand shaking off",
+    "root":"",
+    "base":"",
+    "construction":"hattha + niddhunaka + aṃ",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"SE 47",
+    "source":"hatthaniddhunakasikkhāpadaṃ",
+    "sentence":"na hatthaniddhunakaṃ bhuñjissāmī'ti sikkhā karaṇīyā.",
+    "pali":"- niddhunakaṃ",
+    "pos":"ind",
+    "grammar":"adv, nt acc sg of niddhunaka",
+    "+case":"",
+    "meaning":"shaking off",
+    "lit. meaning":"shaking away",
+    "root":"√dhū (shake, smoke)",
+    "base":"√dhū + nā > dhunā",
+    "construction":"nī + dhunā + aka + aṃ",
+    "compound type":"",
+    "compound construction":""
+  }
+]

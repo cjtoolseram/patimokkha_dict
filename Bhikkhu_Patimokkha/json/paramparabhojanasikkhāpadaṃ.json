@@ -1,0 +1,50 @@
+[
+  {
+    "abbrev":"PC 33",
+    "source":"paramparabhojanasikkhāpadaṃ",
+    "sentence":"paramparabhojane aññatra samayā pācittiyaṃ.",
+    "pali":"paramparabhojane",
+    "pos":"noun",
+    "grammar":"nt loc of paramparabhojana, comp",
+    "+case":"",
+    "meaning":"meals in succession; eating one meal before the other",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"paramparā + bhojana",
+    "compound type":"kammadhāraya",
+    "compound construction":"paramparā + bhojana"
+  },
+  {
+    "abbrev":"PC 33",
+    "source":"paramparabhojanasikkhāpadaṃ",
+    "sentence":"paramparabhojane aññatra samayā pācittiyaṃ. tatth'āyaṃ samayo, gilānasamayo, cīvaradānasamayo, cīvarakārasamayo, ayaṃ tattha samayo.",
+    "pali":"- parampara",
+    "pos":"adj",
+    "grammar":"nt, comp",
+    "+case":"",
+    "meaning":"in succession; one after another",
+    "lit. meaning":"next and next",
+    "root":"",
+    "base":"",
+    "construction":"paraṃ + parā",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"PC 33",
+    "source":"paramparabhojanasikkhāpadaṃ",
+    "sentence":"tatth'āyaṃ samayo, gilānasamayo, cīvaradānasamayo, cīvarakārasamayo, ayaṃ tattha samayo.",
+    "pali":"samayo",
+    "pos":"noun",
+    "grammar":"masc nom sg of samaya",
+    "+case":0,
+    "meaning":"the right time, proper occasion",
+    "lit. meaning":"come together",
+    "root":"√i (come, go)",
+    "base":0,
+    "construction":"saṃ + √i > ay + *a",
+    "compound type":0,
+    "compound construction":0
+  }
+]

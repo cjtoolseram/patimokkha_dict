@@ -1,0 +1,50 @@
+[
+  {
+    "abbrev":"SE 73",
+    "source":"hariteuccārasikkhāpadaṃ",
+    "sentence":"na harite agilāno uccāraṃ vā passāvaṃ vā kheḷaṃ vā karissāmī'ti sikkhā karaṇīyā.",
+    "pali":"passāvaṃ",
+    "pos":"noun",
+    "grammar":"masc acc sg of passāva",
+    "+case":"",
+    "meaning":"urine",
+    "lit. meaning":"flowing out",
+    "root":"√su (go, flow)",
+    "base":"",
+    "construction":"pa + √su  > sav + *a",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"SE 73",
+    "source":"hariteuccārasikkhāpadaṃ",
+    "sentence":"na harite agilāno uccāraṃ vā passāvaṃ vā kheḷaṃ vā karissāmī'ti sikkhā karaṇīyā.",
+    "pali":"na",
+    "pos":"ind",
+    "grammar":"neg",
+    "+case":0,
+    "meaning":"not",
+    "lit. meaning":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound type":0,
+    "compound construction":0
+  },
+  {
+    "abbrev":"SE 73",
+    "source":"hariteuccārasikkhāpadaṃ",
+    "sentence":"na harite agilāno uccāraṃ vā passāvaṃ vā kheḷaṃ vā karissāmī'ti sikkhā karaṇīyā.",
+    "pali":"harite",
+    "pos":"noun",
+    "grammar":"nt loc sg of harita",
+    "+case":"",
+    "meaning":"onto plants, on vegetables",
+    "lit. meaning":"greens",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
+  }
+]

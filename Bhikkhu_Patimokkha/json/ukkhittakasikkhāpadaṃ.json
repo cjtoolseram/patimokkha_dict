@@ -1,0 +1,50 @@
+[
+  {
+    "abbrev":"SE 9",
+    "source":"ukkhittakasikkhāpadaṃ",
+    "sentence":"na ukkhittakāya antaraghare gamissāmī'ti sikkhā karaṇīyā.",
+    "pali":"na",
+    "pos":"ind",
+    "grammar":"neg",
+    "+case":0,
+    "meaning":"not",
+    "lit. meaning":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound type":0,
+    "compound construction":0
+  },
+  {
+    "abbrev":"SE 9",
+    "source":"ukkhittakasikkhāpadaṃ",
+    "sentence":"na ukkhittakāya antaraghare gamissāmī'ti sikkhā karaṇīyā.",
+    "pali":"ukkhittakāya",
+    "pos":"adj",
+    "grammar":"fem instr sg of ukkhittaka",
+    "+case":"",
+    "meaning":"with (robe) lifted up",
+    "lit. meaning":"thrown up",
+    "root":"√khip (throw)",
+    "base":"",
+    "construction":"ud + √khip + ta + ka",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"SE 10",
+    "source":"ukkhittakasikkhāpadaṃ",
+    "sentence":"na ukkhittakāya antaraghare nisīdissāmīti sikkhā karaṇīyā.",
+    "pali":"na",
+    "pos":"ind",
+    "grammar":"neg",
+    "+case":0,
+    "meaning":"not",
+    "lit. meaning":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound type":0,
+    "compound construction":0
+  }
+]

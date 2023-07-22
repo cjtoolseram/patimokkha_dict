@@ -1,0 +1,50 @@
+[
+  {
+    "abbrev":"SE 29",
+    "source":"samasūpakapaṭiggahaṇasikkhāpadaṃ",
+    "sentence":"samasūpakaṃ piṇḍapātaṃ paṭiggahessāmī'ti sikkhā karaṇīyā.",
+    "pali":"samasūpakaṃ",
+    "pos":"adj",
+    "grammar":"masc acc sg of samasūpaka",
+    "+case":"",
+    "meaning":"with curry in the correct proportion, with right amount of dhal",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"sama + sūpaka",
+    "compound type":"kammadhāraya",
+    "compound construction":"sama + sūpaka"
+  },
+  {
+    "abbrev":"SE 29",
+    "source":"samasūpakapaṭiggahaṇasikkhāpadaṃ",
+    "sentence":"samasūpakaṃ piṇḍapātaṃ paṭiggahessāmī'ti sikkhā karaṇīyā.",
+    "pali":"- sama",
+    "pos":"adj",
+    "grammar":"",
+    "+case":"",
+    "meaning":"balance, even",
+    "lit. meaning":"level",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"SE 29",
+    "source":"samasūpakapaṭiggahaṇasikkhāpadaṃ",
+    "sentence":"samasūpakaṃ piṇḍapātaṃ paṭiggahessāmī'ti sikkhā karaṇīyā.",
+    "pali":"- sūpakaṃ",
+    "pos":"adj",
+    "grammar":"masc acc sg of sūpaka",
+    "+case":"",
+    "meaning":"related to dhal",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"sūpa + ka",
+    "compound type":"",
+    "compound construction":""
+  }
+]

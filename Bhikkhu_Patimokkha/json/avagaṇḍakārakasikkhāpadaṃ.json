@@ -1,0 +1,50 @@
+[
+  {
+    "abbrev":"SE 46",
+    "source":"avagaṇḍakārakasikkhāpadaṃ",
+    "sentence":"na avagaṇḍakārakaṃ bhuñjissāmī'ti sikkhā karaṇīyā.",
+    "pali":"na",
+    "pos":"ind",
+    "grammar":"neg",
+    "+case":0,
+    "meaning":"not",
+    "lit. meaning":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound type":0,
+    "compound construction":0
+  },
+  {
+    "abbrev":"SE 46",
+    "source":"avagaṇḍakārakasikkhāpadaṃ",
+    "sentence":"na avagaṇḍakārakaṃ bhuñjissāmī'ti sikkhā karaṇīyā.",
+    "pali":"avagaṇḍakārakaṃ",
+    "pos":"ind",
+    "grammar":"adv, nt acc sg of avagaṇḍakāraka",
+    "+case":"",
+    "meaning":"stuffing the cheeks",
+    "lit. meaning":"making a boil",
+    "root":"",
+    "base":"",
+    "construction":"avagaṇḍa + kāraka + aṃ",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"SE 46",
+    "source":"avagaṇḍakārakasikkhāpadaṃ",
+    "sentence":"na avagaṇḍakārakaṃ bhuñjissāmī'ti sikkhā karaṇīyā.",
+    "pali":"- avagaṇḍa",
+    "pos":"noun",
+    "grammar":"masc",
+    "+case":"",
+    "meaning":"swelling, stuffing",
+    "lit. meaning":"youth boil",
+    "root":"",
+    "base":"",
+    "construction":"yuva > ava + gaṇḍa",
+    "compound type":"",
+    "compound construction":""
+  }
+]

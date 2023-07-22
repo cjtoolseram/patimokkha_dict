@@ -1,0 +1,34 @@
+[
+  {
+    "abbrev":"SE 40",
+    "source":"ālopasikkhāpadaṃ",
+    "sentence":"parimaṇḍalaṃ ālopaṃ karissāmī'ti sikkhā karaṇīyā.",
+    "pali":"parimaṇḍalaṃ 2",
+    "pos":"adj",
+    "grammar":"masc acc sg of parimaṇḍala",
+    "+case":"",
+    "meaning":"circular; round; in circumference",
+    "lit. meaning":"circle all around",
+    "root":"",
+    "base":"",
+    "construction":"pari + maṇḍala",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"SE 40",
+    "source":"ālopasikkhāpadaṃ",
+    "sentence":"parimaṇḍalaṃ ālopaṃ karissāmī'ti sikkhā karaṇīyā.",
+    "pali":"ālopaṃ",
+    "pos":"noun",
+    "grammar":"masc acc sg of ālopa",
+    "+case":"",
+    "meaning":"lump, morsel",
+    "lit. meaning":"break off",
+    "root":"√lup (cut off, rob)",
+    "base":"",
+    "construction":"ā + √lup > lop + *a",
+    "compound type":"",
+    "compound construction":""
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "abbrev":"SE 74",
+    "source":"udakeuccārasikkhāpadaṃ",
+    "sentence":"na udake agilāno uccāraṃ vā passāvaṃ vā kheḷaṃ vā karissāmī'ti sikkhā karaṇīyā.",
+    "pali":"kheḷaṃ",
+    "pos":"noun",
+    "grammar":"masc acc sg of kheḷa",
+    "+case":"",
+    "meaning":"spit, saliva",
+    "lit. meaning":"",
+    "root":"",
+    "base":"",
+    "construction":"",
+    "compound type":"",
+    "compound construction":""
+  },
+  {
+    "abbrev":"SE 75",
+    "source":"udakeuccārasikkhāpadaṃ",
+    "sentence":"na udake agilāno uccāraṃ vā passāvaṃ vā kheḷaṃ vā karissāmīti sikkhā karaṇīyā.",
+    "pali":"na",
+    "pos":"ind",
+    "grammar":"neg",
+    "+case":0,
+    "meaning":"not",
+    "lit. meaning":0,
+    "root":0,
+    "base":0,
+    "construction":0,
+    "compound type":0,
+    "compound construction":0
+  }
+]
